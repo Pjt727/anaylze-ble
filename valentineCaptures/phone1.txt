@@ -1,0 +1,213 @@
+systime=1707960666 freq=2402 addr=8e89bed6 delta_t=4905.005 ms rssi=-87
+c3 0c 64 b0 81 74 8f 7e 0b 3f 2c ad 21 ef 53 db fb 
+Advertising / AA 8e89bed6 (valid)/ 12 bytes
+    Channel Index: 37
+    Type:  SCAN_REQ
+    ScanA: 7e:8f:74:81:b0:64 (random)
+    AdvA:  ef:21:ad:2c:3f:0b (random)
+
+    Data:  64 b0 81 74 8f 7e 0b 3f 2c ad 21 ef
+    CRC:   53 db fb
+
+systime=1707960668 freq=2402 addr=8e89bed6 delta_t=2000.719 ms rssi=-86
+c3 0c 64 b0 81 74 8f 7e 0b 3f 2c ad 21 ef 53 db fb 
+Advertising / AA 8e89bed6 (valid)/ 12 bytes
+    Channel Index: 37
+    Type:  SCAN_REQ
+    ScanA: 7e:8f:74:81:b0:64 (random)
+    AdvA:  ef:21:ad:2c:3f:0b (random)
+
+    Data:  64 b0 81 74 8f 7e 0b 3f 2c ad 21 ef
+    CRC:   53 db fb
+
+systime=1707960687 freq=2402 addr=8e89bed6 delta_t=19228.176 ms rssi=-104
+77 72 f1 21 5f d7 67 d8 89 11 bd ab 4f d4 04 da 4f db c6 4d 99 a0 bf 08 b4 5a b8 94 32 20 c4 63 db f9 9c 8a 85 41 98 60 27 0c 0c cb 38 12 
+Advertising / AA 8e89bed6 (valid)/ 50 bytes
+    Channel Index: 37
+    Type:  UNKNOWN
+
+    Data:  f1 21 5f d7 67 d8 89 11 bd ab 4f d4 04 da 4f db c6 4d 99 a0 bf 08 b4 5a b8 94 32 20 c4 63 db f9 9c 8a 85 41 98 60 27 0c 0c cb 38 12 e0 d4 2a e5 fd 7f
+    CRC:   00 00 e0
+
+systime=1707960707 freq=2402 addr=8e89bed6 delta_t=20013.136 ms rssi=-105
+28 33 99 91 d9 6d d3 59 74 7f 3e 4f 8a 6c f3 e2 47 22 e4 12 9f c3 cb 2f f5 e8 8b 26 b4 76 9c 8b d8 ae 2d 6f f8 1b 9b e5 47 03 75 9a e7 df 
+Advertising / AA 8e89bed6 (valid)/ 51 bytes
+    Channel Index: 37
+    Type:  UNKNOWN
+
+    Data:  99 91 d9 6d d3 59 74 7f 3e 4f 8a 6c f3 e2 47 22 e4 12 9f c3 cb 2f f5 e8 8b 26 b4 76 9c 8b d8 ae 2d 6f f8 1b 9b e5 47 03 75 9a e7 df e0 d4 2a e5 fd 7f 00
+    CRC:   00 40 94
+
+systime=1707960721 freq=2402 addr=8e89bed6 delta_t=13773.182 ms rssi=-104
+f2 db d3 96 5f a6 bf 0f 7e f8 5e 5c f7 04 68 23 7b 83 e7 e0 40 cc 53 5c 0a e9 cb 05 6b 44 a8 61 
+Advertising / AA 8e89bed6 (valid)/ 27 bytes
+    Channel Index: 37
+    Type:  ADV_NONCONN_IND
+    AdvA:  0f:bf:a6:5f:96:d3 (random)
+    AdvData: 7e f8 5e 5c f7 04 68 23 7b 83 e7 e0 40 cc 53 5c 0a e9 cb 05 6b
+Error: attempt to read past end of buffer (1 + 126 > 21)
+
+    Data:  d3 96 5f a6 bf 0f 7e f8 5e 5c f7 04 68 23 7b 83 e7 e0 40 cc 53 5c 0a e9 cb 05 6b
+    CRC:   44 a8 61
+
+systime=1707960729 freq=2402 addr=8e89bed6 delta_t=8214.421 ms rssi=-104
+ea d3 e9 2f 3f 1f 0a 30 e4 42 7d 44 fe 60 87 c2 42 01 5f d5 4f 6d cf 9b 
+Advertising / AA 8e89bed6 (valid)/ 19 bytes
+    Channel Index: 37
+    Type:  UNKNOWN
+
+    Data:  e9 2f 3f 1f 0a 30 e4 42 7d 44 fe 60 87 c2 42 01 5f d5 4f
+    CRC:   6d cf 9b
+
+systime=1707960732 freq=2402 addr=8e89bed6 delta_t=2768.552 ms rssi=-105
+53 e2 54 d5 97 9f 74 0d aa 16 51 b4 15 f0 14 d4 86 56 a8 00 a2 b2 73 f4 18 97 c4 3d 3b 43 e6 1e 51 2e 5a 79 f7 5f 3d 
+Advertising / AA 8e89bed6 (valid)/ 34 bytes
+    Channel Index: 37
+    Type:  SCAN_REQ
+    ScanA: 0d:74:9f:97:d5:54 (random)
+    AdvA:  f0:15:b4:51:16:aa (public)
+
+    Data:  54 d5 97 9f 74 0d aa 16 51 b4 15 f0 14 d4 86 56 a8 00 a2 b2 73 f4 18 97 c4 3d 3b 43 e6 1e 51 2e 5a 79
+    CRC:   f7 5f 3d
+
+systime=1707960748 freq=2402 addr=8e89bed6 delta_t=16304.361 ms rssi=-102
+bc 26 f3 61 1d 4b 45 0c e7 2e e9 d4 d9 0f 08 ea bd 96 ab e8 c4 01 b3 13 85 f9 08 1f 7d 3d 8c ae b4 74 1a ed e2 53 d8 75 7d 54 99 
+Advertising / AA 8e89bed6 (valid)/ 38 bytes
+    Channel Index: 37
+    Type:  UNKNOWN
+
+    Data:  f3 61 1d 4b 45 0c e7 2e e9 d4 d9 0f 08 ea bd 96 ab e8 c4 01 b3 13 85 f9 08 1f 7d 3d 8c ae b4 74 1a ed e2 53 d8 75
+    CRC:   7d 54 99
+
+systime=1707960751 freq=2402 addr=8e89bed6 delta_t=3279.887 ms rssi=-105
+8c ca a4 a6 3c f8 aa 3a b0 79 60 f1 fb 72 14 
+Advertising / AA 8e89bed6 (valid)/ 10 bytes
+    Channel Index: 37
+    Type:  UNKNOWN
+
+    Data:  a4 a6 3c f8 aa 3a b0 79 60 f1
+    CRC:   fb 72 14
+
+systime=1707960761 freq=2402 addr=8e89bed6 delta_t=9956.290 ms rssi=-103
+13 6d ef ae ba 47 9e 27 90 ba 1e 48 48 d6 e8 df 69 96 82 5e 9d 2e 13 f0 84 a4 ec b6 30 32 f8 96 6b b7 6a 6f 3b 79 fe 10 51 7c 05 4d de af 
+Advertising / AA 8e89bed6 (valid)/ 45 bytes
+    Channel Index: 37
+    Type:  SCAN_REQ
+    ScanA: 27:9e:47:ba:ae:ef (public)
+    AdvA:  d6:48:48:1e:ba:90 (public)
+
+    Data:  ef ae ba 47 9e 27 90 ba 1e 48 48 d6 e8 df 69 96 82 5e 9d 2e 13 f0 84 a4 ec b6 30 32 f8 96 6b b7 6a 6f 3b 79 fe 10 51 7c 05 4d de af e0
+    CRC:   d4 2a e5
+
+systime=1707960762 freq=2402 addr=8e89bed6 delta_t=258.394 ms rssi=-104
+ba c2 00 57 35 a7 dc 
+Advertising / AA 8e89bed6 (valid)/  2 bytes
+    Channel Index: 37
+    Type:  UNKNOWN
+
+    Data:  00 57
+    CRC:   35 a7 dc
+
+systime=1707960768 freq=2402 addr=8e89bed6 delta_t=6104.472 ms rssi=-103
+fe 70 00 19 c3 37 53 5b 72 8d b7 e0 a9 49 06 b3 f6 16 a3 33 23 44 cf e7 fe d7 ee 5a 50 6a 44 b6 30 cb f2 68 4b 51 cd 6a 48 73 84 96 1e 7b 
+Advertising / AA 8e89bed6 (valid)/ 48 bytes
+    Channel Index: 37
+    Type:  UNKNOWN
+
+    Data:  00 19 c3 37 53 5b 72 8d b7 e0 a9 49 06 b3 f6 16 a3 33 23 44 cf e7 fe d7 ee 5a 50 6a 44 b6 30 cb f2 68 4b 51 cd 6a 48 73 84 96 1e 7b e0 d4 2a e5
+    CRC:   fd 7f 00
+
+systime=1707960777 freq=2402 addr=8e89bed6 delta_t=9352.794 ms rssi=-104
+9c 44 e4 99 be 86 48 10 c8 
+Advertising / AA 8e89bed6 (valid)/  4 bytes
+    Channel Index: 37
+    Type:  UNKNOWN
+
+    Data:  e4 99 be 86
+    CRC:   48 10 c8
+
+systime=1707960802 freq=2402 addr=8e89bed6 delta_t=24561.973 ms rssi=-104
+b0 8e 06 19 30 c4 08 b5 94 79 10 14 a5 63 ca 65 74 df 14 
+Advertising / AA 8e89bed6 (valid)/ 14 bytes
+    Channel Index: 37
+    Type:  ADV_IND
+    AdvA:  b5:08:c4:30:19:06 (public)
+    AdvData: 94 79 10 14 a5 63 ca 65
+Error: attempt to read past end of buffer (1 + 148 > 8)
+
+    Data:  06 19 30 c4 08 b5 94 79 10 14 a5 63 ca 65
+    CRC:   74 df 14
+
+systime=1707960864 freq=2402 addr=8e89bed6 delta_t=62606.471 ms rssi=-102
+79 01 bb 89 1f 67 
+Advertising / AA 8e89bed6 (valid)/  1 bytes
+    Channel Index: 37
+    Type:  UNKNOWN
+
+    Data:  bb
+    CRC:   89 1f 67
+
+systime=1707960869 freq=2402 addr=8e89bed6 delta_t=4958.514 ms rssi=-104
+25 a9 ea b0 1d 53 39 56 b6 63 31 26 56 66 1e 3d fe 62 ae 08 8d 43 8f a3 36 a7 24 18 d2 d1 4e d6 6c d9 c1 74 e5 95 91 70 d9 88 39 20 db de 
+Advertising / AA 8e89bed6 (valid)/ 41 bytes
+    Channel Index: 37
+    Type:  CONNECT_REQ
+    InitA: 56:39:53:1d:b0:ea (public)
+    AdvA:  66:56:26:31:63:b6 (public)
+    AA:    62fe3d1e
+    CRCInit: 8d08ae
+    WinSize: 43 (67)
+    WinOffset: a38f (41871)
+    Interval: a736 (42806)
+    Latency: 1824 (6180)
+    Timeout: d1d2 (53714)
+    ChM: 4e d6 6c d9 c1
+    Hop: 20
+    SCA: 3, 76 ppm to 100 ppm
+
+    Data:  ea b0 1d 53 39 56 b6 63 31 26 56 66 1e 3d fe 62 ae 08 8d 43 8f a3 36 a7 24 18 d2 d1 4e d6 6c d9 c1 74 e5 95 91 70 d9 88 39
+    CRC:   20 db de
+
+systime=1707960882 freq=2402 addr=8e89bed6 delta_t=13179.118 ms rssi=-103
+ae 57 25 e6 20 ea 86 b9 95 c7 d2 4c 52 7c 80 4d 42 32 98 89 18 2a 3f 4a 76 7d 81 55 
+Advertising / AA 8e89bed6 (valid)/ 23 bytes
+    Channel Index: 37
+    Type:  UNKNOWN
+
+    Data:  25 e6 20 ea 86 b9 95 c7 d2 4c 52 7c 80 4d 42 32 98 89 18 2a 3f 4a 76
+    CRC:   7d 81 55
+
+systime=1707960904 freq=2402 addr=8e89bed6 delta_t=21316.321 ms rssi=-104
+13 e2 59 69 05 e2 07 03 e0 b7 2e 60 09 77 6c e2 95 eb 5b ef 6f 2a 10 78 72 87 1c 2e 3b 54 4f 6c d8 50 6a 78 cd e6 2d 
+Advertising / AA 8e89bed6 (valid)/ 34 bytes
+    Channel Index: 37
+    Type:  SCAN_REQ
+    ScanA: 03:07:e2:05:69:59 (public)
+    AdvA:  77:09:60:2e:b7:e0 (public)
+
+    Data:  59 69 05 e2 07 03 e0 b7 2e 60 09 77 6c e2 95 eb 5b ef 6f 2a 10 78 72 87 1c 2e 3b 54 4f 6c d8 50 6a 78
+    CRC:   cd e6 2d
+
+systime=1707960972 freq=2402 addr=8e89bed6 delta_t=68638.884 ms rssi=-103
+e2 67 ce 38 82 37 82 77 65 cb ce 01 89 37 fd 83 7a af 88 22 71 32 26 a5 c2 81 e7 33 cb 28 55 ab 1f ec 34 ac 0f 9f 7f 78 91 30 8a a6 
+Advertising / AA 8e89bed6 (valid)/ 39 bytes
+    Channel Index: 37
+    Type:  ADV_NONCONN_IND
+    AdvA:  77:82:37:82:38:ce (random)
+    AdvData: 65 cb ce 01 89 37 fd 83 7a af 88 22 71 32 26 a5 c2 81 e7 33 cb 28 55 ab 1f ec 34 ac 0f 9f 7f 78 91
+Error: attempt to read past end of buffer (1 + 101 > 33)
+
+    Data:  ce 38 82 37 82 77 65 cb ce 01 89 37 fd 83 7a af 88 22 71 32 26 a5 c2 81 e7 33 cb 28 55 ab 1f ec 34 ac 0f 9f 7f 78 91
+    CRC:   30 8a a6
+
+systime=1707960983 freq=2402 addr=8e89bed6 delta_t=10635.769 ms rssi=-105
+53 d0 57 9e 35 98 1e ac 7a 31 cd 39 6a 7b 66 3c 46 cc db 8d 16 
+Advertising / AA 8e89bed6 (valid)/ 16 bytes
+    Channel Index: 37
+    Type:  SCAN_REQ
+    ScanA: ac:1e:98:35:9e:57 (random)
+    AdvA:  7b:6a:39:cd:31:7a (public)
+
+    Data:  57 9e 35 98 1e ac 7a 31 cd 39 6a 7b 66 3c 46 cc
+    CRC:   db 8d 16
+

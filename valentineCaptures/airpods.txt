@@ -1,0 +1,3636 @@
+systime=1707957697 freq=2402 addr=8e89bed6 delta_t=2808.472 ms rssi=-80
+66 25 83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 34 fa b1 31 00 00 4d 12 05 c4 21 9a eb 39 71 f7 91 4c e8 e4 04 27 eb 5e ee 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_SCAN_IND
+    AdvA:  50:4d:4e:fc:32:83 (random)
+    AdvData: 1e ff 4c 00 07 19 01 14 20 34 fa b1 31 00 00 4d 12 05 c4 21 9a eb 39 71 f7 91 4c e8 e4 04 27
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 07 19 01 14 20 34 fa b1 31 00 00 4d 12 05 c4 21 9a eb 39 71 f7 91 4c e8 e4 04 27
+
+    Data:  83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 34 fa b1 31 00 00 4d 12 05 c4 21 9a eb 39 71 f7 91 4c e8 e4 04 27
+    CRC:   eb 5e ee
+
+systime=1707957697 freq=2402 addr=8e89bed6 delta_t=23.382 ms rssi=-80
+66 25 83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 34 fa b1 31 00 00 4d 12 05 c4 21 9a eb 39 71 f7 91 4c e8 e4 04 27 eb 5e ee 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_SCAN_IND
+    AdvA:  50:4d:4e:fc:32:83 (random)
+    AdvData: 1e ff 4c 00 07 19 01 14 20 34 fa b1 31 00 00 4d 12 05 c4 21 9a eb 39 71 f7 91 4c e8 e4 04 27
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 07 19 01 14 20 34 fa b1 31 00 00 4d 12 05 c4 21 9a eb 39 71 f7 91 4c e8 e4 04 27
+
+    Data:  83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 34 fa b1 31 00 00 4d 12 05 c4 21 9a eb 39 71 f7 91 4c e8 e4 04 27
+    CRC:   eb 5e ee
+
+systime=1707957697 freq=2402 addr=8e89bed6 delta_t=0.656 ms rssi=-76
+60 25 b8 dc 11 fb de e8 1e ff 4c 00 12 19 29 3d d7 10 6e da de 32 94 1d 59 ce b2 1a 2f 4b 6a 2a ea 2a a2 24 d3 02 5e 96 ab c7 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_IND
+    AdvA:  e8:de:fb:11:dc:b8 (random)
+    AdvData: 1e ff 4c 00 12 19 29 3d d7 10 6e da de 32 94 1d 59 ce b2 1a 2f 4b 6a 2a ea 2a a2 24 d3 02 5e
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 12 19 29 3d d7 10 6e da de 32 94 1d 59 ce b2 1a 2f 4b 6a 2a ea 2a a2 24 d3 02 5e
+
+    Data:  b8 dc 11 fb de e8 1e ff 4c 00 12 19 29 3d d7 10 6e da de 32 94 1d 59 ce b2 1a 2f 4b 6a 2a ea 2a a2 24 d3 02 5e
+    CRC:   96 ab c7
+
+systime=1707957697 freq=2402 addr=8e89bed6 delta_t=31.249 ms rssi=-82
+66 25 83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 34 fa b1 31 00 00 4d 12 05 c4 21 9a eb 39 71 f7 91 4c e8 e4 04 27 eb 5e ee 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_SCAN_IND
+    AdvA:  50:4d:4e:fc:32:83 (random)
+    AdvData: 1e ff 4c 00 07 19 01 14 20 34 fa b1 31 00 00 4d 12 05 c4 21 9a eb 39 71 f7 91 4c e8 e4 04 27
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 07 19 01 14 20 34 fa b1 31 00 00 4d 12 05 c4 21 9a eb 39 71 f7 91 4c e8 e4 04 27
+
+    Data:  83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 34 fa b1 31 00 00 4d 12 05 c4 21 9a eb 39 71 f7 91 4c e8 e4 04 27
+    CRC:   eb 5e ee
+
+systime=1707957697 freq=2402 addr=8e89bed6 delta_t=27.500 ms rssi=-79
+60 25 9e a6 e9 fe da ce 1e ff 4c 00 12 19 23 21 71 56 69 ef 98 6b d8 6d 64 7e c3 b7 f6 8a 3d 02 0c 0c 97 fd ca 00 34 34 8a 41 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_IND
+    AdvA:  ce:da:fe:e9:a6:9e (random)
+    AdvData: 1e ff 4c 00 12 19 23 21 71 56 69 ef 98 6b d8 6d 64 7e c3 b7 f6 8a 3d 02 0c 0c 97 fd ca 00 34
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 12 19 23 21 71 56 69 ef 98 6b d8 6d 64 7e c3 b7 f6 8a 3d 02 0c 0c 97 fd ca 00 34
+
+    Data:  9e a6 e9 fe da ce 1e ff 4c 00 12 19 23 21 71 56 69 ef 98 6b d8 6d 64 7e c3 b7 f6 8a 3d 02 0c 0c 97 fd ca 00 34
+    CRC:   34 8a 41
+
+systime=1707957697 freq=2402 addr=8e89bed6 delta_t=102.108 ms rssi=-80
+66 25 83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 34 fa b1 31 00 00 4d 12 05 c4 21 9a eb 39 71 f7 91 4c e8 e4 04 27 eb 5e ee 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_SCAN_IND
+    AdvA:  50:4d:4e:fc:32:83 (random)
+    AdvData: 1e ff 4c 00 07 19 01 14 20 34 fa b1 31 00 00 4d 12 05 c4 21 9a eb 39 71 f7 91 4c e8 e4 04 27
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 07 19 01 14 20 34 fa b1 31 00 00 4d 12 05 c4 21 9a eb 39 71 f7 91 4c e8 e4 04 27
+
+    Data:  83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 34 fa b1 31 00 00 4d 12 05 c4 21 9a eb 39 71 f7 91 4c e8 e4 04 27
+    CRC:   eb 5e ee
+
+systime=1707957697 freq=2402 addr=8e89bed6 delta_t=100.048 ms rssi=-82
+66 25 83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 34 fa b1 31 00 00 4d 12 05 c4 21 9a eb 39 71 f7 91 4c e8 e4 04 27 eb 5e ee 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_SCAN_IND
+    AdvA:  50:4d:4e:fc:32:83 (random)
+    AdvData: 1e ff 4c 00 07 19 01 14 20 34 fa b1 31 00 00 4d 12 05 c4 21 9a eb 39 71 f7 91 4c e8 e4 04 27
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 07 19 01 14 20 34 fa b1 31 00 00 4d 12 05 c4 21 9a eb 39 71 f7 91 4c e8 e4 04 27
+
+    Data:  83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 34 fa b1 31 00 00 4d 12 05 c4 21 9a eb 39 71 f7 91 4c e8 e4 04 27
+    CRC:   eb 5e ee
+
+systime=1707957697 freq=2402 addr=8e89bed6 delta_t=52.262 ms rssi=-81
+66 25 83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 34 fa b1 31 00 00 4d 12 05 c4 21 9a eb 39 71 f7 91 4c e8 e4 04 27 eb 5e ee 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_SCAN_IND
+    AdvA:  50:4d:4e:fc:32:83 (random)
+    AdvData: 1e ff 4c 00 07 19 01 14 20 34 fa b1 31 00 00 4d 12 05 c4 21 9a eb 39 71 f7 91 4c e8 e4 04 27
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 07 19 01 14 20 34 fa b1 31 00 00 4d 12 05 c4 21 9a eb 39 71 f7 91 4c e8 e4 04 27
+
+    Data:  83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 34 fa b1 31 00 00 4d 12 05 c4 21 9a eb 39 71 f7 91 4c e8 e4 04 27
+    CRC:   eb 5e ee
+
+systime=1707957697 freq=2402 addr=8e89bed6 delta_t=47.999 ms rssi=-87
+66 25 83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 34 fa b1 31 00 00 4d 12 05 c4 21 9a eb 39 71 f7 91 4c e8 e4 04 27 eb 5e ee 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_SCAN_IND
+    AdvA:  50:4d:4e:fc:32:83 (random)
+    AdvData: 1e ff 4c 00 07 19 01 14 20 34 fa b1 31 00 00 4d 12 05 c4 21 9a eb 39 71 f7 91 4c e8 e4 04 27
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 07 19 01 14 20 34 fa b1 31 00 00 4d 12 05 c4 21 9a eb 39 71 f7 91 4c e8 e4 04 27
+
+    Data:  83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 34 fa b1 31 00 00 4d 12 05 c4 21 9a eb 39 71 f7 91 4c e8 e4 04 27
+    CRC:   eb 5e ee
+
+systime=1707957697 freq=2402 addr=8e89bed6 delta_t=96.240 ms rssi=-87
+66 25 83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 34 fa b1 31 00 00 4d 12 05 c4 21 9a eb 39 71 f7 91 4c e8 e4 04 27 eb 5e ee 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_SCAN_IND
+    AdvA:  50:4d:4e:fc:32:83 (random)
+    AdvData: 1e ff 4c 00 07 19 01 14 20 34 fa b1 31 00 00 4d 12 05 c4 21 9a eb 39 71 f7 91 4c e8 e4 04 27
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 07 19 01 14 20 34 fa b1 31 00 00 4d 12 05 c4 21 9a eb 39 71 f7 91 4c e8 e4 04 27
+
+    Data:  83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 34 fa b1 31 00 00 4d 12 05 c4 21 9a eb 39 71 f7 91 4c e8 e4 04 27
+    CRC:   eb 5e ee
+
+systime=1707957697 freq=2402 addr=8e89bed6 delta_t=28.342 ms rssi=-86
+66 25 83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 34 fa b1 31 00 00 4d 12 05 c4 21 9a eb 39 71 f7 91 4c e8 e4 04 27 eb 5e ee 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_SCAN_IND
+    AdvA:  50:4d:4e:fc:32:83 (random)
+    AdvData: 1e ff 4c 00 07 19 01 14 20 34 fa b1 31 00 00 4d 12 05 c4 21 9a eb 39 71 f7 91 4c e8 e4 04 27
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 07 19 01 14 20 34 fa b1 31 00 00 4d 12 05 c4 21 9a eb 39 71 f7 91 4c e8 e4 04 27
+
+    Data:  83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 34 fa b1 31 00 00 4d 12 05 c4 21 9a eb 39 71 f7 91 4c e8 e4 04 27
+    CRC:   eb 5e ee
+
+systime=1707957697 freq=2402 addr=8e89bed6 delta_t=42.273 ms rssi=-86
+66 25 83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 34 fa b1 31 00 00 4d 12 05 c4 21 9a eb 39 71 f7 91 4c e8 e4 04 27 eb 5e ee 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_SCAN_IND
+    AdvA:  50:4d:4e:fc:32:83 (random)
+    AdvData: 1e ff 4c 00 07 19 01 14 20 34 fa b1 31 00 00 4d 12 05 c4 21 9a eb 39 71 f7 91 4c e8 e4 04 27
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 07 19 01 14 20 34 fa b1 31 00 00 4d 12 05 c4 21 9a eb 39 71 f7 91 4c e8 e4 04 27
+
+    Data:  83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 34 fa b1 31 00 00 4d 12 05 c4 21 9a eb 39 71 f7 91 4c e8 e4 04 27
+    CRC:   eb 5e ee
+
+systime=1707957697 freq=2402 addr=8e89bed6 delta_t=24.348 ms rssi=-82
+66 25 83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 34 fa b1 31 00 00 4d 12 05 c4 21 9a eb 39 71 f7 91 4c e8 e4 04 27 eb 5e ee 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_SCAN_IND
+    AdvA:  50:4d:4e:fc:32:83 (random)
+    AdvData: 1e ff 4c 00 07 19 01 14 20 34 fa b1 31 00 00 4d 12 05 c4 21 9a eb 39 71 f7 91 4c e8 e4 04 27
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 07 19 01 14 20 34 fa b1 31 00 00 4d 12 05 c4 21 9a eb 39 71 f7 91 4c e8 e4 04 27
+
+    Data:  83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 34 fa b1 31 00 00 4d 12 05 c4 21 9a eb 39 71 f7 91 4c e8 e4 04 27
+    CRC:   eb 5e ee
+
+systime=1707957697 freq=2402 addr=8e89bed6 delta_t=20.144 ms rssi=-86
+66 25 83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 34 fa b1 31 00 00 4d 12 05 c4 21 9a eb 39 71 f7 91 4c e8 e4 04 27 eb 5e ee 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_SCAN_IND
+    AdvA:  50:4d:4e:fc:32:83 (random)
+    AdvData: 1e ff 4c 00 07 19 01 14 20 34 fa b1 31 00 00 4d 12 05 c4 21 9a eb 39 71 f7 91 4c e8 e4 04 27
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 07 19 01 14 20 34 fa b1 31 00 00 4d 12 05 c4 21 9a eb 39 71 f7 91 4c e8 e4 04 27
+
+    Data:  83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 34 fa b1 31 00 00 4d 12 05 c4 21 9a eb 39 71 f7 91 4c e8 e4 04 27
+    CRC:   eb 5e ee
+
+systime=1707957697 freq=2402 addr=8e89bed6 delta_t=46.238 ms rssi=-80
+66 25 83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 25 fa b1 31 00 00 28 f1 db 8e dc 83 cc d8 21 b1 25 e8 69 39 e2 57 68 40 b3 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_SCAN_IND
+    AdvA:  50:4d:4e:fc:32:83 (random)
+    AdvData: 1e ff 4c 00 07 19 01 14 20 25 fa b1 31 00 00 28 f1 db 8e dc 83 cc d8 21 b1 25 e8 69 39 e2 57
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 07 19 01 14 20 25 fa b1 31 00 00 28 f1 db 8e dc 83 cc d8 21 b1 25 e8 69 39 e2 57
+
+    Data:  83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 25 fa b1 31 00 00 28 f1 db 8e dc 83 cc d8 21 b1 25 e8 69 39 e2 57
+    CRC:   68 40 b3
+
+systime=1707957697 freq=2402 addr=8e89bed6 delta_t=5.000 ms rssi=-80
+60 25 9e a6 e9 fe da ce 1e ff 4c 00 12 19 23 21 71 56 69 ef 98 6b d8 6d 64 7e c3 b7 f6 8a 3d 02 0c 0c 97 fd ca 00 34 34 8a 41 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_IND
+    AdvA:  ce:da:fe:e9:a6:9e (random)
+    AdvData: 1e ff 4c 00 12 19 23 21 71 56 69 ef 98 6b d8 6d 64 7e c3 b7 f6 8a 3d 02 0c 0c 97 fd ca 00 34
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 12 19 23 21 71 56 69 ef 98 6b d8 6d 64 7e c3 b7 f6 8a 3d 02 0c 0c 97 fd ca 00 34
+
+    Data:  9e a6 e9 fe da ce 1e ff 4c 00 12 19 23 21 71 56 69 ef 98 6b d8 6d 64 7e c3 b7 f6 8a 3d 02 0c 0c 97 fd ca 00 34
+    CRC:   34 8a 41
+
+systime=1707957697 freq=2402 addr=8e89bed6 delta_t=1.250 ms rssi=-78
+60 25 b8 dc 11 fb de e8 1e ff 4c 00 12 19 29 3d d7 10 6e da de 32 94 1d 59 ce b2 1a 2f 4b 6a 2a ea 2a a2 24 d3 02 5e 96 ab c7 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_IND
+    AdvA:  e8:de:fb:11:dc:b8 (random)
+    AdvData: 1e ff 4c 00 12 19 29 3d d7 10 6e da de 32 94 1d 59 ce b2 1a 2f 4b 6a 2a ea 2a a2 24 d3 02 5e
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 12 19 29 3d d7 10 6e da de 32 94 1d 59 ce b2 1a 2f 4b 6a 2a ea 2a a2 24 d3 02 5e
+
+    Data:  b8 dc 11 fb de e8 1e ff 4c 00 12 19 29 3d d7 10 6e da de 32 94 1d 59 ce b2 1a 2f 4b 6a 2a ea 2a a2 24 d3 02 5e
+    CRC:   96 ab c7
+
+systime=1707957697 freq=2402 addr=8e89bed6 delta_t=25.552 ms rssi=-78
+66 25 29 94 a0 0b a8 5f 1e ff 4c 00 07 19 01 14 20 55 fa b1 31 00 00 ec ce 3c 72 ed b4 7b 63 c5 77 73 07 85 be 1b 10 75 13 80 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_SCAN_IND
+    AdvA:  5f:a8:0b:a0:94:29 (random)
+    AdvData: 1e ff 4c 00 07 19 01 14 20 55 fa b1 31 00 00 ec ce 3c 72 ed b4 7b 63 c5 77 73 07 85 be 1b 10
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 07 19 01 14 20 55 fa b1 31 00 00 ec ce 3c 72 ed b4 7b 63 c5 77 73 07 85 be 1b 10
+
+    Data:  29 94 a0 0b a8 5f 1e ff 4c 00 07 19 01 14 20 55 fa b1 31 00 00 ec ce 3c 72 ed b4 7b 63 c5 77 73 07 85 be 1b 10
+    CRC:   75 13 80
+
+systime=1707957697 freq=2402 addr=8e89bed6 delta_t=30.388 ms rssi=-80
+66 25 83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 25 fa b1 31 00 00 28 f1 db 8e dc 83 cc d8 21 b1 25 e8 69 39 e2 57 68 40 b3 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_SCAN_IND
+    AdvA:  50:4d:4e:fc:32:83 (random)
+    AdvData: 1e ff 4c 00 07 19 01 14 20 25 fa b1 31 00 00 28 f1 db 8e dc 83 cc d8 21 b1 25 e8 69 39 e2 57
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 07 19 01 14 20 25 fa b1 31 00 00 28 f1 db 8e dc 83 cc d8 21 b1 25 e8 69 39 e2 57
+
+    Data:  83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 25 fa b1 31 00 00 28 f1 db 8e dc 83 cc d8 21 b1 25 e8 69 39 e2 57
+    CRC:   68 40 b3
+
+systime=1707957697 freq=2402 addr=8e89bed6 delta_t=22.283 ms rssi=-77
+66 25 29 94 a0 0b a8 5f 1e ff 4c 00 07 19 01 14 20 55 fa b1 31 00 00 ec ce 3c 72 ed b4 7b 63 c5 77 73 07 85 be 1b 10 75 13 80 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_SCAN_IND
+    AdvA:  5f:a8:0b:a0:94:29 (random)
+    AdvData: 1e ff 4c 00 07 19 01 14 20 55 fa b1 31 00 00 ec ce 3c 72 ed b4 7b 63 c5 77 73 07 85 be 1b 10
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 07 19 01 14 20 55 fa b1 31 00 00 ec ce 3c 72 ed b4 7b 63 c5 77 73 07 85 be 1b 10
+
+    Data:  29 94 a0 0b a8 5f 1e ff 4c 00 07 19 01 14 20 55 fa b1 31 00 00 ec ce 3c 72 ed b4 7b 63 c5 77 73 07 85 be 1b 10
+    CRC:   75 13 80
+
+systime=1707957697 freq=2402 addr=8e89bed6 delta_t=3.028 ms rssi=-80
+66 25 83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 25 aa b1 31 00 00 e0 44 1d b9 e4 50 2a 7b f0 8e d3 8b 5b c5 49 77 82 e7 47 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_SCAN_IND
+    AdvA:  50:4d:4e:fc:32:83 (random)
+    AdvData: 1e ff 4c 00 07 19 01 14 20 25 aa b1 31 00 00 e0 44 1d b9 e4 50 2a 7b f0 8e d3 8b 5b c5 49 77
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 07 19 01 14 20 25 aa b1 31 00 00 e0 44 1d b9 e4 50 2a 7b f0 8e d3 8b 5b c5 49 77
+
+    Data:  83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 25 aa b1 31 00 00 e0 44 1d b9 e4 50 2a 7b f0 8e d3 8b 5b c5 49 77
+    CRC:   82 e7 47
+
+systime=1707957697 freq=2402 addr=8e89bed6 delta_t=3.750 ms rssi=-82
+60 25 9e a6 e9 fe da ce 1e ff 4c 00 12 19 23 21 71 56 69 ef 98 6b d8 6d 64 7e c3 b7 f6 8a 3d 02 0c 0c 97 fd ca 00 34 34 8a 41 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_IND
+    AdvA:  ce:da:fe:e9:a6:9e (random)
+    AdvData: 1e ff 4c 00 12 19 23 21 71 56 69 ef 98 6b d8 6d 64 7e c3 b7 f6 8a 3d 02 0c 0c 97 fd ca 00 34
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 12 19 23 21 71 56 69 ef 98 6b d8 6d 64 7e c3 b7 f6 8a 3d 02 0c 0c 97 fd ca 00 34
+
+    Data:  9e a6 e9 fe da ce 1e ff 4c 00 12 19 23 21 71 56 69 ef 98 6b d8 6d 64 7e c3 b7 f6 8a 3d 02 0c 0c 97 fd ca 00 34
+    CRC:   34 8a 41
+
+systime=1707957697 freq=2402 addr=8e89bed6 delta_t=2.402 ms rssi=-86
+60 25 0b 3f 2c ad 21 ef 1e ff 4c 00 12 19 aa 26 40 1e a0 46 f2 3f 1f db 16 34 26 ff 73 4e 1d ee ab b1 36 1b 73 03 8d 40 f9 d0 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_IND
+    AdvA:  ef:21:ad:2c:3f:0b (random)
+    AdvData: 1e ff 4c 00 12 19 aa 26 40 1e a0 46 f2 3f 1f db 16 34 26 ff 73 4e 1d ee ab b1 36 1b 73 03 8d
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 12 19 aa 26 40 1e a0 46 f2 3f 1f db 16 34 26 ff 73 4e 1d ee ab b1 36 1b 73 03 8d
+
+    Data:  0b 3f 2c ad 21 ef 1e ff 4c 00 12 19 aa 26 40 1e a0 46 f2 3f 1f db 16 34 26 ff 73 4e 1d ee ab b1 36 1b 73 03 8d
+    CRC:   40 f9 d0
+
+systime=1707957697 freq=2402 addr=8e89bed6 delta_t=11.295 ms rssi=-80
+66 25 29 94 a0 0b a8 5f 1e ff 4c 00 07 19 01 14 20 55 fa b1 31 00 00 ec ce 3c 72 ed b4 7b 63 c5 77 73 07 85 be 1b 10 75 13 80 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_SCAN_IND
+    AdvA:  5f:a8:0b:a0:94:29 (random)
+    AdvData: 1e ff 4c 00 07 19 01 14 20 55 fa b1 31 00 00 ec ce 3c 72 ed b4 7b 63 c5 77 73 07 85 be 1b 10
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 07 19 01 14 20 55 fa b1 31 00 00 ec ce 3c 72 ed b4 7b 63 c5 77 73 07 85 be 1b 10
+
+    Data:  29 94 a0 0b a8 5f 1e ff 4c 00 07 19 01 14 20 55 fa b1 31 00 00 ec ce 3c 72 ed b4 7b 63 c5 77 73 07 85 be 1b 10
+    CRC:   75 13 80
+
+systime=1707957697 freq=2402 addr=8e89bed6 delta_t=33.222 ms rssi=-80
+66 25 83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 25 aa b1 31 00 00 e0 44 1d b9 e4 50 2a 7b f0 8e d3 8b 5b c5 49 77 82 e7 47 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_SCAN_IND
+    AdvA:  50:4d:4e:fc:32:83 (random)
+    AdvData: 1e ff 4c 00 07 19 01 14 20 25 aa b1 31 00 00 e0 44 1d b9 e4 50 2a 7b f0 8e d3 8b 5b c5 49 77
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 07 19 01 14 20 25 aa b1 31 00 00 e0 44 1d b9 e4 50 2a 7b f0 8e d3 8b 5b c5 49 77
+
+    Data:  83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 25 aa b1 31 00 00 e0 44 1d b9 e4 50 2a 7b f0 8e d3 8b 5b c5 49 77
+    CRC:   82 e7 47
+
+systime=1707957697 freq=2402 addr=8e89bed6 delta_t=27.625 ms rssi=-81
+66 25 83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 25 aa b1 31 00 00 e0 44 1d b9 e4 50 2a 7b f0 8e d3 8b 5b c5 49 77 82 e7 47 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_SCAN_IND
+    AdvA:  50:4d:4e:fc:32:83 (random)
+    AdvData: 1e ff 4c 00 07 19 01 14 20 25 aa b1 31 00 00 e0 44 1d b9 e4 50 2a 7b f0 8e d3 8b 5b c5 49 77
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 07 19 01 14 20 25 aa b1 31 00 00 e0 44 1d b9 e4 50 2a 7b f0 8e d3 8b 5b c5 49 77
+
+    Data:  83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 25 aa b1 31 00 00 e0 44 1d b9 e4 50 2a 7b f0 8e d3 8b 5b c5 49 77
+    CRC:   82 e7 47
+
+systime=1707957697 freq=2402 addr=8e89bed6 delta_t=37.956 ms rssi=-86
+66 25 83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 25 aa b1 31 00 00 05 e7 9e 88 29 3a 22 85 84 48 30 82 bf 3b d2 77 d2 f6 62 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_SCAN_IND
+    AdvA:  50:4d:4e:fc:32:83 (random)
+    AdvData: 1e ff 4c 00 07 19 01 14 20 25 aa b1 31 00 00 05 e7 9e 88 29 3a 22 85 84 48 30 82 bf 3b d2 77
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 07 19 01 14 20 25 aa b1 31 00 00 05 e7 9e 88 29 3a 22 85 84 48 30 82 bf 3b d2 77
+
+    Data:  83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 25 aa b1 31 00 00 05 e7 9e 88 29 3a 22 85 84 48 30 82 bf 3b d2 77
+    CRC:   d2 f6 62
+
+systime=1707957697 freq=2402 addr=8e89bed6 delta_t=5.000 ms rssi=-82
+60 25 9e a6 e9 fe da ce 1e ff 4c 00 12 19 23 21 71 56 69 ef 98 6b d8 6d 64 7e c3 b7 f6 8a 3d 02 0c 0c 97 fd ca 00 34 34 8a 41 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_IND
+    AdvA:  ce:da:fe:e9:a6:9e (random)
+    AdvData: 1e ff 4c 00 12 19 23 21 71 56 69 ef 98 6b d8 6d 64 7e c3 b7 f6 8a 3d 02 0c 0c 97 fd ca 00 34
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 12 19 23 21 71 56 69 ef 98 6b d8 6d 64 7e c3 b7 f6 8a 3d 02 0c 0c 97 fd ca 00 34
+
+    Data:  9e a6 e9 fe da ce 1e ff 4c 00 12 19 23 21 71 56 69 ef 98 6b d8 6d 64 7e c3 b7 f6 8a 3d 02 0c 0c 97 fd ca 00 34
+    CRC:   34 8a 41
+
+systime=1707957697 freq=2402 addr=8e89bed6 delta_t=17.045 ms rssi=-86
+66 25 83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 25 aa b1 31 00 00 05 e7 9e 88 29 3a 22 85 84 48 30 82 bf 3b d2 77 d2 f6 62 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_SCAN_IND
+    AdvA:  50:4d:4e:fc:32:83 (random)
+    AdvData: 1e ff 4c 00 07 19 01 14 20 25 aa b1 31 00 00 05 e7 9e 88 29 3a 22 85 84 48 30 82 bf 3b d2 77
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 07 19 01 14 20 25 aa b1 31 00 00 05 e7 9e 88 29 3a 22 85 84 48 30 82 bf 3b d2 77
+
+    Data:  83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 25 aa b1 31 00 00 05 e7 9e 88 29 3a 22 85 84 48 30 82 bf 3b d2 77
+    CRC:   d2 f6 62
+
+systime=1707957697 freq=2402 addr=8e89bed6 delta_t=37.955 ms rssi=-83
+66 25 83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 35 aa b1 31 00 00 cb 20 90 d2 6b eb b7 63 9e 8a 91 41 03 34 c6 8f 23 1f c1 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_SCAN_IND
+    AdvA:  50:4d:4e:fc:32:83 (random)
+    AdvData: 1e ff 4c 00 07 19 01 14 20 35 aa b1 31 00 00 cb 20 90 d2 6b eb b7 63 9e 8a 91 41 03 34 c6 8f
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 07 19 01 14 20 35 aa b1 31 00 00 cb 20 90 d2 6b eb b7 63 9e 8a 91 41 03 34 c6 8f
+
+    Data:  83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 35 aa b1 31 00 00 cb 20 90 d2 6b eb b7 63 9e 8a 91 41 03 34 c6 8f
+    CRC:   23 1f c1
+
+systime=1707957697 freq=2402 addr=8e89bed6 delta_t=5.000 ms rssi=-81
+60 25 9e a6 e9 fe da ce 1e ff 4c 00 12 19 23 21 71 56 69 ef 98 6b d8 6d 64 7e c3 b7 f6 8a 3d 02 0c 0c 97 fd ca 00 34 34 8a 41 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_IND
+    AdvA:  ce:da:fe:e9:a6:9e (random)
+    AdvData: 1e ff 4c 00 12 19 23 21 71 56 69 ef 98 6b d8 6d 64 7e c3 b7 f6 8a 3d 02 0c 0c 97 fd ca 00 34
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 12 19 23 21 71 56 69 ef 98 6b d8 6d 64 7e c3 b7 f6 8a 3d 02 0c 0c 97 fd ca 00 34
+
+    Data:  9e a6 e9 fe da ce 1e ff 4c 00 12 19 23 21 71 56 69 ef 98 6b d8 6d 64 7e c3 b7 f6 8a 3d 02 0c 0c 97 fd ca 00 34
+    CRC:   34 8a 41
+
+systime=1707957697 freq=2402 addr=8e89bed6 delta_t=1.251 ms rssi=-83
+66 25 29 94 a0 0b a8 5f 1e ff 4c 00 07 19 01 14 20 55 aa b1 31 00 00 fc 2a dd b9 dd 10 a3 c6 66 48 0d 47 8b d9 d8 43 c4 cb 94 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_SCAN_IND
+    AdvA:  5f:a8:0b:a0:94:29 (random)
+    AdvData: 1e ff 4c 00 07 19 01 14 20 55 aa b1 31 00 00 fc 2a dd b9 dd 10 a3 c6 66 48 0d 47 8b d9 d8 43
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 07 19 01 14 20 55 aa b1 31 00 00 fc 2a dd b9 dd 10 a3 c6 66 48 0d 47 8b d9 d8 43
+
+    Data:  29 94 a0 0b a8 5f 1e ff 4c 00 07 19 01 14 20 55 aa b1 31 00 00 fc 2a dd b9 dd 10 a3 c6 66 48 0d 47 8b d9 d8 43
+    CRC:   c4 cb 94
+
+systime=1707957698 freq=2402 addr=8e89bed6 delta_t=6.250 ms rssi=-83
+60 25 b8 dc 11 fb de e8 1e ff 4c 00 12 19 29 3d d7 10 6e da de 32 94 1d 59 ce b2 1a 2f 4b 6a 2a ea 2a a2 24 d3 02 5e 96 ab c7 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_IND
+    AdvA:  e8:de:fb:11:dc:b8 (random)
+    AdvData: 1e ff 4c 00 12 19 29 3d d7 10 6e da de 32 94 1d 59 ce b2 1a 2f 4b 6a 2a ea 2a a2 24 d3 02 5e
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 12 19 29 3d d7 10 6e da de 32 94 1d 59 ce b2 1a 2f 4b 6a 2a ea 2a a2 24 d3 02 5e
+
+    Data:  b8 dc 11 fb de e8 1e ff 4c 00 12 19 29 3d d7 10 6e da de 32 94 1d 59 ce b2 1a 2f 4b 6a 2a ea 2a a2 24 d3 02 5e
+    CRC:   96 ab c7
+
+systime=1707957698 freq=2402 addr=8e89bed6 delta_t=24.810 ms rssi=-78
+66 25 29 94 a0 0b a8 5f 1e ff 4c 00 07 19 01 14 20 55 aa b1 31 00 00 fc 2a dd b9 dd 10 a3 c6 66 48 0d 47 8b d9 d8 43 c4 cb 94 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_SCAN_IND
+    AdvA:  5f:a8:0b:a0:94:29 (random)
+    AdvData: 1e ff 4c 00 07 19 01 14 20 55 aa b1 31 00 00 fc 2a dd b9 dd 10 a3 c6 66 48 0d 47 8b d9 d8 43
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 07 19 01 14 20 55 aa b1 31 00 00 fc 2a dd b9 dd 10 a3 c6 66 48 0d 47 8b d9 d8 43
+
+    Data:  29 94 a0 0b a8 5f 1e ff 4c 00 07 19 01 14 20 55 aa b1 31 00 00 fc 2a dd b9 dd 10 a3 c6 66 48 0d 47 8b d9 d8 43
+    CRC:   c4 cb 94
+
+systime=1707957698 freq=2402 addr=8e89bed6 delta_t=12.454 ms rssi=-82
+66 25 83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 35 aa b1 31 00 00 cb 20 90 d2 6b eb b7 63 9e 8a 91 41 03 34 c6 8f 23 1f c1 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_SCAN_IND
+    AdvA:  50:4d:4e:fc:32:83 (random)
+    AdvData: 1e ff 4c 00 07 19 01 14 20 35 aa b1 31 00 00 cb 20 90 d2 6b eb b7 63 9e 8a 91 41 03 34 c6 8f
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 07 19 01 14 20 35 aa b1 31 00 00 cb 20 90 d2 6b eb b7 63 9e 8a 91 41 03 34 c6 8f
+
+    Data:  83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 35 aa b1 31 00 00 cb 20 90 d2 6b eb b7 63 9e 8a 91 41 03 34 c6 8f
+    CRC:   23 1f c1
+
+systime=1707957698 freq=2402 addr=8e89bed6 delta_t=12.042 ms rssi=-83
+66 25 29 94 a0 0b a8 5f 1e ff 4c 00 07 19 01 14 20 55 aa b1 31 00 00 fc 2a dd b9 dd 10 a3 c6 66 48 0d 47 8b d9 d8 43 c4 cb 94 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_SCAN_IND
+    AdvA:  5f:a8:0b:a0:94:29 (random)
+    AdvData: 1e ff 4c 00 07 19 01 14 20 55 aa b1 31 00 00 fc 2a dd b9 dd 10 a3 c6 66 48 0d 47 8b d9 d8 43
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 07 19 01 14 20 55 aa b1 31 00 00 fc 2a dd b9 dd 10 a3 c6 66 48 0d 47 8b d9 d8 43
+
+    Data:  29 94 a0 0b a8 5f 1e ff 4c 00 07 19 01 14 20 55 aa b1 31 00 00 fc 2a dd b9 dd 10 a3 c6 66 48 0d 47 8b d9 d8 43
+    CRC:   c4 cb 94
+
+systime=1707957698 freq=2402 addr=8e89bed6 delta_t=15.691 ms rssi=-81
+66 25 83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 35 aa b1 31 00 00 cb 20 90 d2 6b eb b7 63 9e 8a 91 41 03 34 c6 8f 23 1f c1 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_SCAN_IND
+    AdvA:  50:4d:4e:fc:32:83 (random)
+    AdvData: 1e ff 4c 00 07 19 01 14 20 35 aa b1 31 00 00 cb 20 90 d2 6b eb b7 63 9e 8a 91 41 03 34 c6 8f
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 07 19 01 14 20 35 aa b1 31 00 00 cb 20 90 d2 6b eb b7 63 9e 8a 91 41 03 34 c6 8f
+
+    Data:  83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 35 aa b1 31 00 00 cb 20 90 d2 6b eb b7 63 9e 8a 91 41 03 34 c6 8f
+    CRC:   23 1f c1
+
+systime=1707957698 freq=2402 addr=8e89bed6 delta_t=41.931 ms rssi=-78
+66 25 29 94 a0 0b a8 5f 1e ff 4c 00 07 19 01 14 20 55 aa b1 31 00 00 fc 2a dd b9 dd 10 a3 c6 66 48 0d 47 8b d9 d8 43 c4 cb 94 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_SCAN_IND
+    AdvA:  5f:a8:0b:a0:94:29 (random)
+    AdvData: 1e ff 4c 00 07 19 01 14 20 55 aa b1 31 00 00 fc 2a dd b9 dd 10 a3 c6 66 48 0d 47 8b d9 d8 43
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 07 19 01 14 20 55 aa b1 31 00 00 fc 2a dd b9 dd 10 a3 c6 66 48 0d 47 8b d9 d8 43
+
+    Data:  29 94 a0 0b a8 5f 1e ff 4c 00 07 19 01 14 20 55 aa b1 31 00 00 fc 2a dd b9 dd 10 a3 c6 66 48 0d 47 8b d9 d8 43
+    CRC:   c4 cb 94
+
+systime=1707957698 freq=2402 addr=8e89bed6 delta_t=12.591 ms rssi=-81
+66 25 83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 35 aa b1 31 00 00 cb 20 90 d2 6b eb b7 63 9e 8a 91 41 03 34 c6 8f 23 1f c1 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_SCAN_IND
+    AdvA:  50:4d:4e:fc:32:83 (random)
+    AdvData: 1e ff 4c 00 07 19 01 14 20 35 aa b1 31 00 00 cb 20 90 d2 6b eb b7 63 9e 8a 91 41 03 34 c6 8f
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 07 19 01 14 20 35 aa b1 31 00 00 cb 20 90 d2 6b eb b7 63 9e 8a 91 41 03 34 c6 8f
+
+    Data:  83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 35 aa b1 31 00 00 cb 20 90 d2 6b eb b7 63 9e 8a 91 41 03 34 c6 8f
+    CRC:   23 1f c1
+
+systime=1707957698 freq=2402 addr=8e89bed6 delta_t=12.715 ms rssi=-78
+66 25 29 94 a0 0b a8 5f 1e ff 4c 00 07 19 01 14 20 55 aa b1 31 00 00 fc 2a dd b9 dd 10 a3 c6 66 48 0d 47 8b d9 d8 43 c4 cb 94 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_SCAN_IND
+    AdvA:  5f:a8:0b:a0:94:29 (random)
+    AdvData: 1e ff 4c 00 07 19 01 14 20 55 aa b1 31 00 00 fc 2a dd b9 dd 10 a3 c6 66 48 0d 47 8b d9 d8 43
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 07 19 01 14 20 55 aa b1 31 00 00 fc 2a dd b9 dd 10 a3 c6 66 48 0d 47 8b d9 d8 43
+
+    Data:  29 94 a0 0b a8 5f 1e ff 4c 00 07 19 01 14 20 55 aa b1 31 00 00 fc 2a dd b9 dd 10 a3 c6 66 48 0d 47 8b d9 d8 43
+    CRC:   c4 cb 94
+
+systime=1707957698 freq=2402 addr=8e89bed6 delta_t=32.816 ms rssi=-80
+66 25 83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 35 aa b1 31 00 00 cb 20 90 d2 6b eb b7 63 9e 8a 91 41 03 34 c6 8f 23 1f c1 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_SCAN_IND
+    AdvA:  50:4d:4e:fc:32:83 (random)
+    AdvData: 1e ff 4c 00 07 19 01 14 20 35 aa b1 31 00 00 cb 20 90 d2 6b eb b7 63 9e 8a 91 41 03 34 c6 8f
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 07 19 01 14 20 35 aa b1 31 00 00 cb 20 90 d2 6b eb b7 63 9e 8a 91 41 03 34 c6 8f
+
+    Data:  83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 35 aa b1 31 00 00 cb 20 90 d2 6b eb b7 63 9e 8a 91 41 03 34 c6 8f
+    CRC:   23 1f c1
+
+systime=1707957698 freq=2402 addr=8e89bed6 delta_t=13.700 ms rssi=-84
+66 25 29 94 a0 0b a8 5f 1e ff 4c 00 07 19 01 14 20 55 aa b1 31 00 00 08 a4 79 93 8a 2e ae a8 e8 70 af 74 58 79 37 ee 00 0d 03 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_SCAN_IND
+    AdvA:  5f:a8:0b:a0:94:29 (random)
+    AdvData: 1e ff 4c 00 07 19 01 14 20 55 aa b1 31 00 00 08 a4 79 93 8a 2e ae a8 e8 70 af 74 58 79 37 ee
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 07 19 01 14 20 55 aa b1 31 00 00 08 a4 79 93 8a 2e ae a8 e8 70 af 74 58 79 37 ee
+
+    Data:  29 94 a0 0b a8 5f 1e ff 4c 00 07 19 01 14 20 55 aa b1 31 00 00 08 a4 79 93 8a 2e ae a8 e8 70 af 74 58 79 37 ee
+    CRC:   00 0d 03
+
+systime=1707957698 freq=2402 addr=8e89bed6 delta_t=5.000 ms rssi=-78
+60 25 b8 dc 11 fb de e8 1e ff 4c 00 12 19 29 3d d7 10 6e da de 32 94 1d 59 ce b2 1a 2f 4b 6a 2a ea 2a a2 24 d3 02 5e 96 ab c7 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_IND
+    AdvA:  e8:de:fb:11:dc:b8 (random)
+    AdvData: 1e ff 4c 00 12 19 29 3d d7 10 6e da de 32 94 1d 59 ce b2 1a 2f 4b 6a 2a ea 2a a2 24 d3 02 5e
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 12 19 29 3d d7 10 6e da de 32 94 1d 59 ce b2 1a 2f 4b 6a 2a ea 2a a2 24 d3 02 5e
+
+    Data:  b8 dc 11 fb de e8 1e ff 4c 00 12 19 29 3d d7 10 6e da de 32 94 1d 59 ce b2 1a 2f 4b 6a 2a ea 2a a2 24 d3 02 5e
+    CRC:   96 ab c7
+
+systime=1707957698 freq=2402 addr=8e89bed6 delta_t=20.981 ms rssi=-87
+66 25 83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 35 aa b1 31 00 00 cb 20 90 d2 6b eb b7 63 9e 8a 91 41 03 34 c6 8f 23 1f c1 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_SCAN_IND
+    AdvA:  50:4d:4e:fc:32:83 (random)
+    AdvData: 1e ff 4c 00 07 19 01 14 20 35 aa b1 31 00 00 cb 20 90 d2 6b eb b7 63 9e 8a 91 41 03 34 c6 8f
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 07 19 01 14 20 35 aa b1 31 00 00 cb 20 90 d2 6b eb b7 63 9e 8a 91 41 03 34 c6 8f
+
+    Data:  83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 35 aa b1 31 00 00 cb 20 90 d2 6b eb b7 63 9e 8a 91 41 03 34 c6 8f
+    CRC:   23 1f c1
+
+systime=1707957698 freq=2402 addr=8e89bed6 delta_t=2.769 ms rssi=-84
+66 25 29 94 a0 0b a8 5f 1e ff 4c 00 07 19 01 14 20 55 aa b1 31 00 00 b5 b1 80 be d8 ef 5a ae 83 f4 3d 45 e7 3f bb 6f 45 dd ff 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_SCAN_IND
+    AdvA:  5f:a8:0b:a0:94:29 (random)
+    AdvData: 1e ff 4c 00 07 19 01 14 20 55 aa b1 31 00 00 b5 b1 80 be d8 ef 5a ae 83 f4 3d 45 e7 3f bb 6f
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 07 19 01 14 20 55 aa b1 31 00 00 b5 b1 80 be d8 ef 5a ae 83 f4 3d 45 e7 3f bb 6f
+
+    Data:  29 94 a0 0b a8 5f 1e ff 4c 00 07 19 01 14 20 55 aa b1 31 00 00 b5 b1 80 be d8 ef 5a ae 83 f4 3d 45 e7 3f bb 6f
+    CRC:   45 dd ff
+
+systime=1707957698 freq=2402 addr=8e89bed6 delta_t=5.000 ms rssi=-78
+60 25 b8 dc 11 fb de e8 1e ff 4c 00 12 19 29 3d d7 10 6e da de 32 94 1d 59 ce b2 1a 2f 4b 6a 2a ea 2a a2 24 d3 02 5e 96 ab c7 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_IND
+    AdvA:  e8:de:fb:11:dc:b8 (random)
+    AdvData: 1e ff 4c 00 12 19 29 3d d7 10 6e da de 32 94 1d 59 ce b2 1a 2f 4b 6a 2a ea 2a a2 24 d3 02 5e
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 12 19 29 3d d7 10 6e da de 32 94 1d 59 ce b2 1a 2f 4b 6a 2a ea 2a a2 24 d3 02 5e
+
+    Data:  b8 dc 11 fb de e8 1e ff 4c 00 12 19 29 3d d7 10 6e da de 32 94 1d 59 ce b2 1a 2f 4b 6a 2a ea 2a a2 24 d3 02 5e
+    CRC:   96 ab c7
+
+systime=1707957698 freq=2402 addr=8e89bed6 delta_t=6.832 ms rssi=-87
+66 25 83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 35 aa b1 31 00 00 cb 20 90 d2 6b eb b7 63 9e 8a 91 41 03 34 c6 8f 23 1f c1 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_SCAN_IND
+    AdvA:  50:4d:4e:fc:32:83 (random)
+    AdvData: 1e ff 4c 00 07 19 01 14 20 35 aa b1 31 00 00 cb 20 90 d2 6b eb b7 63 9e 8a 91 41 03 34 c6 8f
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 07 19 01 14 20 35 aa b1 31 00 00 cb 20 90 d2 6b eb b7 63 9e 8a 91 41 03 34 c6 8f
+
+    Data:  83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 35 aa b1 31 00 00 cb 20 90 d2 6b eb b7 63 9e 8a 91 41 03 34 c6 8f
+    CRC:   23 1f c1
+
+systime=1707957698 freq=2402 addr=8e89bed6 delta_t=10.341 ms rssi=-79
+66 25 29 94 a0 0b a8 5f 1e ff 4c 00 07 19 01 14 20 55 aa b1 31 00 00 b5 b1 80 be d8 ef 5a ae 83 f4 3d 45 e7 3f bb 6f 45 dd ff 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_SCAN_IND
+    AdvA:  5f:a8:0b:a0:94:29 (random)
+    AdvData: 1e ff 4c 00 07 19 01 14 20 55 aa b1 31 00 00 b5 b1 80 be d8 ef 5a ae 83 f4 3d 45 e7 3f bb 6f
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 07 19 01 14 20 55 aa b1 31 00 00 b5 b1 80 be d8 ef 5a ae 83 f4 3d 45 e7 3f bb 6f
+
+    Data:  29 94 a0 0b a8 5f 1e ff 4c 00 07 19 01 14 20 55 aa b1 31 00 00 b5 b1 80 be d8 ef 5a ae 83 f4 3d 45 e7 3f bb 6f
+    CRC:   45 dd ff
+
+systime=1707957698 freq=2402 addr=8e89bed6 delta_t=17.560 ms rssi=-87
+66 25 83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 35 aa b1 31 00 00 cb 20 90 d2 6b eb b7 63 9e 8a 91 41 03 34 c6 8f 23 1f c1 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_SCAN_IND
+    AdvA:  50:4d:4e:fc:32:83 (random)
+    AdvData: 1e ff 4c 00 07 19 01 14 20 35 aa b1 31 00 00 cb 20 90 d2 6b eb b7 63 9e 8a 91 41 03 34 c6 8f
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 07 19 01 14 20 35 aa b1 31 00 00 cb 20 90 d2 6b eb b7 63 9e 8a 91 41 03 34 c6 8f
+
+    Data:  83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 35 aa b1 31 00 00 cb 20 90 d2 6b eb b7 63 9e 8a 91 41 03 34 c6 8f
+    CRC:   23 1f c1
+
+systime=1707957698 freq=2402 addr=8e89bed6 delta_t=6.305 ms rssi=-78
+66 25 29 94 a0 0b a8 5f 1e ff 4c 00 07 19 01 14 20 55 aa b1 31 00 00 b5 b1 80 be d8 ef 5a ae 83 f4 3d 45 e7 3f bb 6f 45 dd ff 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_SCAN_IND
+    AdvA:  5f:a8:0b:a0:94:29 (random)
+    AdvData: 1e ff 4c 00 07 19 01 14 20 55 aa b1 31 00 00 b5 b1 80 be d8 ef 5a ae 83 f4 3d 45 e7 3f bb 6f
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 07 19 01 14 20 55 aa b1 31 00 00 b5 b1 80 be d8 ef 5a ae 83 f4 3d 45 e7 3f bb 6f
+
+    Data:  29 94 a0 0b a8 5f 1e ff 4c 00 07 19 01 14 20 55 aa b1 31 00 00 b5 b1 80 be d8 ef 5a ae 83 f4 3d 45 e7 3f bb 6f
+    CRC:   45 dd ff
+
+systime=1707957698 freq=2402 addr=8e89bed6 delta_t=25.083 ms rssi=-77
+66 25 29 94 a0 0b a8 5f 1e ff 4c 00 07 19 01 14 20 55 aa b1 31 00 00 b5 b1 80 be d8 ef 5a ae 83 f4 3d 45 e7 3f bb 6f 45 dd ff 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_SCAN_IND
+    AdvA:  5f:a8:0b:a0:94:29 (random)
+    AdvData: 1e ff 4c 00 07 19 01 14 20 55 aa b1 31 00 00 b5 b1 80 be d8 ef 5a ae 83 f4 3d 45 e7 3f bb 6f
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 07 19 01 14 20 55 aa b1 31 00 00 b5 b1 80 be d8 ef 5a ae 83 f4 3d 45 e7 3f bb 6f
+
+    Data:  29 94 a0 0b a8 5f 1e ff 4c 00 07 19 01 14 20 55 aa b1 31 00 00 b5 b1 80 be d8 ef 5a ae 83 f4 3d 45 e7 3f bb 6f
+    CRC:   45 dd ff
+
+systime=1707957698 freq=2402 addr=8e89bed6 delta_t=23.218 ms rssi=-83
+66 25 29 94 a0 0b a8 5f 1e ff 4c 00 07 19 01 14 20 55 aa b1 31 00 00 b5 b1 80 be d8 ef 5a ae 83 f4 3d 45 e7 3f bb 6f 45 dd ff 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_SCAN_IND
+    AdvA:  5f:a8:0b:a0:94:29 (random)
+    AdvData: 1e ff 4c 00 07 19 01 14 20 55 aa b1 31 00 00 b5 b1 80 be d8 ef 5a ae 83 f4 3d 45 e7 3f bb 6f
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 07 19 01 14 20 55 aa b1 31 00 00 b5 b1 80 be d8 ef 5a ae 83 f4 3d 45 e7 3f bb 6f
+
+    Data:  29 94 a0 0b a8 5f 1e ff 4c 00 07 19 01 14 20 55 aa b1 31 00 00 b5 b1 80 be d8 ef 5a ae 83 f4 3d 45 e7 3f bb 6f
+    CRC:   45 dd ff
+
+systime=1707957698 freq=2402 addr=8e89bed6 delta_t=16.714 ms rssi=-88
+66 25 83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 35 aa b1 31 00 00 cb 20 90 d2 6b eb b7 63 9e 8a 91 41 03 34 c6 8f 23 1f c1 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_SCAN_IND
+    AdvA:  50:4d:4e:fc:32:83 (random)
+    AdvData: 1e ff 4c 00 07 19 01 14 20 35 aa b1 31 00 00 cb 20 90 d2 6b eb b7 63 9e 8a 91 41 03 34 c6 8f
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 07 19 01 14 20 35 aa b1 31 00 00 cb 20 90 d2 6b eb b7 63 9e 8a 91 41 03 34 c6 8f
+
+    Data:  83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 35 aa b1 31 00 00 cb 20 90 d2 6b eb b7 63 9e 8a 91 41 03 34 c6 8f
+    CRC:   23 1f c1
+
+systime=1707957698 freq=2402 addr=8e89bed6 delta_t=15.203 ms rssi=-88
+66 25 83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 35 aa b1 31 00 00 cb 20 90 d2 6b eb b7 63 9e 8a 91 41 03 34 c6 8f 23 1f c1 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_SCAN_IND
+    AdvA:  50:4d:4e:fc:32:83 (random)
+    AdvData: 1e ff 4c 00 07 19 01 14 20 35 aa b1 31 00 00 cb 20 90 d2 6b eb b7 63 9e 8a 91 41 03 34 c6 8f
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 07 19 01 14 20 35 aa b1 31 00 00 cb 20 90 d2 6b eb b7 63 9e 8a 91 41 03 34 c6 8f
+
+    Data:  83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 35 aa b1 31 00 00 cb 20 90 d2 6b eb b7 63 9e 8a 91 41 03 34 c6 8f
+    CRC:   23 1f c1
+
+systime=1707957698 freq=2402 addr=8e89bed6 delta_t=15.791 ms rssi=-83
+66 25 29 94 a0 0b a8 5f 1e ff 4c 00 07 19 01 14 20 55 aa b1 31 00 00 b5 b1 80 be d8 ef 5a ae 83 f4 3d 45 e7 3f bb 6f 45 dd ff 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_SCAN_IND
+    AdvA:  5f:a8:0b:a0:94:29 (random)
+    AdvData: 1e ff 4c 00 07 19 01 14 20 55 aa b1 31 00 00 b5 b1 80 be d8 ef 5a ae 83 f4 3d 45 e7 3f bb 6f
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 07 19 01 14 20 55 aa b1 31 00 00 b5 b1 80 be d8 ef 5a ae 83 f4 3d 45 e7 3f bb 6f
+
+    Data:  29 94 a0 0b a8 5f 1e ff 4c 00 07 19 01 14 20 55 aa b1 31 00 00 b5 b1 80 be d8 ef 5a ae 83 f4 3d 45 e7 3f bb 6f
+    CRC:   45 dd ff
+
+systime=1707957698 freq=2402 addr=8e89bed6 delta_t=11.639 ms rssi=-88
+66 25 83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 35 aa b1 31 00 00 cb 20 90 d2 6b eb b7 63 9e 8a 91 41 03 34 c6 8f 23 1f c1 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_SCAN_IND
+    AdvA:  50:4d:4e:fc:32:83 (random)
+    AdvData: 1e ff 4c 00 07 19 01 14 20 35 aa b1 31 00 00 cb 20 90 d2 6b eb b7 63 9e 8a 91 41 03 34 c6 8f
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 07 19 01 14 20 35 aa b1 31 00 00 cb 20 90 d2 6b eb b7 63 9e 8a 91 41 03 34 c6 8f
+
+    Data:  83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 35 aa b1 31 00 00 cb 20 90 d2 6b eb b7 63 9e 8a 91 41 03 34 c6 8f
+    CRC:   23 1f c1
+
+systime=1707957698 freq=2402 addr=8e89bed6 delta_t=12.008 ms rssi=-76
+66 25 29 94 a0 0b a8 5f 1e ff 4c 00 07 19 01 14 20 55 aa b1 31 00 00 b5 b1 80 be d8 ef 5a ae 83 f4 3d 45 e7 3f bb 6f 45 dd ff 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_SCAN_IND
+    AdvA:  5f:a8:0b:a0:94:29 (random)
+    AdvData: 1e ff 4c 00 07 19 01 14 20 55 aa b1 31 00 00 b5 b1 80 be d8 ef 5a ae 83 f4 3d 45 e7 3f bb 6f
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 07 19 01 14 20 55 aa b1 31 00 00 b5 b1 80 be d8 ef 5a ae 83 f4 3d 45 e7 3f bb 6f
+
+    Data:  29 94 a0 0b a8 5f 1e ff 4c 00 07 19 01 14 20 55 aa b1 31 00 00 b5 b1 80 be d8 ef 5a ae 83 f4 3d 45 e7 3f bb 6f
+    CRC:   45 dd ff
+
+systime=1707957698 freq=2402 addr=8e89bed6 delta_t=15.309 ms rssi=-84
+66 25 83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 35 aa b1 31 00 00 cb 20 90 d2 6b eb b7 63 9e 8a 91 41 03 34 c6 8f 23 1f c1 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_SCAN_IND
+    AdvA:  50:4d:4e:fc:32:83 (random)
+    AdvData: 1e ff 4c 00 07 19 01 14 20 35 aa b1 31 00 00 cb 20 90 d2 6b eb b7 63 9e 8a 91 41 03 34 c6 8f
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 07 19 01 14 20 35 aa b1 31 00 00 cb 20 90 d2 6b eb b7 63 9e 8a 91 41 03 34 c6 8f
+
+    Data:  83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 35 aa b1 31 00 00 cb 20 90 d2 6b eb b7 63 9e 8a 91 41 03 34 c6 8f
+    CRC:   23 1f c1
+
+systime=1707957698 freq=2402 addr=8e89bed6 delta_t=28.588 ms rssi=-84
+66 25 83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 35 aa b1 31 00 00 cb 20 90 d2 6b eb b7 63 9e 8a 91 41 03 34 c6 8f 23 1f c1 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_SCAN_IND
+    AdvA:  50:4d:4e:fc:32:83 (random)
+    AdvData: 1e ff 4c 00 07 19 01 14 20 35 aa b1 31 00 00 cb 20 90 d2 6b eb b7 63 9e 8a 91 41 03 34 c6 8f
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 07 19 01 14 20 35 aa b1 31 00 00 cb 20 90 d2 6b eb b7 63 9e 8a 91 41 03 34 c6 8f
+
+    Data:  83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 35 aa b1 31 00 00 cb 20 90 d2 6b eb b7 63 9e 8a 91 41 03 34 c6 8f
+    CRC:   23 1f c1
+
+systime=1707957698 freq=2402 addr=8e89bed6 delta_t=12.905 ms rssi=-78
+66 25 29 94 a0 0b a8 5f 1e ff 4c 00 07 19 01 14 20 55 aa b1 31 00 00 b5 b1 80 be d8 ef 5a ae 83 f4 3d 45 e7 3f bb 6f 45 dd ff 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_SCAN_IND
+    AdvA:  5f:a8:0b:a0:94:29 (random)
+    AdvData: 1e ff 4c 00 07 19 01 14 20 55 aa b1 31 00 00 b5 b1 80 be d8 ef 5a ae 83 f4 3d 45 e7 3f bb 6f
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 07 19 01 14 20 55 aa b1 31 00 00 b5 b1 80 be d8 ef 5a ae 83 f4 3d 45 e7 3f bb 6f
+
+    Data:  29 94 a0 0b a8 5f 1e ff 4c 00 07 19 01 14 20 55 aa b1 31 00 00 b5 b1 80 be d8 ef 5a ae 83 f4 3d 45 e7 3f bb 6f
+    CRC:   45 dd ff
+
+systime=1707957698 freq=2402 addr=8e89bed6 delta_t=3.105 ms rssi=-88
+66 25 83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 35 aa b1 31 00 00 cb 20 90 d2 6b eb b7 63 9e 8a 91 41 03 34 c6 8f 23 1f c1 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_SCAN_IND
+    AdvA:  50:4d:4e:fc:32:83 (random)
+    AdvData: 1e ff 4c 00 07 19 01 14 20 35 aa b1 31 00 00 cb 20 90 d2 6b eb b7 63 9e 8a 91 41 03 34 c6 8f
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 07 19 01 14 20 35 aa b1 31 00 00 cb 20 90 d2 6b eb b7 63 9e 8a 91 41 03 34 c6 8f
+
+    Data:  83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 35 aa b1 31 00 00 cb 20 90 d2 6b eb b7 63 9e 8a 91 41 03 34 c6 8f
+    CRC:   23 1f c1
+
+systime=1707957698 freq=2402 addr=8e89bed6 delta_t=25.593 ms rssi=-76
+66 25 29 94 a0 0b a8 5f 1e ff 4c 00 07 19 01 14 20 55 aa b1 31 00 00 b5 b1 80 be d8 ef 5a ae 83 f4 3d 45 e7 3f bb 6f 45 dd ff 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_SCAN_IND
+    AdvA:  5f:a8:0b:a0:94:29 (random)
+    AdvData: 1e ff 4c 00 07 19 01 14 20 55 aa b1 31 00 00 b5 b1 80 be d8 ef 5a ae 83 f4 3d 45 e7 3f bb 6f
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 07 19 01 14 20 55 aa b1 31 00 00 b5 b1 80 be d8 ef 5a ae 83 f4 3d 45 e7 3f bb 6f
+
+    Data:  29 94 a0 0b a8 5f 1e ff 4c 00 07 19 01 14 20 55 aa b1 31 00 00 b5 b1 80 be d8 ef 5a ae 83 f4 3d 45 e7 3f bb 6f
+    CRC:   45 dd ff
+
+systime=1707957698 freq=2402 addr=8e89bed6 delta_t=33.808 ms rssi=-81
+66 25 29 94 a0 0b a8 5f 1e ff 4c 00 07 19 01 14 20 55 aa b1 31 00 00 51 e6 02 d5 d3 1b b9 94 5f 99 65 d6 bc ca ba f8 39 0e 49 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_SCAN_IND
+    AdvA:  5f:a8:0b:a0:94:29 (random)
+    AdvData: 1e ff 4c 00 07 19 01 14 20 55 aa b1 31 00 00 51 e6 02 d5 d3 1b b9 94 5f 99 65 d6 bc ca ba f8
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 07 19 01 14 20 55 aa b1 31 00 00 51 e6 02 d5 d3 1b b9 94 5f 99 65 d6 bc ca ba f8
+
+    Data:  29 94 a0 0b a8 5f 1e ff 4c 00 07 19 01 14 20 55 aa b1 31 00 00 51 e6 02 d5 d3 1b b9 94 5f 99 65 d6 bc ca ba f8
+    CRC:   39 0e 49
+
+systime=1707957698 freq=2402 addr=8e89bed6 delta_t=5.000 ms rssi=-75
+60 25 b8 dc 11 fb de e8 1e ff 4c 00 12 19 29 3d d7 10 6e da de 32 94 1d 59 ce b2 1a 2f 4b 6a 2a ea 2a a2 24 d3 02 5e 96 ab c7 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_IND
+    AdvA:  e8:de:fb:11:dc:b8 (random)
+    AdvData: 1e ff 4c 00 12 19 29 3d d7 10 6e da de 32 94 1d 59 ce b2 1a 2f 4b 6a 2a ea 2a a2 24 d3 02 5e
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 12 19 29 3d d7 10 6e da de 32 94 1d 59 ce b2 1a 2f 4b 6a 2a ea 2a a2 24 d3 02 5e
+
+    Data:  b8 dc 11 fb de e8 1e ff 4c 00 12 19 29 3d d7 10 6e da de 32 94 1d 59 ce b2 1a 2f 4b 6a 2a ea 2a a2 24 d3 02 5e
+    CRC:   96 ab c7
+
+systime=1707957698 freq=2402 addr=8e89bed6 delta_t=9.240 ms rssi=-87
+66 25 83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 35 aa b1 31 00 00 cb 20 90 d2 6b eb b7 63 9e 8a 91 41 03 34 c6 8f 23 1f c1 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_SCAN_IND
+    AdvA:  50:4d:4e:fc:32:83 (random)
+    AdvData: 1e ff 4c 00 07 19 01 14 20 35 aa b1 31 00 00 cb 20 90 d2 6b eb b7 63 9e 8a 91 41 03 34 c6 8f
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 07 19 01 14 20 35 aa b1 31 00 00 cb 20 90 d2 6b eb b7 63 9e 8a 91 41 03 34 c6 8f
+
+    Data:  83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 35 aa b1 31 00 00 cb 20 90 d2 6b eb b7 63 9e 8a 91 41 03 34 c6 8f
+    CRC:   23 1f c1
+
+systime=1707957698 freq=2402 addr=8e89bed6 delta_t=29.095 ms rssi=-87
+66 25 83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 35 aa b1 31 00 00 cb 20 90 d2 6b eb b7 63 9e 8a 91 41 03 34 c6 8f 23 1f c1 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_SCAN_IND
+    AdvA:  50:4d:4e:fc:32:83 (random)
+    AdvData: 1e ff 4c 00 07 19 01 14 20 35 aa b1 31 00 00 cb 20 90 d2 6b eb b7 63 9e 8a 91 41 03 34 c6 8f
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 07 19 01 14 20 35 aa b1 31 00 00 cb 20 90 d2 6b eb b7 63 9e 8a 91 41 03 34 c6 8f
+
+    Data:  83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 35 aa b1 31 00 00 cb 20 90 d2 6b eb b7 63 9e 8a 91 41 03 34 c6 8f
+    CRC:   23 1f c1
+
+systime=1707957698 freq=2402 addr=8e89bed6 delta_t=12.175 ms rssi=-77
+66 25 29 94 a0 0b a8 5f 1e ff 4c 00 07 19 01 14 20 55 aa b1 31 00 00 51 e6 02 d5 d3 1b b9 94 5f 99 65 d6 bc ca ba f8 39 0e 49 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_SCAN_IND
+    AdvA:  5f:a8:0b:a0:94:29 (random)
+    AdvData: 1e ff 4c 00 07 19 01 14 20 55 aa b1 31 00 00 51 e6 02 d5 d3 1b b9 94 5f 99 65 d6 bc ca ba f8
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 07 19 01 14 20 55 aa b1 31 00 00 51 e6 02 d5 d3 1b b9 94 5f 99 65 d6 bc ca ba f8
+
+    Data:  29 94 a0 0b a8 5f 1e ff 4c 00 07 19 01 14 20 55 aa b1 31 00 00 51 e6 02 d5 d3 1b b9 94 5f 99 65 d6 bc ca ba f8
+    CRC:   39 0e 49
+
+systime=1707957698 freq=2402 addr=8e89bed6 delta_t=15.761 ms rssi=-86
+66 25 83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 35 aa b1 31 00 00 cb 20 90 d2 6b eb b7 63 9e 8a 91 41 03 34 c6 8f 23 1f c1 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_SCAN_IND
+    AdvA:  50:4d:4e:fc:32:83 (random)
+    AdvData: 1e ff 4c 00 07 19 01 14 20 35 aa b1 31 00 00 cb 20 90 d2 6b eb b7 63 9e 8a 91 41 03 34 c6 8f
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 07 19 01 14 20 35 aa b1 31 00 00 cb 20 90 d2 6b eb b7 63 9e 8a 91 41 03 34 c6 8f
+
+    Data:  83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 35 aa b1 31 00 00 cb 20 90 d2 6b eb b7 63 9e 8a 91 41 03 34 c6 8f
+    CRC:   23 1f c1
+
+systime=1707957698 freq=2402 addr=8e89bed6 delta_t=12.477 ms rssi=-75
+66 25 29 94 a0 0b a8 5f 1e ff 4c 00 07 19 01 14 20 55 aa b1 31 00 00 51 e6 02 d5 d3 1b b9 94 5f 99 65 d6 bc ca ba f8 39 0e 49 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_SCAN_IND
+    AdvA:  5f:a8:0b:a0:94:29 (random)
+    AdvData: 1e ff 4c 00 07 19 01 14 20 55 aa b1 31 00 00 51 e6 02 d5 d3 1b b9 94 5f 99 65 d6 bc ca ba f8
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 07 19 01 14 20 55 aa b1 31 00 00 51 e6 02 d5 d3 1b b9 94 5f 99 65 d6 bc ca ba f8
+
+    Data:  29 94 a0 0b a8 5f 1e ff 4c 00 07 19 01 14 20 55 aa b1 31 00 00 51 e6 02 d5 d3 1b b9 94 5f 99 65 d6 bc ca ba f8
+    CRC:   39 0e 49
+
+systime=1707957698 freq=2402 addr=8e89bed6 delta_t=21.261 ms rssi=-75
+66 25 29 94 a0 0b a8 5f 1e ff 4c 00 07 19 01 14 20 55 aa b1 31 00 00 51 e6 02 d5 d3 1b b9 94 5f 99 65 d6 bc ca ba f8 39 0e 49 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_SCAN_IND
+    AdvA:  5f:a8:0b:a0:94:29 (random)
+    AdvData: 1e ff 4c 00 07 19 01 14 20 55 aa b1 31 00 00 51 e6 02 d5 d3 1b b9 94 5f 99 65 d6 bc ca ba f8
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 07 19 01 14 20 55 aa b1 31 00 00 51 e6 02 d5 d3 1b b9 94 5f 99 65 d6 bc ca ba f8
+
+    Data:  29 94 a0 0b a8 5f 1e ff 4c 00 07 19 01 14 20 55 aa b1 31 00 00 51 e6 02 d5 d3 1b b9 94 5f 99 65 d6 bc ca ba f8
+    CRC:   39 0e 49
+
+systime=1707957698 freq=2402 addr=8e89bed6 delta_t=20.919 ms rssi=-86
+66 25 83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 35 aa b1 31 00 00 cb 20 90 d2 6b eb b7 63 9e 8a 91 41 03 34 c6 8f 23 1f c1 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_SCAN_IND
+    AdvA:  50:4d:4e:fc:32:83 (random)
+    AdvData: 1e ff 4c 00 07 19 01 14 20 35 aa b1 31 00 00 cb 20 90 d2 6b eb b7 63 9e 8a 91 41 03 34 c6 8f
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 07 19 01 14 20 35 aa b1 31 00 00 cb 20 90 d2 6b eb b7 63 9e 8a 91 41 03 34 c6 8f
+
+    Data:  83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 35 aa b1 31 00 00 cb 20 90 d2 6b eb b7 63 9e 8a 91 41 03 34 c6 8f
+    CRC:   23 1f c1
+
+systime=1707957698 freq=2402 addr=8e89bed6 delta_t=1.349 ms rssi=-77
+66 25 29 94 a0 0b a8 5f 1e ff 4c 00 07 19 01 14 20 55 aa b1 31 00 00 51 e6 02 d5 d3 1b b9 94 5f 99 65 d6 bc ca ba f8 39 0e 49 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_SCAN_IND
+    AdvA:  5f:a8:0b:a0:94:29 (random)
+    AdvData: 1e ff 4c 00 07 19 01 14 20 55 aa b1 31 00 00 51 e6 02 d5 d3 1b b9 94 5f 99 65 d6 bc ca ba f8
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 07 19 01 14 20 55 aa b1 31 00 00 51 e6 02 d5 d3 1b b9 94 5f 99 65 d6 bc ca ba f8
+
+    Data:  29 94 a0 0b a8 5f 1e ff 4c 00 07 19 01 14 20 55 aa b1 31 00 00 51 e6 02 d5 d3 1b b9 94 5f 99 65 d6 bc ca ba f8
+    CRC:   39 0e 49
+
+systime=1707957698 freq=2402 addr=8e89bed6 delta_t=20.944 ms rssi=-76
+66 25 29 94 a0 0b a8 5f 1e ff 4c 00 07 19 01 14 20 55 aa b1 31 00 00 51 e6 02 d5 d3 1b b9 94 5f 99 65 d6 bc ca ba f8 39 0e 49 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_SCAN_IND
+    AdvA:  5f:a8:0b:a0:94:29 (random)
+    AdvData: 1e ff 4c 00 07 19 01 14 20 55 aa b1 31 00 00 51 e6 02 d5 d3 1b b9 94 5f 99 65 d6 bc ca ba f8
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 07 19 01 14 20 55 aa b1 31 00 00 51 e6 02 d5 d3 1b b9 94 5f 99 65 d6 bc ca ba f8
+
+    Data:  29 94 a0 0b a8 5f 1e ff 4c 00 07 19 01 14 20 55 aa b1 31 00 00 51 e6 02 d5 d3 1b b9 94 5f 99 65 d6 bc ca ba f8
+    CRC:   39 0e 49
+
+systime=1707957698 freq=2402 addr=8e89bed6 delta_t=23.894 ms rssi=-75
+66 25 29 94 a0 0b a8 5f 1e ff 4c 00 07 19 01 14 20 55 aa b1 31 00 00 51 e6 02 d5 d3 1b b9 94 5f 99 65 d6 bc ca ba f8 39 0e 49 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_SCAN_IND
+    AdvA:  5f:a8:0b:a0:94:29 (random)
+    AdvData: 1e ff 4c 00 07 19 01 14 20 55 aa b1 31 00 00 51 e6 02 d5 d3 1b b9 94 5f 99 65 d6 bc ca ba f8
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 07 19 01 14 20 55 aa b1 31 00 00 51 e6 02 d5 d3 1b b9 94 5f 99 65 d6 bc ca ba f8
+
+    Data:  29 94 a0 0b a8 5f 1e ff 4c 00 07 19 01 14 20 55 aa b1 31 00 00 51 e6 02 d5 d3 1b b9 94 5f 99 65 d6 bc ca ba f8
+    CRC:   39 0e 49
+
+systime=1707957698 freq=2402 addr=8e89bed6 delta_t=8.422 ms rssi=-85
+66 25 83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 35 aa b1 31 00 00 cb 20 90 d2 6b eb b7 63 9e 8a 91 41 03 34 c6 8f 23 1f c1 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_SCAN_IND
+    AdvA:  50:4d:4e:fc:32:83 (random)
+    AdvData: 1e ff 4c 00 07 19 01 14 20 35 aa b1 31 00 00 cb 20 90 d2 6b eb b7 63 9e 8a 91 41 03 34 c6 8f
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 07 19 01 14 20 35 aa b1 31 00 00 cb 20 90 d2 6b eb b7 63 9e 8a 91 41 03 34 c6 8f
+
+    Data:  83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 35 aa b1 31 00 00 cb 20 90 d2 6b eb b7 63 9e 8a 91 41 03 34 c6 8f
+    CRC:   23 1f c1
+
+systime=1707957698 freq=2402 addr=8e89bed6 delta_t=27.715 ms rssi=-79
+66 25 83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 35 aa b1 31 00 00 cb 20 90 d2 6b eb b7 63 9e 8a 91 41 03 34 c6 8f 23 1f c1 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_SCAN_IND
+    AdvA:  50:4d:4e:fc:32:83 (random)
+    AdvData: 1e ff 4c 00 07 19 01 14 20 35 aa b1 31 00 00 cb 20 90 d2 6b eb b7 63 9e 8a 91 41 03 34 c6 8f
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 07 19 01 14 20 35 aa b1 31 00 00 cb 20 90 d2 6b eb b7 63 9e 8a 91 41 03 34 c6 8f
+
+    Data:  83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 35 aa b1 31 00 00 cb 20 90 d2 6b eb b7 63 9e 8a 91 41 03 34 c6 8f
+    CRC:   23 1f c1
+
+systime=1707957698 freq=2402 addr=8e89bed6 delta_t=5.499 ms rssi=-75
+66 25 29 94 a0 0b a8 5f 1e ff 4c 00 07 19 01 14 20 55 aa b1 31 00 00 e8 8f 5e 91 a7 3d b6 f0 29 03 92 67 fc 82 16 e9 3a 52 b0 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_SCAN_IND
+    AdvA:  5f:a8:0b:a0:94:29 (random)
+    AdvData: 1e ff 4c 00 07 19 01 14 20 55 aa b1 31 00 00 e8 8f 5e 91 a7 3d b6 f0 29 03 92 67 fc 82 16 e9
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 07 19 01 14 20 55 aa b1 31 00 00 e8 8f 5e 91 a7 3d b6 f0 29 03 92 67 fc 82 16 e9
+
+    Data:  29 94 a0 0b a8 5f 1e ff 4c 00 07 19 01 14 20 55 aa b1 31 00 00 e8 8f 5e 91 a7 3d b6 f0 29 03 92 67 fc 82 16 e9
+    CRC:   3a 52 b0
+
+systime=1707957698 freq=2402 addr=8e89bed6 delta_t=5.000 ms rssi=-75
+60 25 b8 dc 11 fb de e8 1e ff 4c 00 12 19 29 3d d7 10 6e da de 32 94 1d 59 ce b2 1a 2f 4b 6a 2a ea 2a a2 24 d3 02 5e 96 ab c7 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_IND
+    AdvA:  e8:de:fb:11:dc:b8 (random)
+    AdvData: 1e ff 4c 00 12 19 29 3d d7 10 6e da de 32 94 1d 59 ce b2 1a 2f 4b 6a 2a ea 2a a2 24 d3 02 5e
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 12 19 29 3d d7 10 6e da de 32 94 1d 59 ce b2 1a 2f 4b 6a 2a ea 2a a2 24 d3 02 5e
+
+    Data:  b8 dc 11 fb de e8 1e ff 4c 00 12 19 29 3d d7 10 6e da de 32 94 1d 59 ce b2 1a 2f 4b 6a 2a ea 2a a2 24 d3 02 5e
+    CRC:   96 ab c7
+
+systime=1707957698 freq=2402 addr=8e89bed6 delta_t=4.779 ms rssi=-86
+66 25 83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 35 aa b1 31 00 00 cb 20 90 d2 6b eb b7 63 9e 8a 91 41 03 34 c6 8f 23 1f c1 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_SCAN_IND
+    AdvA:  50:4d:4e:fc:32:83 (random)
+    AdvData: 1e ff 4c 00 07 19 01 14 20 35 aa b1 31 00 00 cb 20 90 d2 6b eb b7 63 9e 8a 91 41 03 34 c6 8f
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 07 19 01 14 20 35 aa b1 31 00 00 cb 20 90 d2 6b eb b7 63 9e 8a 91 41 03 34 c6 8f
+
+    Data:  83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 35 aa b1 31 00 00 cb 20 90 d2 6b eb b7 63 9e 8a 91 41 03 34 c6 8f
+    CRC:   23 1f c1
+
+systime=1707957698 freq=2402 addr=8e89bed6 delta_t=27.143 ms rssi=-85
+66 25 83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 35 aa b1 31 00 00 cb 20 90 d2 6b eb b7 63 9e 8a 91 41 03 34 c6 8f 23 1f c1 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_SCAN_IND
+    AdvA:  50:4d:4e:fc:32:83 (random)
+    AdvData: 1e ff 4c 00 07 19 01 14 20 35 aa b1 31 00 00 cb 20 90 d2 6b eb b7 63 9e 8a 91 41 03 34 c6 8f
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 07 19 01 14 20 35 aa b1 31 00 00 cb 20 90 d2 6b eb b7 63 9e 8a 91 41 03 34 c6 8f
+
+    Data:  83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 35 aa b1 31 00 00 cb 20 90 d2 6b eb b7 63 9e 8a 91 41 03 34 c6 8f
+    CRC:   23 1f c1
+
+systime=1707957698 freq=2402 addr=8e89bed6 delta_t=28.695 ms rssi=-85
+66 25 83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 35 aa b1 31 00 00 cb 20 90 d2 6b eb b7 63 9e 8a 91 41 03 34 c6 8f 23 1f c1 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_SCAN_IND
+    AdvA:  50:4d:4e:fc:32:83 (random)
+    AdvData: 1e ff 4c 00 07 19 01 14 20 35 aa b1 31 00 00 cb 20 90 d2 6b eb b7 63 9e 8a 91 41 03 34 c6 8f
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 07 19 01 14 20 35 aa b1 31 00 00 cb 20 90 d2 6b eb b7 63 9e 8a 91 41 03 34 c6 8f
+
+    Data:  83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 35 aa b1 31 00 00 cb 20 90 d2 6b eb b7 63 9e 8a 91 41 03 34 c6 8f
+    CRC:   23 1f c1
+
+systime=1707957698 freq=2402 addr=8e89bed6 delta_t=6.494 ms rssi=-81
+66 25 29 94 a0 0b a8 5f 1e ff 4c 00 07 19 01 14 20 55 aa b1 31 00 00 e8 8f 5e 91 a7 3d b6 f0 29 03 92 67 fc 82 16 e9 3a 52 b0 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_SCAN_IND
+    AdvA:  5f:a8:0b:a0:94:29 (random)
+    AdvData: 1e ff 4c 00 07 19 01 14 20 55 aa b1 31 00 00 e8 8f 5e 91 a7 3d b6 f0 29 03 92 67 fc 82 16 e9
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 07 19 01 14 20 55 aa b1 31 00 00 e8 8f 5e 91 a7 3d b6 f0 29 03 92 67 fc 82 16 e9
+
+    Data:  29 94 a0 0b a8 5f 1e ff 4c 00 07 19 01 14 20 55 aa b1 31 00 00 e8 8f 5e 91 a7 3d b6 f0 29 03 92 67 fc 82 16 e9
+    CRC:   3a 52 b0
+
+systime=1707957698 freq=2402 addr=8e89bed6 delta_t=20.983 ms rssi=-80
+66 25 83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 35 aa b1 31 00 00 cb 20 90 d2 6b eb b7 63 9e 8a 91 41 03 34 c6 8f 23 1f c1 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_SCAN_IND
+    AdvA:  50:4d:4e:fc:32:83 (random)
+    AdvData: 1e ff 4c 00 07 19 01 14 20 35 aa b1 31 00 00 cb 20 90 d2 6b eb b7 63 9e 8a 91 41 03 34 c6 8f
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 07 19 01 14 20 35 aa b1 31 00 00 cb 20 90 d2 6b eb b7 63 9e 8a 91 41 03 34 c6 8f
+
+    Data:  83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 35 aa b1 31 00 00 cb 20 90 d2 6b eb b7 63 9e 8a 91 41 03 34 c6 8f
+    CRC:   23 1f c1
+
+systime=1707957698 freq=2402 addr=8e89bed6 delta_t=23.126 ms rssi=-77
+66 25 29 94 a0 0b a8 5f 1e ff 4c 00 07 19 01 14 20 55 aa b1 31 00 00 e8 8f 5e 91 a7 3d b6 f0 29 03 92 67 fc 82 16 e9 3a 52 b0 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_SCAN_IND
+    AdvA:  5f:a8:0b:a0:94:29 (random)
+    AdvData: 1e ff 4c 00 07 19 01 14 20 55 aa b1 31 00 00 e8 8f 5e 91 a7 3d b6 f0 29 03 92 67 fc 82 16 e9
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 07 19 01 14 20 55 aa b1 31 00 00 e8 8f 5e 91 a7 3d b6 f0 29 03 92 67 fc 82 16 e9
+
+    Data:  29 94 a0 0b a8 5f 1e ff 4c 00 07 19 01 14 20 55 aa b1 31 00 00 e8 8f 5e 91 a7 3d b6 f0 29 03 92 67 fc 82 16 e9
+    CRC:   3a 52 b0
+
+systime=1707957698 freq=2402 addr=8e89bed6 delta_t=20.886 ms rssi=-80
+66 25 83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 35 aa b1 31 00 00 cb 20 90 d2 6b eb b7 63 9e 8a 91 41 03 34 c6 8f 23 1f c1 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_SCAN_IND
+    AdvA:  50:4d:4e:fc:32:83 (random)
+    AdvData: 1e ff 4c 00 07 19 01 14 20 35 aa b1 31 00 00 cb 20 90 d2 6b eb b7 63 9e 8a 91 41 03 34 c6 8f
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 07 19 01 14 20 35 aa b1 31 00 00 cb 20 90 d2 6b eb b7 63 9e 8a 91 41 03 34 c6 8f
+
+    Data:  83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 35 aa b1 31 00 00 cb 20 90 d2 6b eb b7 63 9e 8a 91 41 03 34 c6 8f
+    CRC:   23 1f c1
+
+systime=1707957698 freq=2402 addr=8e89bed6 delta_t=22.895 ms rssi=-74
+66 25 29 94 a0 0b a8 5f 1e ff 4c 00 07 19 01 14 20 55 aa b1 31 00 00 1a f2 70 13 d4 c4 ff fb 6f d4 89 59 2b 8c 4e 46 d5 a5 4a 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_SCAN_IND
+    AdvA:  5f:a8:0b:a0:94:29 (random)
+    AdvData: 1e ff 4c 00 07 19 01 14 20 55 aa b1 31 00 00 1a f2 70 13 d4 c4 ff fb 6f d4 89 59 2b 8c 4e 46
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 07 19 01 14 20 55 aa b1 31 00 00 1a f2 70 13 d4 c4 ff fb 6f d4 89 59 2b 8c 4e 46
+
+    Data:  29 94 a0 0b a8 5f 1e ff 4c 00 07 19 01 14 20 55 aa b1 31 00 00 1a f2 70 13 d4 c4 ff fb 6f d4 89 59 2b 8c 4e 46
+    CRC:   d5 a5 4a
+
+systime=1707957698 freq=2402 addr=8e89bed6 delta_t=18.750 ms rssi=-78
+60 25 9e a6 e9 fe da ce 1e ff 4c 00 12 19 23 21 71 56 69 ef 98 6b d8 6d 64 7e c3 b7 f6 8a 3d 02 0c 0c 97 fd ca 00 34 34 8a 41 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_IND
+    AdvA:  ce:da:fe:e9:a6:9e (random)
+    AdvData: 1e ff 4c 00 12 19 23 21 71 56 69 ef 98 6b d8 6d 64 7e c3 b7 f6 8a 3d 02 0c 0c 97 fd ca 00 34
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 12 19 23 21 71 56 69 ef 98 6b d8 6d 64 7e c3 b7 f6 8a 3d 02 0c 0c 97 fd ca 00 34
+
+    Data:  9e a6 e9 fe da ce 1e ff 4c 00 12 19 23 21 71 56 69 ef 98 6b d8 6d 64 7e c3 b7 f6 8a 3d 02 0c 0c 97 fd ca 00 34
+    CRC:   34 8a 41
+
+systime=1707957698 freq=2402 addr=8e89bed6 delta_t=3.750 ms rssi=-84
+66 25 83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 35 aa b1 31 00 00 05 75 b8 22 10 1d 8c 33 86 2f fb 6a a1 44 73 90 70 28 b7 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_SCAN_IND
+    AdvA:  50:4d:4e:fc:32:83 (random)
+    AdvData: 1e ff 4c 00 07 19 01 14 20 35 aa b1 31 00 00 05 75 b8 22 10 1d 8c 33 86 2f fb 6a a1 44 73 90
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 07 19 01 14 20 35 aa b1 31 00 00 05 75 b8 22 10 1d 8c 33 86 2f fb 6a a1 44 73 90
+
+    Data:  83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 35 aa b1 31 00 00 05 75 b8 22 10 1d 8c 33 86 2f fb 6a a1 44 73 90
+    CRC:   70 28 b7
+
+systime=1707957698 freq=2402 addr=8e89bed6 delta_t=6.096 ms rssi=-74
+66 25 29 94 a0 0b a8 5f 1e ff 4c 00 07 19 01 14 20 55 aa b1 31 00 00 1a f2 70 13 d4 c4 ff fb 6f d4 89 59 2b 8c 4e 46 d5 a5 4a 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_SCAN_IND
+    AdvA:  5f:a8:0b:a0:94:29 (random)
+    AdvData: 1e ff 4c 00 07 19 01 14 20 55 aa b1 31 00 00 1a f2 70 13 d4 c4 ff fb 6f d4 89 59 2b 8c 4e 46
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 07 19 01 14 20 55 aa b1 31 00 00 1a f2 70 13 d4 c4 ff fb 6f d4 89 59 2b 8c 4e 46
+
+    Data:  29 94 a0 0b a8 5f 1e ff 4c 00 07 19 01 14 20 55 aa b1 31 00 00 1a f2 70 13 d4 c4 ff fb 6f d4 89 59 2b 8c 4e 46
+    CRC:   d5 a5 4a
+
+systime=1707957698 freq=2402 addr=8e89bed6 delta_t=33.723 ms rssi=-84
+66 25 83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 35 aa b1 31 00 00 05 75 b8 22 10 1d 8c 33 86 2f fb 6a a1 44 73 90 70 28 b7 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_SCAN_IND
+    AdvA:  50:4d:4e:fc:32:83 (random)
+    AdvData: 1e ff 4c 00 07 19 01 14 20 35 aa b1 31 00 00 05 75 b8 22 10 1d 8c 33 86 2f fb 6a a1 44 73 90
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 07 19 01 14 20 35 aa b1 31 00 00 05 75 b8 22 10 1d 8c 33 86 2f fb 6a a1 44 73 90
+
+    Data:  83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 35 aa b1 31 00 00 05 75 b8 22 10 1d 8c 33 86 2f fb 6a a1 44 73 90
+    CRC:   70 28 b7
+
+systime=1707957698 freq=2402 addr=8e89bed6 delta_t=26.153 ms rssi=-79
+66 25 83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 35 aa b1 31 00 00 05 75 b8 22 10 1d 8c 33 86 2f fb 6a a1 44 73 90 70 28 b7 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_SCAN_IND
+    AdvA:  50:4d:4e:fc:32:83 (random)
+    AdvData: 1e ff 4c 00 07 19 01 14 20 35 aa b1 31 00 00 05 75 b8 22 10 1d 8c 33 86 2f fb 6a a1 44 73 90
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 07 19 01 14 20 35 aa b1 31 00 00 05 75 b8 22 10 1d 8c 33 86 2f fb 6a a1 44 73 90
+
+    Data:  83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 35 aa b1 31 00 00 05 75 b8 22 10 1d 8c 33 86 2f fb 6a a1 44 73 90
+    CRC:   70 28 b7
+
+systime=1707957698 freq=2402 addr=8e89bed6 delta_t=17.334 ms rssi=-75
+66 25 29 94 a0 0b a8 5f 1e ff 4c 00 07 19 01 14 20 55 aa b1 31 00 00 1a f2 70 13 d4 c4 ff fb 6f d4 89 59 2b 8c 4e 46 d5 a5 4a 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_SCAN_IND
+    AdvA:  5f:a8:0b:a0:94:29 (random)
+    AdvData: 1e ff 4c 00 07 19 01 14 20 55 aa b1 31 00 00 1a f2 70 13 d4 c4 ff fb 6f d4 89 59 2b 8c 4e 46
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 07 19 01 14 20 55 aa b1 31 00 00 1a f2 70 13 d4 c4 ff fb 6f d4 89 59 2b 8c 4e 46
+
+    Data:  29 94 a0 0b a8 5f 1e ff 4c 00 07 19 01 14 20 55 aa b1 31 00 00 1a f2 70 13 d4 c4 ff fb 6f d4 89 59 2b 8c 4e 46
+    CRC:   d5 a5 4a
+
+systime=1707957698 freq=2402 addr=8e89bed6 delta_t=21.694 ms rssi=-75
+66 25 29 94 a0 0b a8 5f 1e ff 4c 00 07 19 01 14 20 55 aa b1 31 00 00 55 c3 f8 6f 21 2e ce 02 0f ff 78 7a 72 32 99 1a a2 9b 86 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_SCAN_IND
+    AdvA:  5f:a8:0b:a0:94:29 (random)
+    AdvData: 1e ff 4c 00 07 19 01 14 20 55 aa b1 31 00 00 55 c3 f8 6f 21 2e ce 02 0f ff 78 7a 72 32 99 1a
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 07 19 01 14 20 55 aa b1 31 00 00 55 c3 f8 6f 21 2e ce 02 0f ff 78 7a 72 32 99 1a
+
+    Data:  29 94 a0 0b a8 5f 1e ff 4c 00 07 19 01 14 20 55 aa b1 31 00 00 55 c3 f8 6f 21 2e ce 02 0f ff 78 7a 72 32 99 1a
+    CRC:   a2 9b 86
+
+systime=1707957699 freq=2402 addr=8e89bed6 delta_t=5.000 ms rssi=-78
+66 25 83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 35 aa b1 31 00 00 c8 93 09 d5 9d ab fc 8a d3 e9 6b d9 7b d1 2a 83 9f 2f 29 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_SCAN_IND
+    AdvA:  50:4d:4e:fc:32:83 (random)
+    AdvData: 1e ff 4c 00 07 19 01 14 20 35 aa b1 31 00 00 c8 93 09 d5 9d ab fc 8a d3 e9 6b d9 7b d1 2a 83
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 07 19 01 14 20 35 aa b1 31 00 00 c8 93 09 d5 9d ab fc 8a d3 e9 6b d9 7b d1 2a 83
+
+    Data:  83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 35 aa b1 31 00 00 c8 93 09 d5 9d ab fc 8a d3 e9 6b d9 7b d1 2a 83
+    CRC:   9f 2f 29
+
+systime=1707957699 freq=2402 addr=8e89bed6 delta_t=1.250 ms rssi=-81
+60 25 b8 dc 11 fb de e8 1e ff 4c 00 12 19 29 3d d7 10 6e da de 32 94 1d 59 ce b2 1a 2f 4b 6a 2a ea 2a a2 24 d3 02 5e 96 ab c7 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_IND
+    AdvA:  e8:de:fb:11:dc:b8 (random)
+    AdvData: 1e ff 4c 00 12 19 29 3d d7 10 6e da de 32 94 1d 59 ce b2 1a 2f 4b 6a 2a ea 2a a2 24 d3 02 5e
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 12 19 29 3d d7 10 6e da de 32 94 1d 59 ce b2 1a 2f 4b 6a 2a ea 2a a2 24 d3 02 5e
+
+    Data:  b8 dc 11 fb de e8 1e ff 4c 00 12 19 29 3d d7 10 6e da de 32 94 1d 59 ce b2 1a 2f 4b 6a 2a ea 2a a2 24 d3 02 5e
+    CRC:   96 ab c7
+
+systime=1707957699 freq=2402 addr=8e89bed6 delta_t=3.750 ms rssi=-84
+60 25 9e a6 e9 fe da ce 1e ff 4c 00 12 19 23 21 71 56 69 ef 98 6b d8 6d 64 7e c3 b7 f6 8a 3d 02 0c 0c 97 fd ca 00 34 34 8a 41 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_IND
+    AdvA:  ce:da:fe:e9:a6:9e (random)
+    AdvData: 1e ff 4c 00 12 19 23 21 71 56 69 ef 98 6b d8 6d 64 7e c3 b7 f6 8a 3d 02 0c 0c 97 fd ca 00 34
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 12 19 23 21 71 56 69 ef 98 6b d8 6d 64 7e c3 b7 f6 8a 3d 02 0c 0c 97 fd ca 00 34
+
+    Data:  9e a6 e9 fe da ce 1e ff 4c 00 12 19 23 21 71 56 69 ef 98 6b d8 6d 64 7e c3 b7 f6 8a 3d 02 0c 0c 97 fd ca 00 34
+    CRC:   34 8a 41
+
+systime=1707957699 freq=2402 addr=8e89bed6 delta_t=28.292 ms rssi=-78
+66 25 83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 35 aa b1 31 00 00 c8 93 09 d5 9d ab fc 8a d3 e9 6b d9 7b d1 2a 83 9f 2f 29 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_SCAN_IND
+    AdvA:  50:4d:4e:fc:32:83 (random)
+    AdvData: 1e ff 4c 00 07 19 01 14 20 35 aa b1 31 00 00 c8 93 09 d5 9d ab fc 8a d3 e9 6b d9 7b d1 2a 83
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 07 19 01 14 20 35 aa b1 31 00 00 c8 93 09 d5 9d ab fc 8a d3 e9 6b d9 7b d1 2a 83
+
+    Data:  83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 35 aa b1 31 00 00 c8 93 09 d5 9d ab fc 8a d3 e9 6b d9 7b d1 2a 83
+    CRC:   9f 2f 29
+
+systime=1707957699 freq=2402 addr=8e89bed6 delta_t=39.940 ms rssi=-75
+66 25 29 94 a0 0b a8 5f 1e ff 4c 00 07 19 01 14 20 55 aa b1 31 00 00 55 c3 f8 6f 21 2e ce 02 0f ff 78 7a 72 32 99 1a a2 9b 86 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_SCAN_IND
+    AdvA:  5f:a8:0b:a0:94:29 (random)
+    AdvData: 1e ff 4c 00 07 19 01 14 20 55 aa b1 31 00 00 55 c3 f8 6f 21 2e ce 02 0f ff 78 7a 72 32 99 1a
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 07 19 01 14 20 55 aa b1 31 00 00 55 c3 f8 6f 21 2e ce 02 0f ff 78 7a 72 32 99 1a
+
+    Data:  29 94 a0 0b a8 5f 1e ff 4c 00 07 19 01 14 20 55 aa b1 31 00 00 55 c3 f8 6f 21 2e ce 02 0f ff 78 7a 72 32 99 1a
+    CRC:   a2 9b 86
+
+systime=1707957699 freq=2402 addr=8e89bed6 delta_t=28.844 ms rssi=-76
+66 25 29 94 a0 0b a8 5f 1e ff 4c 00 07 19 01 14 20 55 aa b1 31 00 00 55 c3 f8 6f 21 2e ce 02 0f ff 78 7a 72 32 99 1a a2 9b 86 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_SCAN_IND
+    AdvA:  5f:a8:0b:a0:94:29 (random)
+    AdvData: 1e ff 4c 00 07 19 01 14 20 55 aa b1 31 00 00 55 c3 f8 6f 21 2e ce 02 0f ff 78 7a 72 32 99 1a
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 07 19 01 14 20 55 aa b1 31 00 00 55 c3 f8 6f 21 2e ce 02 0f ff 78 7a 72 32 99 1a
+
+    Data:  29 94 a0 0b a8 5f 1e ff 4c 00 07 19 01 14 20 55 aa b1 31 00 00 55 c3 f8 6f 21 2e ce 02 0f ff 78 7a 72 32 99 1a
+    CRC:   a2 9b 86
+
+systime=1707957699 freq=2402 addr=8e89bed6 delta_t=12.213 ms rssi=-76
+66 25 29 94 a0 0b a8 5f 1e ff 4c 00 07 19 01 14 20 55 aa b1 31 00 00 55 c3 f8 6f 21 2e ce 02 0f ff 78 7a 72 32 99 1a a2 9b 86 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_SCAN_IND
+    AdvA:  5f:a8:0b:a0:94:29 (random)
+    AdvData: 1e ff 4c 00 07 19 01 14 20 55 aa b1 31 00 00 55 c3 f8 6f 21 2e ce 02 0f ff 78 7a 72 32 99 1a
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 07 19 01 14 20 55 aa b1 31 00 00 55 c3 f8 6f 21 2e ce 02 0f ff 78 7a 72 32 99 1a
+
+    Data:  29 94 a0 0b a8 5f 1e ff 4c 00 07 19 01 14 20 55 aa b1 31 00 00 55 c3 f8 6f 21 2e ce 02 0f ff 78 7a 72 32 99 1a
+    CRC:   a2 9b 86
+
+systime=1707957699 freq=2402 addr=8e89bed6 delta_t=25.521 ms rssi=-84
+66 25 83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 35 aa b1 31 00 00 c8 93 09 d5 9d ab fc 8a d3 e9 6b d9 7b d1 2a 83 9f 2f 29 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_SCAN_IND
+    AdvA:  50:4d:4e:fc:32:83 (random)
+    AdvData: 1e ff 4c 00 07 19 01 14 20 35 aa b1 31 00 00 c8 93 09 d5 9d ab fc 8a d3 e9 6b d9 7b d1 2a 83
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 07 19 01 14 20 35 aa b1 31 00 00 c8 93 09 d5 9d ab fc 8a d3 e9 6b d9 7b d1 2a 83
+
+    Data:  83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 35 aa b1 31 00 00 c8 93 09 d5 9d ab fc 8a d3 e9 6b d9 7b d1 2a 83
+    CRC:   9f 2f 29
+
+systime=1707957699 freq=2402 addr=8e89bed6 delta_t=2.500 ms rssi=-76
+66 25 29 94 a0 0b a8 5f 1e ff 4c 00 07 19 01 14 20 55 aa b1 31 00 00 55 c3 f8 6f 21 2e ce 02 0f ff 78 7a 72 32 99 1a a2 9b 86 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_SCAN_IND
+    AdvA:  5f:a8:0b:a0:94:29 (random)
+    AdvData: 1e ff 4c 00 07 19 01 14 20 55 aa b1 31 00 00 55 c3 f8 6f 21 2e ce 02 0f ff 78 7a 72 32 99 1a
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 07 19 01 14 20 55 aa b1 31 00 00 55 c3 f8 6f 21 2e ce 02 0f ff 78 7a 72 32 99 1a
+
+    Data:  29 94 a0 0b a8 5f 1e ff 4c 00 07 19 01 14 20 55 aa b1 31 00 00 55 c3 f8 6f 21 2e ce 02 0f ff 78 7a 72 32 99 1a
+    CRC:   a2 9b 86
+
+systime=1707957699 freq=2402 addr=8e89bed6 delta_t=24.733 ms rssi=-78
+66 25 83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 35 aa b1 31 00 00 c8 93 09 d5 9d ab fc 8a d3 e9 6b d9 7b d1 2a 83 9f 2f 29 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_SCAN_IND
+    AdvA:  50:4d:4e:fc:32:83 (random)
+    AdvData: 1e ff 4c 00 07 19 01 14 20 35 aa b1 31 00 00 c8 93 09 d5 9d ab fc 8a d3 e9 6b d9 7b d1 2a 83
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 07 19 01 14 20 35 aa b1 31 00 00 c8 93 09 d5 9d ab fc 8a d3 e9 6b d9 7b d1 2a 83
+
+    Data:  83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 35 aa b1 31 00 00 c8 93 09 d5 9d ab fc 8a d3 e9 6b d9 7b d1 2a 83
+    CRC:   9f 2f 29
+
+systime=1707957699 freq=2402 addr=8e89bed6 delta_t=22.753 ms rssi=-76
+66 25 29 94 a0 0b a8 5f 1e ff 4c 00 07 19 01 14 20 55 aa b1 31 00 00 55 c3 f8 6f 21 2e ce 02 0f ff 78 7a 72 32 99 1a a2 9b 86 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_SCAN_IND
+    AdvA:  5f:a8:0b:a0:94:29 (random)
+    AdvData: 1e ff 4c 00 07 19 01 14 20 55 aa b1 31 00 00 55 c3 f8 6f 21 2e ce 02 0f ff 78 7a 72 32 99 1a
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 07 19 01 14 20 55 aa b1 31 00 00 55 c3 f8 6f 21 2e ce 02 0f ff 78 7a 72 32 99 1a
+
+    Data:  29 94 a0 0b a8 5f 1e ff 4c 00 07 19 01 14 20 55 aa b1 31 00 00 55 c3 f8 6f 21 2e ce 02 0f ff 78 7a 72 32 99 1a
+    CRC:   a2 9b 86
+
+systime=1707957699 freq=2402 addr=8e89bed6 delta_t=3.934 ms rssi=-84
+66 25 83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 35 aa b1 31 00 00 c8 93 09 d5 9d ab fc 8a d3 e9 6b d9 7b d1 2a 83 9f 2f 29 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_SCAN_IND
+    AdvA:  50:4d:4e:fc:32:83 (random)
+    AdvData: 1e ff 4c 00 07 19 01 14 20 35 aa b1 31 00 00 c8 93 09 d5 9d ab fc 8a d3 e9 6b d9 7b d1 2a 83
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 07 19 01 14 20 35 aa b1 31 00 00 c8 93 09 d5 9d ab fc 8a d3 e9 6b d9 7b d1 2a 83
+
+    Data:  83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 35 aa b1 31 00 00 c8 93 09 d5 9d ab fc 8a d3 e9 6b d9 7b d1 2a 83
+    CRC:   9f 2f 29
+
+systime=1707957699 freq=2402 addr=8e89bed6 delta_t=20.043 ms rssi=-84
+66 25 83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 35 aa b1 31 00 00 c8 93 09 d5 9d ab fc 8a d3 e9 6b d9 7b d1 2a 83 9f 2f 29 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_SCAN_IND
+    AdvA:  50:4d:4e:fc:32:83 (random)
+    AdvData: 1e ff 4c 00 07 19 01 14 20 35 aa b1 31 00 00 c8 93 09 d5 9d ab fc 8a d3 e9 6b d9 7b d1 2a 83
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 07 19 01 14 20 35 aa b1 31 00 00 c8 93 09 d5 9d ab fc 8a d3 e9 6b d9 7b d1 2a 83
+
+    Data:  83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 35 aa b1 31 00 00 c8 93 09 d5 9d ab fc 8a d3 e9 6b d9 7b d1 2a 83
+    CRC:   9f 2f 29
+
+systime=1707957699 freq=2402 addr=8e89bed6 delta_t=3.725 ms rssi=-76
+66 25 29 94 a0 0b a8 5f 1e ff 4c 00 07 19 01 14 20 55 aa b1 31 00 00 6c 31 d5 8a 2d 28 f6 6c f6 5a a9 cb d5 cf c7 09 6c 2a 66 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_SCAN_IND
+    AdvA:  5f:a8:0b:a0:94:29 (random)
+    AdvData: 1e ff 4c 00 07 19 01 14 20 55 aa b1 31 00 00 6c 31 d5 8a 2d 28 f6 6c f6 5a a9 cb d5 cf c7 09
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 07 19 01 14 20 55 aa b1 31 00 00 6c 31 d5 8a 2d 28 f6 6c f6 5a a9 cb d5 cf c7 09
+
+    Data:  29 94 a0 0b a8 5f 1e ff 4c 00 07 19 01 14 20 55 aa b1 31 00 00 6c 31 d5 8a 2d 28 f6 6c f6 5a a9 cb d5 cf c7 09
+    CRC:   6c 2a 66
+
+systime=1707957699 freq=2402 addr=8e89bed6 delta_t=6.250 ms rssi=-77
+60 25 b8 dc 11 fb de e8 1e ff 4c 00 12 19 29 3d d7 10 6e da de 32 94 1d 59 ce b2 1a 2f 4b 6a 2a ea 2a a2 24 d3 02 5e 96 ab c7 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_IND
+    AdvA:  e8:de:fb:11:dc:b8 (random)
+    AdvData: 1e ff 4c 00 12 19 29 3d d7 10 6e da de 32 94 1d 59 ce b2 1a 2f 4b 6a 2a ea 2a a2 24 d3 02 5e
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 12 19 29 3d d7 10 6e da de 32 94 1d 59 ce b2 1a 2f 4b 6a 2a ea 2a a2 24 d3 02 5e
+
+    Data:  b8 dc 11 fb de e8 1e ff 4c 00 12 19 29 3d d7 10 6e da de 32 94 1d 59 ce b2 1a 2f 4b 6a 2a ea 2a a2 24 d3 02 5e
+    CRC:   96 ab c7
+
+systime=1707957699 freq=2402 addr=8e89bed6 delta_t=21.959 ms rssi=-76
+66 25 29 94 a0 0b a8 5f 1e ff 4c 00 07 19 01 14 20 55 aa b1 31 00 00 6c 31 d5 8a 2d 28 f6 6c f6 5a a9 cb d5 cf c7 09 6c 2a 66 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_SCAN_IND
+    AdvA:  5f:a8:0b:a0:94:29 (random)
+    AdvData: 1e ff 4c 00 07 19 01 14 20 55 aa b1 31 00 00 6c 31 d5 8a 2d 28 f6 6c f6 5a a9 cb d5 cf c7 09
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 07 19 01 14 20 55 aa b1 31 00 00 6c 31 d5 8a 2d 28 f6 6c f6 5a a9 cb d5 cf c7 09
+
+    Data:  29 94 a0 0b a8 5f 1e ff 4c 00 07 19 01 14 20 55 aa b1 31 00 00 6c 31 d5 8a 2d 28 f6 6c f6 5a a9 cb d5 cf c7 09
+    CRC:   6c 2a 66
+
+systime=1707957699 freq=2402 addr=8e89bed6 delta_t=20.397 ms rssi=-76
+66 25 29 94 a0 0b a8 5f 1e ff 4c 00 07 19 01 14 20 55 aa b1 31 00 00 6c 31 d5 8a 2d 28 f6 6c f6 5a a9 cb d5 cf c7 09 6c 2a 66 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_SCAN_IND
+    AdvA:  5f:a8:0b:a0:94:29 (random)
+    AdvData: 1e ff 4c 00 07 19 01 14 20 55 aa b1 31 00 00 6c 31 d5 8a 2d 28 f6 6c f6 5a a9 cb d5 cf c7 09
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 07 19 01 14 20 55 aa b1 31 00 00 6c 31 d5 8a 2d 28 f6 6c f6 5a a9 cb d5 cf c7 09
+
+    Data:  29 94 a0 0b a8 5f 1e ff 4c 00 07 19 01 14 20 55 aa b1 31 00 00 6c 31 d5 8a 2d 28 f6 6c f6 5a a9 cb d5 cf c7 09
+    CRC:   6c 2a 66
+
+systime=1707957699 freq=2402 addr=8e89bed6 delta_t=0.656 ms rssi=-79
+66 25 83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 35 aa b1 31 00 00 c8 93 09 d5 9d ab fc 8a d3 e9 6b d9 7b d1 2a 83 9f 2f 29 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_SCAN_IND
+    AdvA:  50:4d:4e:fc:32:83 (random)
+    AdvData: 1e ff 4c 00 07 19 01 14 20 35 aa b1 31 00 00 c8 93 09 d5 9d ab fc 8a d3 e9 6b d9 7b d1 2a 83
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 07 19 01 14 20 35 aa b1 31 00 00 c8 93 09 d5 9d ab fc 8a d3 e9 6b d9 7b d1 2a 83
+
+    Data:  83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 35 aa b1 31 00 00 c8 93 09 d5 9d ab fc 8a d3 e9 6b d9 7b d1 2a 83
+    CRC:   9f 2f 29
+
+systime=1707957699 freq=2402 addr=8e89bed6 delta_t=26.390 ms rssi=-79
+66 25 83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 35 aa b1 31 00 00 c8 93 09 d5 9d ab fc 8a d3 e9 6b d9 7b d1 2a 83 9f 2f 29 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_SCAN_IND
+    AdvA:  50:4d:4e:fc:32:83 (random)
+    AdvData: 1e ff 4c 00 07 19 01 14 20 35 aa b1 31 00 00 c8 93 09 d5 9d ab fc 8a d3 e9 6b d9 7b d1 2a 83
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 07 19 01 14 20 35 aa b1 31 00 00 c8 93 09 d5 9d ab fc 8a d3 e9 6b d9 7b d1 2a 83
+
+    Data:  83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 35 aa b1 31 00 00 c8 93 09 d5 9d ab fc 8a d3 e9 6b d9 7b d1 2a 83
+    CRC:   9f 2f 29
+
+systime=1707957699 freq=2402 addr=8e89bed6 delta_t=1.331 ms rssi=-77
+66 25 29 94 a0 0b a8 5f 1e ff 4c 00 07 19 01 14 20 55 aa b1 31 00 00 6c 31 d5 8a 2d 28 f6 6c f6 5a a9 cb d5 cf c7 09 6c 2a 66 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_SCAN_IND
+    AdvA:  5f:a8:0b:a0:94:29 (random)
+    AdvData: 1e ff 4c 00 07 19 01 14 20 55 aa b1 31 00 00 6c 31 d5 8a 2d 28 f6 6c f6 5a a9 cb d5 cf c7 09
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 07 19 01 14 20 55 aa b1 31 00 00 6c 31 d5 8a 2d 28 f6 6c f6 5a a9 cb d5 cf c7 09
+
+    Data:  29 94 a0 0b a8 5f 1e ff 4c 00 07 19 01 14 20 55 aa b1 31 00 00 6c 31 d5 8a 2d 28 f6 6c f6 5a a9 cb d5 cf c7 09
+    CRC:   6c 2a 66
+
+systime=1707957699 freq=2402 addr=8e89bed6 delta_t=30.334 ms rssi=-76
+66 25 29 94 a0 0b a8 5f 1e ff 4c 00 07 19 01 14 20 55 aa b1 31 00 00 6c 31 d5 8a 2d 28 f6 6c f6 5a a9 cb d5 cf c7 09 6c 2a 66 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_SCAN_IND
+    AdvA:  5f:a8:0b:a0:94:29 (random)
+    AdvData: 1e ff 4c 00 07 19 01 14 20 55 aa b1 31 00 00 6c 31 d5 8a 2d 28 f6 6c f6 5a a9 cb d5 cf c7 09
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 07 19 01 14 20 55 aa b1 31 00 00 6c 31 d5 8a 2d 28 f6 6c f6 5a a9 cb d5 cf c7 09
+
+    Data:  29 94 a0 0b a8 5f 1e ff 4c 00 07 19 01 14 20 55 aa b1 31 00 00 6c 31 d5 8a 2d 28 f6 6c f6 5a a9 cb d5 cf c7 09
+    CRC:   6c 2a 66
+
+systime=1707957699 freq=2402 addr=8e89bed6 delta_t=18.779 ms rssi=-75
+66 25 29 94 a0 0b a8 5f 1e ff 4c 00 07 19 01 14 20 55 aa b1 31 00 00 6c 31 d5 8a 2d 28 f6 6c f6 5a a9 cb d5 cf c7 09 6c 2a 66 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_SCAN_IND
+    AdvA:  5f:a8:0b:a0:94:29 (random)
+    AdvData: 1e ff 4c 00 07 19 01 14 20 55 aa b1 31 00 00 6c 31 d5 8a 2d 28 f6 6c f6 5a a9 cb d5 cf c7 09
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 07 19 01 14 20 55 aa b1 31 00 00 6c 31 d5 8a 2d 28 f6 6c f6 5a a9 cb d5 cf c7 09
+
+    Data:  29 94 a0 0b a8 5f 1e ff 4c 00 07 19 01 14 20 55 aa b1 31 00 00 6c 31 d5 8a 2d 28 f6 6c f6 5a a9 cb d5 cf c7 09
+    CRC:   6c 2a 66
+
+systime=1707957699 freq=2402 addr=8e89bed6 delta_t=7.345 ms rssi=-79
+66 25 83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 35 aa b1 31 00 00 c8 93 09 d5 9d ab fc 8a d3 e9 6b d9 7b d1 2a 83 9f 2f 29 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_SCAN_IND
+    AdvA:  50:4d:4e:fc:32:83 (random)
+    AdvData: 1e ff 4c 00 07 19 01 14 20 35 aa b1 31 00 00 c8 93 09 d5 9d ab fc 8a d3 e9 6b d9 7b d1 2a 83
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 07 19 01 14 20 35 aa b1 31 00 00 c8 93 09 d5 9d ab fc 8a d3 e9 6b d9 7b d1 2a 83
+
+    Data:  83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 35 aa b1 31 00 00 c8 93 09 d5 9d ab fc 8a d3 e9 6b d9 7b d1 2a 83
+    CRC:   9f 2f 29
+
+systime=1707957699 freq=2402 addr=8e89bed6 delta_t=13.799 ms rssi=-75
+66 25 29 94 a0 0b a8 5f 1e ff 4c 00 07 19 01 14 20 55 aa b1 31 00 00 6c 31 d5 8a 2d 28 f6 6c f6 5a a9 cb d5 cf c7 09 6c 2a 66 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_SCAN_IND
+    AdvA:  5f:a8:0b:a0:94:29 (random)
+    AdvData: 1e ff 4c 00 07 19 01 14 20 55 aa b1 31 00 00 6c 31 d5 8a 2d 28 f6 6c f6 5a a9 cb d5 cf c7 09
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 07 19 01 14 20 55 aa b1 31 00 00 6c 31 d5 8a 2d 28 f6 6c f6 5a a9 cb d5 cf c7 09
+
+    Data:  29 94 a0 0b a8 5f 1e ff 4c 00 07 19 01 14 20 55 aa b1 31 00 00 6c 31 d5 8a 2d 28 f6 6c f6 5a a9 cb d5 cf c7 09
+    CRC:   6c 2a 66
+
+systime=1707957699 freq=2402 addr=8e89bed6 delta_t=12.393 ms rssi=-87
+66 25 83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 35 aa b1 31 00 00 c8 93 09 d5 9d ab fc 8a d3 e9 6b d9 7b d1 2a 83 9f 2f 29 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_SCAN_IND
+    AdvA:  50:4d:4e:fc:32:83 (random)
+    AdvData: 1e ff 4c 00 07 19 01 14 20 35 aa b1 31 00 00 c8 93 09 d5 9d ab fc 8a d3 e9 6b d9 7b d1 2a 83
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 07 19 01 14 20 35 aa b1 31 00 00 c8 93 09 d5 9d ab fc 8a d3 e9 6b d9 7b d1 2a 83
+
+    Data:  83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 35 aa b1 31 00 00 c8 93 09 d5 9d ab fc 8a d3 e9 6b d9 7b d1 2a 83
+    CRC:   9f 2f 29
+
+systime=1707957699 freq=2402 addr=8e89bed6 delta_t=12.343 ms rssi=-77
+66 25 29 94 a0 0b a8 5f 1e ff 4c 00 07 19 01 14 20 55 aa b1 31 00 00 6c 31 d5 8a 2d 28 f6 6c f6 5a a9 cb d5 cf c7 09 6c 2a 66 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_SCAN_IND
+    AdvA:  5f:a8:0b:a0:94:29 (random)
+    AdvData: 1e ff 4c 00 07 19 01 14 20 55 aa b1 31 00 00 6c 31 d5 8a 2d 28 f6 6c f6 5a a9 cb d5 cf c7 09
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 07 19 01 14 20 55 aa b1 31 00 00 6c 31 d5 8a 2d 28 f6 6c f6 5a a9 cb d5 cf c7 09
+
+    Data:  29 94 a0 0b a8 5f 1e ff 4c 00 07 19 01 14 20 55 aa b1 31 00 00 6c 31 d5 8a 2d 28 f6 6c f6 5a a9 cb d5 cf c7 09
+    CRC:   6c 2a 66
+
+systime=1707957699 freq=2402 addr=8e89bed6 delta_t=14.124 ms rssi=-81
+66 25 83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 35 aa b1 31 00 00 c8 93 09 d5 9d ab fc 8a d3 e9 6b d9 7b d1 2a 83 9f 2f 29 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_SCAN_IND
+    AdvA:  50:4d:4e:fc:32:83 (random)
+    AdvData: 1e ff 4c 00 07 19 01 14 20 35 aa b1 31 00 00 c8 93 09 d5 9d ab fc 8a d3 e9 6b d9 7b d1 2a 83
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 07 19 01 14 20 35 aa b1 31 00 00 c8 93 09 d5 9d ab fc 8a d3 e9 6b d9 7b d1 2a 83
+
+    Data:  83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 35 aa b1 31 00 00 c8 93 09 d5 9d ab fc 8a d3 e9 6b d9 7b d1 2a 83
+    CRC:   9f 2f 29
+
+systime=1707957699 freq=2402 addr=8e89bed6 delta_t=9.907 ms rssi=-75
+66 25 29 94 a0 0b a8 5f 1e ff 4c 00 07 19 01 14 20 55 aa b1 31 00 00 6c 31 d5 8a 2d 28 f6 6c f6 5a a9 cb d5 cf c7 09 6c 2a 66 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_SCAN_IND
+    AdvA:  5f:a8:0b:a0:94:29 (random)
+    AdvData: 1e ff 4c 00 07 19 01 14 20 55 aa b1 31 00 00 6c 31 d5 8a 2d 28 f6 6c f6 5a a9 cb d5 cf c7 09
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 07 19 01 14 20 55 aa b1 31 00 00 6c 31 d5 8a 2d 28 f6 6c f6 5a a9 cb d5 cf c7 09
+
+    Data:  29 94 a0 0b a8 5f 1e ff 4c 00 07 19 01 14 20 55 aa b1 31 00 00 6c 31 d5 8a 2d 28 f6 6c f6 5a a9 cb d5 cf c7 09
+    CRC:   6c 2a 66
+
+systime=1707957699 freq=2402 addr=8e89bed6 delta_t=5.154 ms rssi=-82
+66 25 83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 35 aa b1 31 00 00 c8 93 09 d5 9d ab fc 8a d3 e9 6b d9 7b d1 2a 83 9f 2f 29 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_SCAN_IND
+    AdvA:  50:4d:4e:fc:32:83 (random)
+    AdvData: 1e ff 4c 00 07 19 01 14 20 35 aa b1 31 00 00 c8 93 09 d5 9d ab fc 8a d3 e9 6b d9 7b d1 2a 83
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 07 19 01 14 20 35 aa b1 31 00 00 c8 93 09 d5 9d ab fc 8a d3 e9 6b d9 7b d1 2a 83
+
+    Data:  83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 35 aa b1 31 00 00 c8 93 09 d5 9d ab fc 8a d3 e9 6b d9 7b d1 2a 83
+    CRC:   9f 2f 29
+
+systime=1707957699 freq=2402 addr=8e89bed6 delta_t=17.088 ms rssi=-75
+66 25 29 94 a0 0b a8 5f 1e ff 4c 00 07 19 01 14 20 55 aa b1 31 00 00 6c 31 d5 8a 2d 28 f6 6c f6 5a a9 cb d5 cf c7 09 6c 2a 66 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_SCAN_IND
+    AdvA:  5f:a8:0b:a0:94:29 (random)
+    AdvData: 1e ff 4c 00 07 19 01 14 20 55 aa b1 31 00 00 6c 31 d5 8a 2d 28 f6 6c f6 5a a9 cb d5 cf c7 09
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 07 19 01 14 20 55 aa b1 31 00 00 6c 31 d5 8a 2d 28 f6 6c f6 5a a9 cb d5 cf c7 09
+
+    Data:  29 94 a0 0b a8 5f 1e ff 4c 00 07 19 01 14 20 55 aa b1 31 00 00 6c 31 d5 8a 2d 28 f6 6c f6 5a a9 cb d5 cf c7 09
+    CRC:   6c 2a 66
+
+systime=1707957699 freq=2402 addr=8e89bed6 delta_t=11.389 ms rssi=-80
+66 25 83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 35 aa b1 31 00 00 c8 93 09 d5 9d ab fc 8a d3 e9 6b d9 7b d1 2a 83 9f 2f 29 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_SCAN_IND
+    AdvA:  50:4d:4e:fc:32:83 (random)
+    AdvData: 1e ff 4c 00 07 19 01 14 20 35 aa b1 31 00 00 c8 93 09 d5 9d ab fc 8a d3 e9 6b d9 7b d1 2a 83
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 07 19 01 14 20 35 aa b1 31 00 00 c8 93 09 d5 9d ab fc 8a d3 e9 6b d9 7b d1 2a 83
+
+    Data:  83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 35 aa b1 31 00 00 c8 93 09 d5 9d ab fc 8a d3 e9 6b d9 7b d1 2a 83
+    CRC:   9f 2f 29
+
+systime=1707957699 freq=2402 addr=8e89bed6 delta_t=16.058 ms rssi=-75
+66 25 29 94 a0 0b a8 5f 1e ff 4c 00 07 19 01 14 20 55 aa b1 31 00 00 6c 31 d5 8a 2d 28 f6 6c f6 5a a9 cb d5 cf c7 09 6c 2a 66 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_SCAN_IND
+    AdvA:  5f:a8:0b:a0:94:29 (random)
+    AdvData: 1e ff 4c 00 07 19 01 14 20 55 aa b1 31 00 00 6c 31 d5 8a 2d 28 f6 6c f6 5a a9 cb d5 cf c7 09
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 07 19 01 14 20 55 aa b1 31 00 00 6c 31 d5 8a 2d 28 f6 6c f6 5a a9 cb d5 cf c7 09
+
+    Data:  29 94 a0 0b a8 5f 1e ff 4c 00 07 19 01 14 20 55 aa b1 31 00 00 6c 31 d5 8a 2d 28 f6 6c f6 5a a9 cb d5 cf c7 09
+    CRC:   6c 2a 66
+
+systime=1707957699 freq=2402 addr=8e89bed6 delta_t=10.489 ms rssi=-80
+66 25 83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 35 aa b1 31 00 00 c8 93 09 d5 9d ab fc 8a d3 e9 6b d9 7b d1 2a 83 9f 2f 29 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_SCAN_IND
+    AdvA:  50:4d:4e:fc:32:83 (random)
+    AdvData: 1e ff 4c 00 07 19 01 14 20 35 aa b1 31 00 00 c8 93 09 d5 9d ab fc 8a d3 e9 6b d9 7b d1 2a 83
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 07 19 01 14 20 35 aa b1 31 00 00 c8 93 09 d5 9d ab fc 8a d3 e9 6b d9 7b d1 2a 83
+
+    Data:  83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 35 aa b1 31 00 00 c8 93 09 d5 9d ab fc 8a d3 e9 6b d9 7b d1 2a 83
+    CRC:   9f 2f 29
+
+systime=1707957699 freq=2402 addr=8e89bed6 delta_t=27.272 ms rssi=-87
+66 25 83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 35 aa b1 31 00 00 c8 93 09 d5 9d ab fc 8a d3 e9 6b d9 7b d1 2a 83 9f 2f 29 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_SCAN_IND
+    AdvA:  50:4d:4e:fc:32:83 (random)
+    AdvData: 1e ff 4c 00 07 19 01 14 20 35 aa b1 31 00 00 c8 93 09 d5 9d ab fc 8a d3 e9 6b d9 7b d1 2a 83
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 07 19 01 14 20 35 aa b1 31 00 00 c8 93 09 d5 9d ab fc 8a d3 e9 6b d9 7b d1 2a 83
+
+    Data:  83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 35 aa b1 31 00 00 c8 93 09 d5 9d ab fc 8a d3 e9 6b d9 7b d1 2a 83
+    CRC:   9f 2f 29
+
+systime=1707957699 freq=2402 addr=8e89bed6 delta_t=8.700 ms rssi=-78
+66 25 29 94 a0 0b a8 5f 1e ff 4c 00 07 19 01 14 20 55 aa b1 31 00 00 6c 31 d5 8a 2d 28 f6 6c f6 5a a9 cb d5 cf c7 09 6c 2a 66 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_SCAN_IND
+    AdvA:  5f:a8:0b:a0:94:29 (random)
+    AdvData: 1e ff 4c 00 07 19 01 14 20 55 aa b1 31 00 00 6c 31 d5 8a 2d 28 f6 6c f6 5a a9 cb d5 cf c7 09
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 07 19 01 14 20 55 aa b1 31 00 00 6c 31 d5 8a 2d 28 f6 6c f6 5a a9 cb d5 cf c7 09
+
+    Data:  29 94 a0 0b a8 5f 1e ff 4c 00 07 19 01 14 20 55 aa b1 31 00 00 6c 31 d5 8a 2d 28 f6 6c f6 5a a9 cb d5 cf c7 09
+    CRC:   6c 2a 66
+
+systime=1707957699 freq=2402 addr=8e89bed6 delta_t=17.841 ms rssi=-88
+66 25 83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 35 aa b1 31 00 00 c8 93 09 d5 9d ab fc 8a d3 e9 6b d9 7b d1 2a 83 9f 2f 29 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_SCAN_IND
+    AdvA:  50:4d:4e:fc:32:83 (random)
+    AdvData: 1e ff 4c 00 07 19 01 14 20 35 aa b1 31 00 00 c8 93 09 d5 9d ab fc 8a d3 e9 6b d9 7b d1 2a 83
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 07 19 01 14 20 35 aa b1 31 00 00 c8 93 09 d5 9d ab fc 8a d3 e9 6b d9 7b d1 2a 83
+
+    Data:  83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 35 aa b1 31 00 00 c8 93 09 d5 9d ab fc 8a d3 e9 6b d9 7b d1 2a 83
+    CRC:   9f 2f 29
+
+systime=1707957699 freq=2402 addr=8e89bed6 delta_t=32.058 ms rssi=-76
+66 25 29 94 a0 0b a8 5f 1e ff 4c 00 07 19 01 14 20 55 aa b1 31 00 00 6c 31 d5 8a 2d 28 f6 6c f6 5a a9 cb d5 cf c7 09 6c 2a 66 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_SCAN_IND
+    AdvA:  5f:a8:0b:a0:94:29 (random)
+    AdvData: 1e ff 4c 00 07 19 01 14 20 55 aa b1 31 00 00 6c 31 d5 8a 2d 28 f6 6c f6 5a a9 cb d5 cf c7 09
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 07 19 01 14 20 55 aa b1 31 00 00 6c 31 d5 8a 2d 28 f6 6c f6 5a a9 cb d5 cf c7 09
+
+    Data:  29 94 a0 0b a8 5f 1e ff 4c 00 07 19 01 14 20 55 aa b1 31 00 00 6c 31 d5 8a 2d 28 f6 6c f6 5a a9 cb d5 cf c7 09
+    CRC:   6c 2a 66
+
+systime=1707957699 freq=2402 addr=8e89bed6 delta_t=13.537 ms rssi=-87
+66 25 83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 35 aa b1 31 00 00 c8 93 09 d5 9d ab fc 8a d3 e9 6b d9 7b d1 2a 83 9f 2f 29 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_SCAN_IND
+    AdvA:  50:4d:4e:fc:32:83 (random)
+    AdvData: 1e ff 4c 00 07 19 01 14 20 35 aa b1 31 00 00 c8 93 09 d5 9d ab fc 8a d3 e9 6b d9 7b d1 2a 83
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 07 19 01 14 20 35 aa b1 31 00 00 c8 93 09 d5 9d ab fc 8a d3 e9 6b d9 7b d1 2a 83
+
+    Data:  83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 35 aa b1 31 00 00 c8 93 09 d5 9d ab fc 8a d3 e9 6b d9 7b d1 2a 83
+    CRC:   9f 2f 29
+
+systime=1707957699 freq=2402 addr=8e89bed6 delta_t=26.416 ms rssi=-85
+66 25 83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 35 aa b1 31 00 00 c8 93 09 d5 9d ab fc 8a d3 e9 6b d9 7b d1 2a 83 9f 2f 29 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_SCAN_IND
+    AdvA:  50:4d:4e:fc:32:83 (random)
+    AdvData: 1e ff 4c 00 07 19 01 14 20 35 aa b1 31 00 00 c8 93 09 d5 9d ab fc 8a d3 e9 6b d9 7b d1 2a 83
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 07 19 01 14 20 35 aa b1 31 00 00 c8 93 09 d5 9d ab fc 8a d3 e9 6b d9 7b d1 2a 83
+
+    Data:  83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 35 aa b1 31 00 00 c8 93 09 d5 9d ab fc 8a d3 e9 6b d9 7b d1 2a 83
+    CRC:   9f 2f 29
+
+systime=1707957699 freq=2402 addr=8e89bed6 delta_t=26.395 ms rssi=-84
+66 25 83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 35 aa b1 31 00 00 c8 93 09 d5 9d ab fc 8a d3 e9 6b d9 7b d1 2a 83 9f 2f 29 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_SCAN_IND
+    AdvA:  50:4d:4e:fc:32:83 (random)
+    AdvData: 1e ff 4c 00 07 19 01 14 20 35 aa b1 31 00 00 c8 93 09 d5 9d ab fc 8a d3 e9 6b d9 7b d1 2a 83
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 07 19 01 14 20 35 aa b1 31 00 00 c8 93 09 d5 9d ab fc 8a d3 e9 6b d9 7b d1 2a 83
+
+    Data:  83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 35 aa b1 31 00 00 c8 93 09 d5 9d ab fc 8a d3 e9 6b d9 7b d1 2a 83
+    CRC:   9f 2f 29
+
+systime=1707957699 freq=2402 addr=8e89bed6 delta_t=12.769 ms rssi=-75
+66 25 29 94 a0 0b a8 5f 1e ff 4c 00 07 19 01 14 20 55 aa b1 31 00 00 6c 31 d5 8a 2d 28 f6 6c f6 5a a9 cb d5 cf c7 09 6c 2a 66 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_SCAN_IND
+    AdvA:  5f:a8:0b:a0:94:29 (random)
+    AdvData: 1e ff 4c 00 07 19 01 14 20 55 aa b1 31 00 00 6c 31 d5 8a 2d 28 f6 6c f6 5a a9 cb d5 cf c7 09
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 07 19 01 14 20 55 aa b1 31 00 00 6c 31 d5 8a 2d 28 f6 6c f6 5a a9 cb d5 cf c7 09
+
+    Data:  29 94 a0 0b a8 5f 1e ff 4c 00 07 19 01 14 20 55 aa b1 31 00 00 6c 31 d5 8a 2d 28 f6 6c f6 5a a9 cb d5 cf c7 09
+    CRC:   6c 2a 66
+
+systime=1707957699 freq=2402 addr=8e89bed6 delta_t=19.529 ms rssi=-84
+66 25 83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 35 aa b1 31 00 00 c8 93 09 d5 9d ab fc 8a d3 e9 6b d9 7b d1 2a 83 9f 2f 29 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_SCAN_IND
+    AdvA:  50:4d:4e:fc:32:83 (random)
+    AdvData: 1e ff 4c 00 07 19 01 14 20 35 aa b1 31 00 00 c8 93 09 d5 9d ab fc 8a d3 e9 6b d9 7b d1 2a 83
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 07 19 01 14 20 35 aa b1 31 00 00 c8 93 09 d5 9d ab fc 8a d3 e9 6b d9 7b d1 2a 83
+
+    Data:  83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 35 aa b1 31 00 00 c8 93 09 d5 9d ab fc 8a d3 e9 6b d9 7b d1 2a 83
+    CRC:   9f 2f 29
+
+systime=1707957699 freq=2402 addr=8e89bed6 delta_t=32.313 ms rssi=-84
+66 25 83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 35 aa b1 31 00 00 c8 93 09 d5 9d ab fc 8a d3 e9 6b d9 7b d1 2a 83 9f 2f 29 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_SCAN_IND
+    AdvA:  50:4d:4e:fc:32:83 (random)
+    AdvData: 1e ff 4c 00 07 19 01 14 20 35 aa b1 31 00 00 c8 93 09 d5 9d ab fc 8a d3 e9 6b d9 7b d1 2a 83
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 07 19 01 14 20 35 aa b1 31 00 00 c8 93 09 d5 9d ab fc 8a d3 e9 6b d9 7b d1 2a 83
+
+    Data:  83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 35 aa b1 31 00 00 c8 93 09 d5 9d ab fc 8a d3 e9 6b d9 7b d1 2a 83
+    CRC:   9f 2f 29
+
+systime=1707957699 freq=2402 addr=8e89bed6 delta_t=1.905 ms rssi=-75
+66 25 29 94 a0 0b a8 5f 1e ff 4c 00 07 19 01 14 20 55 aa b1 31 00 00 6c 31 d5 8a 2d 28 f6 6c f6 5a a9 cb d5 cf c7 09 6c 2a 66 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_SCAN_IND
+    AdvA:  5f:a8:0b:a0:94:29 (random)
+    AdvData: 1e ff 4c 00 07 19 01 14 20 55 aa b1 31 00 00 6c 31 d5 8a 2d 28 f6 6c f6 5a a9 cb d5 cf c7 09
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 07 19 01 14 20 55 aa b1 31 00 00 6c 31 d5 8a 2d 28 f6 6c f6 5a a9 cb d5 cf c7 09
+
+    Data:  29 94 a0 0b a8 5f 1e ff 4c 00 07 19 01 14 20 55 aa b1 31 00 00 6c 31 d5 8a 2d 28 f6 6c f6 5a a9 cb d5 cf c7 09
+    CRC:   6c 2a 66
+
+systime=1707957699 freq=2402 addr=8e89bed6 delta_t=24.609 ms rssi=-84
+66 25 83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 35 aa b1 31 00 00 c8 93 09 d5 9d ab fc 8a d3 e9 6b d9 7b d1 2a 83 9f 2f 29 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_SCAN_IND
+    AdvA:  50:4d:4e:fc:32:83 (random)
+    AdvData: 1e ff 4c 00 07 19 01 14 20 35 aa b1 31 00 00 c8 93 09 d5 9d ab fc 8a d3 e9 6b d9 7b d1 2a 83
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 07 19 01 14 20 35 aa b1 31 00 00 c8 93 09 d5 9d ab fc 8a d3 e9 6b d9 7b d1 2a 83
+
+    Data:  83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 35 aa b1 31 00 00 c8 93 09 d5 9d ab fc 8a d3 e9 6b d9 7b d1 2a 83
+    CRC:   9f 2f 29
+
+systime=1707957699 freq=2402 addr=8e89bed6 delta_t=31.751 ms rssi=-74
+66 25 29 94 a0 0b a8 5f 1e ff 4c 00 07 19 01 14 20 55 aa b1 31 00 00 6c 31 d5 8a 2d 28 f6 6c f6 5a a9 cb d5 cf c7 09 6c 2a 66 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_SCAN_IND
+    AdvA:  5f:a8:0b:a0:94:29 (random)
+    AdvData: 1e ff 4c 00 07 19 01 14 20 55 aa b1 31 00 00 6c 31 d5 8a 2d 28 f6 6c f6 5a a9 cb d5 cf c7 09
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 07 19 01 14 20 55 aa b1 31 00 00 6c 31 d5 8a 2d 28 f6 6c f6 5a a9 cb d5 cf c7 09
+
+    Data:  29 94 a0 0b a8 5f 1e ff 4c 00 07 19 01 14 20 55 aa b1 31 00 00 6c 31 d5 8a 2d 28 f6 6c f6 5a a9 cb d5 cf c7 09
+    CRC:   6c 2a 66
+
+systime=1707957699 freq=2402 addr=8e89bed6 delta_t=20.565 ms rssi=-85
+66 25 83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 35 aa b1 31 00 00 c8 93 09 d5 9d ab fc 8a d3 e9 6b d9 7b d1 2a 83 9f 2f 29 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_SCAN_IND
+    AdvA:  50:4d:4e:fc:32:83 (random)
+    AdvData: 1e ff 4c 00 07 19 01 14 20 35 aa b1 31 00 00 c8 93 09 d5 9d ab fc 8a d3 e9 6b d9 7b d1 2a 83
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 07 19 01 14 20 35 aa b1 31 00 00 c8 93 09 d5 9d ab fc 8a d3 e9 6b d9 7b d1 2a 83
+
+    Data:  83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 35 aa b1 31 00 00 c8 93 09 d5 9d ab fc 8a d3 e9 6b d9 7b d1 2a 83
+    CRC:   9f 2f 29
+
+systime=1707957699 freq=2402 addr=8e89bed6 delta_t=56.449 ms rssi=-86
+60 25 0b 3f 2c ad 21 ef 1e ff 4c 00 12 19 aa 26 40 1e a0 46 f2 3f 1f db 16 34 26 ff 73 4e 1d ee ab b1 36 1b 73 03 8d 40 f9 d0 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_IND
+    AdvA:  ef:21:ad:2c:3f:0b (random)
+    AdvData: 1e ff 4c 00 12 19 aa 26 40 1e a0 46 f2 3f 1f db 16 34 26 ff 73 4e 1d ee ab b1 36 1b 73 03 8d
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 12 19 aa 26 40 1e a0 46 f2 3f 1f db 16 34 26 ff 73 4e 1d ee ab b1 36 1b 73 03 8d
+
+    Data:  0b 3f 2c ad 21 ef 1e ff 4c 00 12 19 aa 26 40 1e a0 46 f2 3f 1f db 16 34 26 ff 73 4e 1d ee ab b1 36 1b 73 03 8d
+    CRC:   40 f9 d0
+
+systime=1707957699 freq=2402 addr=8e89bed6 delta_t=3.790 ms rssi=-76
+66 25 29 94 a0 0b a8 5f 1e ff 4c 00 07 19 01 14 20 55 aa b1 31 00 00 6c 31 d5 8a 2d 28 f6 6c f6 5a a9 cb d5 cf c7 09 6c 2a 66 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_SCAN_IND
+    AdvA:  5f:a8:0b:a0:94:29 (random)
+    AdvData: 1e ff 4c 00 07 19 01 14 20 55 aa b1 31 00 00 6c 31 d5 8a 2d 28 f6 6c f6 5a a9 cb d5 cf c7 09
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 07 19 01 14 20 55 aa b1 31 00 00 6c 31 d5 8a 2d 28 f6 6c f6 5a a9 cb d5 cf c7 09
+
+    Data:  29 94 a0 0b a8 5f 1e ff 4c 00 07 19 01 14 20 55 aa b1 31 00 00 6c 31 d5 8a 2d 28 f6 6c f6 5a a9 cb d5 cf c7 09
+    CRC:   6c 2a 66
+
+systime=1707957699 freq=2402 addr=8e89bed6 delta_t=8.811 ms rssi=-89
+66 25 83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 35 aa b1 31 00 00 c8 93 09 d5 9d ab fc 8a d3 e9 6b d9 7b d1 2a 83 9f 2f 29 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_SCAN_IND
+    AdvA:  50:4d:4e:fc:32:83 (random)
+    AdvData: 1e ff 4c 00 07 19 01 14 20 35 aa b1 31 00 00 c8 93 09 d5 9d ab fc 8a d3 e9 6b d9 7b d1 2a 83
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 07 19 01 14 20 35 aa b1 31 00 00 c8 93 09 d5 9d ab fc 8a d3 e9 6b d9 7b d1 2a 83
+
+    Data:  83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 35 aa b1 31 00 00 c8 93 09 d5 9d ab fc 8a d3 e9 6b d9 7b d1 2a 83
+    CRC:   9f 2f 29
+
+systime=1707957699 freq=2402 addr=8e89bed6 delta_t=13.363 ms rssi=-74
+66 25 29 94 a0 0b a8 5f 1e ff 4c 00 07 19 01 14 20 55 aa b1 31 00 00 6c 31 d5 8a 2d 28 f6 6c f6 5a a9 cb d5 cf c7 09 6c 2a 66 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_SCAN_IND
+    AdvA:  5f:a8:0b:a0:94:29 (random)
+    AdvData: 1e ff 4c 00 07 19 01 14 20 55 aa b1 31 00 00 6c 31 d5 8a 2d 28 f6 6c f6 5a a9 cb d5 cf c7 09
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 07 19 01 14 20 55 aa b1 31 00 00 6c 31 d5 8a 2d 28 f6 6c f6 5a a9 cb d5 cf c7 09
+
+    Data:  29 94 a0 0b a8 5f 1e ff 4c 00 07 19 01 14 20 55 aa b1 31 00 00 6c 31 d5 8a 2d 28 f6 6c f6 5a a9 cb d5 cf c7 09
+    CRC:   6c 2a 66
+
+systime=1707957699 freq=2402 addr=8e89bed6 delta_t=12.840 ms rssi=-88
+66 25 83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 35 aa b1 31 00 00 c8 93 09 d5 9d ab fc 8a d3 e9 6b d9 7b d1 2a 83 9f 2f 29 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_SCAN_IND
+    AdvA:  50:4d:4e:fc:32:83 (random)
+    AdvData: 1e ff 4c 00 07 19 01 14 20 35 aa b1 31 00 00 c8 93 09 d5 9d ab fc 8a d3 e9 6b d9 7b d1 2a 83
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 07 19 01 14 20 35 aa b1 31 00 00 c8 93 09 d5 9d ab fc 8a d3 e9 6b d9 7b d1 2a 83
+
+    Data:  83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 35 aa b1 31 00 00 c8 93 09 d5 9d ab fc 8a d3 e9 6b d9 7b d1 2a 83
+    CRC:   9f 2f 29
+
+systime=1707957699 freq=2402 addr=8e89bed6 delta_t=16.360 ms rssi=-88
+66 25 83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 35 aa b1 31 00 00 c8 93 09 d5 9d ab fc 8a d3 e9 6b d9 7b d1 2a 83 9f 2f 29 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_SCAN_IND
+    AdvA:  50:4d:4e:fc:32:83 (random)
+    AdvData: 1e ff 4c 00 07 19 01 14 20 35 aa b1 31 00 00 c8 93 09 d5 9d ab fc 8a d3 e9 6b d9 7b d1 2a 83
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 07 19 01 14 20 35 aa b1 31 00 00 c8 93 09 d5 9d ab fc 8a d3 e9 6b d9 7b d1 2a 83
+
+    Data:  83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 35 aa b1 31 00 00 c8 93 09 d5 9d ab fc 8a d3 e9 6b d9 7b d1 2a 83
+    CRC:   9f 2f 29
+
+systime=1707957699 freq=2402 addr=8e89bed6 delta_t=26.271 ms rssi=-87
+66 25 83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 35 aa b1 31 00 00 c8 93 09 d5 9d ab fc 8a d3 e9 6b d9 7b d1 2a 83 9f 2f 29 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_SCAN_IND
+    AdvA:  50:4d:4e:fc:32:83 (random)
+    AdvData: 1e ff 4c 00 07 19 01 14 20 35 aa b1 31 00 00 c8 93 09 d5 9d ab fc 8a d3 e9 6b d9 7b d1 2a 83
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 07 19 01 14 20 35 aa b1 31 00 00 c8 93 09 d5 9d ab fc 8a d3 e9 6b d9 7b d1 2a 83
+
+    Data:  83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 35 aa b1 31 00 00 c8 93 09 d5 9d ab fc 8a d3 e9 6b d9 7b d1 2a 83
+    CRC:   9f 2f 29
+
+systime=1707957699 freq=2402 addr=8e89bed6 delta_t=2.521 ms rssi=-75
+66 25 29 94 a0 0b a8 5f 1e ff 4c 00 07 19 01 14 20 55 aa b1 31 00 00 6c 31 d5 8a 2d 28 f6 6c f6 5a a9 cb d5 cf c7 09 6c 2a 66 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_SCAN_IND
+    AdvA:  5f:a8:0b:a0:94:29 (random)
+    AdvData: 1e ff 4c 00 07 19 01 14 20 55 aa b1 31 00 00 6c 31 d5 8a 2d 28 f6 6c f6 5a a9 cb d5 cf c7 09
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 07 19 01 14 20 55 aa b1 31 00 00 6c 31 d5 8a 2d 28 f6 6c f6 5a a9 cb d5 cf c7 09
+
+    Data:  29 94 a0 0b a8 5f 1e ff 4c 00 07 19 01 14 20 55 aa b1 31 00 00 6c 31 d5 8a 2d 28 f6 6c f6 5a a9 cb d5 cf c7 09
+    CRC:   6c 2a 66
+
+systime=1707957699 freq=2402 addr=8e89bed6 delta_t=46.327 ms rssi=-74
+66 25 29 94 a0 0b a8 5f 1e ff 4c 00 07 19 01 14 20 55 aa b1 31 00 00 6c 31 d5 8a 2d 28 f6 6c f6 5a a9 cb d5 cf c7 09 6c 2a 66 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_SCAN_IND
+    AdvA:  5f:a8:0b:a0:94:29 (random)
+    AdvData: 1e ff 4c 00 07 19 01 14 20 55 aa b1 31 00 00 6c 31 d5 8a 2d 28 f6 6c f6 5a a9 cb d5 cf c7 09
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 07 19 01 14 20 55 aa b1 31 00 00 6c 31 d5 8a 2d 28 f6 6c f6 5a a9 cb d5 cf c7 09
+
+    Data:  29 94 a0 0b a8 5f 1e ff 4c 00 07 19 01 14 20 55 aa b1 31 00 00 6c 31 d5 8a 2d 28 f6 6c f6 5a a9 cb d5 cf c7 09
+    CRC:   6c 2a 66
+
+systime=1707957699 freq=2402 addr=8e89bed6 delta_t=3.656 ms rssi=-82
+66 25 83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 35 aa b1 31 00 00 c8 93 09 d5 9d ab fc 8a d3 e9 6b d9 7b d1 2a 83 9f 2f 29 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_SCAN_IND
+    AdvA:  50:4d:4e:fc:32:83 (random)
+    AdvData: 1e ff 4c 00 07 19 01 14 20 35 aa b1 31 00 00 c8 93 09 d5 9d ab fc 8a d3 e9 6b d9 7b d1 2a 83
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 07 19 01 14 20 35 aa b1 31 00 00 c8 93 09 d5 9d ab fc 8a d3 e9 6b d9 7b d1 2a 83
+
+    Data:  83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 35 aa b1 31 00 00 c8 93 09 d5 9d ab fc 8a d3 e9 6b d9 7b d1 2a 83
+    CRC:   9f 2f 29
+
+systime=1707957699 freq=2402 addr=8e89bed6 delta_t=30.269 ms rssi=-85
+60 25 b8 dc 31 fb de c8 1e ff 4c 00 12 19 29 3d d7 10 6e d2 de 22 94 3d 59 ce b2 1a 2f 4b 6a 0a ea 0a a2 24 d3 02 5e 96 ab c7 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_IND
+    AdvA:  c8:de:fb:31:dc:b8 (random)
+    AdvData: 1e ff 4c 00 12 19 29 3d d7 10 6e d2 de 22 94 3d 59 ce b2 1a 2f 4b 6a 0a ea 0a a2 24 d3 02 5e
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 12 19 29 3d d7 10 6e d2 de 22 94 3d 59 ce b2 1a 2f 4b 6a 0a ea 0a a2 24 d3 02 5e
+
+    Data:  b8 dc 31 fb de c8 1e ff 4c 00 12 19 29 3d d7 10 6e d2 de 22 94 3d 59 ce b2 1a 2f 4b 6a 0a ea 0a a2 24 d3 02 5e
+    CRC:   96 ab c7
+
+systime=1707957699 freq=2402 addr=8e89bed6 delta_t=3.750 ms rssi=-73
+66 25 29 91 21 0b a8 5f 1e ff 4c 00 07 19 01 14 20 55 aa b1 31 00 00 56 af 87 27 bd 2e 9f 87 4c df 4c 3d 30 c9 37 3a 2f 82 57 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_SCAN_IND
+    AdvA:  5f:a8:0b:21:91:29 (random)
+    AdvData: 1e ff 4c 00 07 19 01 14 20 55 aa b1 31 00 00 56 af 87 27 bd 2e 9f 87 4c df 4c 3d 30 c9 37 3a
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 07 19 01 14 20 55 aa b1 31 00 00 56 af 87 27 bd 2e 9f 87 4c df 4c 3d 30 c9 37 3a
+
+    Data:  29 91 21 0b a8 5f 1e ff 4c 00 07 19 01 14 20 55 aa b1 31 00 00 56 af 87 27 bd 2e 9f 87 4c df 4c 3d 30 c9 37 3a
+    CRC:   2f 82 57
+
+systime=1707957700 freq=2402 addr=8e89bed6 delta_t=10.834 ms rssi=-74
+66 25 29 94 a0 0b a8 5f 1e ff 4c 00 07 19 01 14 20 55 aa b1 31 00 00 56 af 87 27 bd 2e 9f 87 4c df 4c 3d 30 c9 3d 3a 2e 83 57 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_SCAN_IND
+    AdvA:  5f:a8:0b:a0:94:29 (random)
+    AdvData: 1e ff 4c 00 07 19 01 14 20 55 aa b1 31 00 00 56 af 87 27 bd 2e 9f 87 4c df 4c 3d 30 c9 3d 3a
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 07 19 01 14 20 55 aa b1 31 00 00 56 af 87 27 bd 2e 9f 87 4c df 4c 3d 30 c9 3d 3a
+
+    Data:  29 94 a0 0b a8 5f 1e ff 4c 00 07 19 01 14 20 55 aa b1 31 00 00 56 af 87 27 bd 2e 9f 87 4c df 4c 3d 30 c9 3d 3a
+    CRC:   2e 83 57
+
+systime=1707957700 freq=2402 addr=8e89bed6 delta_t=6.203 ms rssi=-81
+66 25 83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 35 aa b1 31 00 00 37 c1 50 cc 50 c4 14 05 98 f8 5c 90 e7 18 cb 8c 11 88 c5 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_SCAN_IND
+    AdvA:  50:4d:4e:fc:32:83 (random)
+    AdvData: 1e ff 4c 00 07 19 01 14 20 35 aa b1 31 00 00 37 c1 50 cc 50 c4 14 05 98 f8 5c 90 e7 18 cb 8c
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 07 19 01 14 20 35 aa b1 31 00 00 37 c1 50 cc 50 c4 14 05 98 f8 5c 90 e7 18 cb 8c
+
+    Data:  83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 35 aa b1 31 00 00 37 c1 50 cc 50 c4 14 05 98 f8 5c 90 e7 18 cb 8c
+    CRC:   11 88 c5
+
+systime=1707957700 freq=2402 addr=8e89bed6 delta_t=19.029 ms rssi=-77
+66 25 29 94 a0 0b a8 5f 1e ff 4c 00 07 19 01 14 20 55 aa b1 31 00 00 56 af 87 27 bd 2e 9f 87 4c df 4c 3d 30 c9 3d 3a 2e 83 57 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_SCAN_IND
+    AdvA:  5f:a8:0b:a0:94:29 (random)
+    AdvData: 1e ff 4c 00 07 19 01 14 20 55 aa b1 31 00 00 56 af 87 27 bd 2e 9f 87 4c df 4c 3d 30 c9 3d 3a
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 07 19 01 14 20 55 aa b1 31 00 00 56 af 87 27 bd 2e 9f 87 4c df 4c 3d 30 c9 3d 3a
+
+    Data:  29 94 a0 0b a8 5f 1e ff 4c 00 07 19 01 14 20 55 aa b1 31 00 00 56 af 87 27 bd 2e 9f 87 4c df 4c 3d 30 c9 3d 3a
+    CRC:   2e 83 57
+
+systime=1707957700 freq=2402 addr=8e89bed6 delta_t=7.210 ms rssi=-87
+66 25 83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 35 aa b1 31 00 00 37 c1 50 cc 50 c4 14 05 98 f8 5c 90 e7 18 cb 8c 11 88 c5 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_SCAN_IND
+    AdvA:  50:4d:4e:fc:32:83 (random)
+    AdvData: 1e ff 4c 00 07 19 01 14 20 35 aa b1 31 00 00 37 c1 50 cc 50 c4 14 05 98 f8 5c 90 e7 18 cb 8c
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 07 19 01 14 20 35 aa b1 31 00 00 37 c1 50 cc 50 c4 14 05 98 f8 5c 90 e7 18 cb 8c
+
+    Data:  83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 35 aa b1 31 00 00 37 c1 50 cc 50 c4 14 05 98 f8 5c 90 e7 18 cb 8c
+    CRC:   11 88 c5
+
+systime=1707957700 freq=2402 addr=8e89bed6 delta_t=40.086 ms rssi=-75
+66 25 29 94 a0 0b a8 5f 1e ff 4c 00 07 19 01 14 20 55 aa b1 31 00 00 56 af 87 27 bd 2e 9f 87 4c df 4c 3d 30 c9 3d 3a 2e 83 57 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_SCAN_IND
+    AdvA:  5f:a8:0b:a0:94:29 (random)
+    AdvData: 1e ff 4c 00 07 19 01 14 20 55 aa b1 31 00 00 56 af 87 27 bd 2e 9f 87 4c df 4c 3d 30 c9 3d 3a
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 07 19 01 14 20 55 aa b1 31 00 00 56 af 87 27 bd 2e 9f 87 4c df 4c 3d 30 c9 3d 3a
+
+    Data:  29 94 a0 0b a8 5f 1e ff 4c 00 07 19 01 14 20 55 aa b1 31 00 00 56 af 87 27 bd 2e 9f 87 4c df 4c 3d 30 c9 3d 3a
+    CRC:   2e 83 57
+
+systime=1707957700 freq=2402 addr=8e89bed6 delta_t=30.388 ms rssi=-77
+66 25 29 94 a0 0b a8 5f 1e ff 4c 00 07 19 01 14 20 55 aa b1 31 00 00 87 09 c4 b1 d6 04 74 9f 04 a7 9e c2 1e 85 ed 65 3f 8b 79 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_SCAN_IND
+    AdvA:  5f:a8:0b:a0:94:29 (random)
+    AdvData: 1e ff 4c 00 07 19 01 14 20 55 aa b1 31 00 00 87 09 c4 b1 d6 04 74 9f 04 a7 9e c2 1e 85 ed 65
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 07 19 01 14 20 55 aa b1 31 00 00 87 09 c4 b1 d6 04 74 9f 04 a7 9e c2 1e 85 ed 65
+
+    Data:  29 94 a0 0b a8 5f 1e ff 4c 00 07 19 01 14 20 55 aa b1 31 00 00 87 09 c4 b1 d6 04 74 9f 04 a7 9e c2 1e 85 ed 65
+    CRC:   3f 8b 79
+
+systime=1707957700 freq=2402 addr=8e89bed6 delta_t=6.250 ms rssi=-76
+60 25 b8 dc 11 fb de e8 1e ff 4c 00 12 19 29 3d d7 10 6e da de 32 94 1d 59 ce b2 1a 2f 4b 6a 2a ea 2a a2 24 d3 02 5e 96 ab c7 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_IND
+    AdvA:  e8:de:fb:11:dc:b8 (random)
+    AdvData: 1e ff 4c 00 12 19 29 3d d7 10 6e da de 32 94 1d 59 ce b2 1a 2f 4b 6a 2a ea 2a a2 24 d3 02 5e
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 12 19 29 3d d7 10 6e da de 32 94 1d 59 ce b2 1a 2f 4b 6a 2a ea 2a a2 24 d3 02 5e
+
+    Data:  b8 dc 11 fb de e8 1e ff 4c 00 12 19 29 3d d7 10 6e da de 32 94 1d 59 ce b2 1a 2f 4b 6a 2a ea 2a a2 24 d3 02 5e
+    CRC:   96 ab c7
+
+systime=1707957700 freq=2402 addr=8e89bed6 delta_t=30.795 ms rssi=-80
+66 25 83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 35 aa b1 31 00 00 37 c1 50 cc 50 c4 14 05 98 f8 5c 90 e7 18 cb 8c 11 88 c5 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_SCAN_IND
+    AdvA:  50:4d:4e:fc:32:83 (random)
+    AdvData: 1e ff 4c 00 07 19 01 14 20 35 aa b1 31 00 00 37 c1 50 cc 50 c4 14 05 98 f8 5c 90 e7 18 cb 8c
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 07 19 01 14 20 35 aa b1 31 00 00 37 c1 50 cc 50 c4 14 05 98 f8 5c 90 e7 18 cb 8c
+
+    Data:  83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 35 aa b1 31 00 00 37 c1 50 cc 50 c4 14 05 98 f8 5c 90 e7 18 cb 8c
+    CRC:   11 88 c5
+
+systime=1707957700 freq=2402 addr=8e89bed6 delta_t=16.178 ms rssi=-85
+66 25 83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 35 aa b1 31 00 00 37 c1 50 cc 50 c4 14 05 98 f8 5c 90 e7 18 cb 8c 11 88 c5 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_SCAN_IND
+    AdvA:  50:4d:4e:fc:32:83 (random)
+    AdvData: 1e ff 4c 00 07 19 01 14 20 35 aa b1 31 00 00 37 c1 50 cc 50 c4 14 05 98 f8 5c 90 e7 18 cb 8c
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 07 19 01 14 20 35 aa b1 31 00 00 37 c1 50 cc 50 c4 14 05 98 f8 5c 90 e7 18 cb 8c
+
+    Data:  83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 35 aa b1 31 00 00 37 c1 50 cc 50 c4 14 05 98 f8 5c 90 e7 18 cb 8c
+    CRC:   11 88 c5
+
+systime=1707957700 freq=2402 addr=8e89bed6 delta_t=53.574 ms rssi=-76
+66 25 29 94 a0 0b a8 5f 1e ff 4c 00 07 19 01 14 20 55 aa b1 31 00 00 87 09 c4 b1 d6 04 74 9f 04 a7 9e c2 1e 85 ed 65 3f 8b 79 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_SCAN_IND
+    AdvA:  5f:a8:0b:a0:94:29 (random)
+    AdvData: 1e ff 4c 00 07 19 01 14 20 55 aa b1 31 00 00 87 09 c4 b1 d6 04 74 9f 04 a7 9e c2 1e 85 ed 65
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 07 19 01 14 20 55 aa b1 31 00 00 87 09 c4 b1 d6 04 74 9f 04 a7 9e c2 1e 85 ed 65
+
+    Data:  29 94 a0 0b a8 5f 1e ff 4c 00 07 19 01 14 20 55 aa b1 31 00 00 87 09 c4 b1 d6 04 74 9f 04 a7 9e c2 1e 85 ed 65
+    CRC:   3f 8b 79
+
+systime=1707957700 freq=2402 addr=8e89bed6 delta_t=0.534 ms rssi=-83
+66 25 83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 35 aa b1 31 00 00 37 c1 50 cc 50 c4 14 05 98 f8 5c 90 e7 18 cb 8c 11 88 c5 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_SCAN_IND
+    AdvA:  50:4d:4e:fc:32:83 (random)
+    AdvData: 1e ff 4c 00 07 19 01 14 20 35 aa b1 31 00 00 37 c1 50 cc 50 c4 14 05 98 f8 5c 90 e7 18 cb 8c
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 07 19 01 14 20 35 aa b1 31 00 00 37 c1 50 cc 50 c4 14 05 98 f8 5c 90 e7 18 cb 8c
+
+    Data:  83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 35 aa b1 31 00 00 37 c1 50 cc 50 c4 14 05 98 f8 5c 90 e7 18 cb 8c
+    CRC:   11 88 c5
+
+systime=1707957700 freq=2402 addr=8e89bed6 delta_t=66.288 ms rssi=-75
+66 25 29 94 a0 0b a8 5f 1e ff 4c 00 07 19 01 14 20 55 aa b1 31 00 00 87 09 c4 b1 d6 04 74 9f 04 a7 9e c2 1e 85 ed 65 3f 8b 79 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_SCAN_IND
+    AdvA:  5f:a8:0b:a0:94:29 (random)
+    AdvData: 1e ff 4c 00 07 19 01 14 20 55 aa b1 31 00 00 87 09 c4 b1 d6 04 74 9f 04 a7 9e c2 1e 85 ed 65
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 07 19 01 14 20 55 aa b1 31 00 00 87 09 c4 b1 d6 04 74 9f 04 a7 9e c2 1e 85 ed 65
+
+    Data:  29 94 a0 0b a8 5f 1e ff 4c 00 07 19 01 14 20 55 aa b1 31 00 00 87 09 c4 b1 d6 04 74 9f 04 a7 9e c2 1e 85 ed 65
+    CRC:   3f 8b 79
+
+systime=1707957700 freq=2402 addr=8e89bed6 delta_t=12.208 ms rssi=-83
+66 25 83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 35 aa b1 31 00 00 37 c1 50 cc 50 c4 14 05 98 f8 5c 90 e7 18 cb 8c 11 88 c5 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_SCAN_IND
+    AdvA:  50:4d:4e:fc:32:83 (random)
+    AdvData: 1e ff 4c 00 07 19 01 14 20 35 aa b1 31 00 00 37 c1 50 cc 50 c4 14 05 98 f8 5c 90 e7 18 cb 8c
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 07 19 01 14 20 35 aa b1 31 00 00 37 c1 50 cc 50 c4 14 05 98 f8 5c 90 e7 18 cb 8c
+
+    Data:  83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 35 aa b1 31 00 00 37 c1 50 cc 50 c4 14 05 98 f8 5c 90 e7 18 cb 8c
+    CRC:   11 88 c5
+
+systime=1707957700 freq=2402 addr=8e89bed6 delta_t=12.893 ms rssi=-75
+66 25 29 94 a0 0b a8 5f 1e ff 4c 00 07 19 01 14 20 55 aa b1 31 00 00 87 09 c4 b1 d6 04 74 9f 04 a7 9e c2 1e 85 ed 65 3f 8b 79 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_SCAN_IND
+    AdvA:  5f:a8:0b:a0:94:29 (random)
+    AdvData: 1e ff 4c 00 07 19 01 14 20 55 aa b1 31 00 00 87 09 c4 b1 d6 04 74 9f 04 a7 9e c2 1e 85 ed 65
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 07 19 01 14 20 55 aa b1 31 00 00 87 09 c4 b1 d6 04 74 9f 04 a7 9e c2 1e 85 ed 65
+
+    Data:  29 94 a0 0b a8 5f 1e ff 4c 00 07 19 01 14 20 55 aa b1 31 00 00 87 09 c4 b1 d6 04 74 9f 04 a7 9e c2 1e 85 ed 65
+    CRC:   3f 8b 79
+
+systime=1707957700 freq=2402 addr=8e89bed6 delta_t=20.037 ms rssi=-82
+66 25 83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 35 aa b1 31 00 00 37 c1 50 cc 50 c4 14 05 98 f8 5c 90 e7 18 cb 8c 11 88 c5 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_SCAN_IND
+    AdvA:  50:4d:4e:fc:32:83 (random)
+    AdvData: 1e ff 4c 00 07 19 01 14 20 35 aa b1 31 00 00 37 c1 50 cc 50 c4 14 05 98 f8 5c 90 e7 18 cb 8c
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 07 19 01 14 20 35 aa b1 31 00 00 37 c1 50 cc 50 c4 14 05 98 f8 5c 90 e7 18 cb 8c
+
+    Data:  83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 35 aa b1 31 00 00 37 c1 50 cc 50 c4 14 05 98 f8 5c 90 e7 18 cb 8c
+    CRC:   11 88 c5
+
+systime=1707957700 freq=2402 addr=8e89bed6 delta_t=22.351 ms rssi=-76
+66 25 29 94 a0 0b a8 5f 1e ff 4c 00 07 19 01 14 20 55 aa b1 39 00 00 5f 92 27 da 34 19 f3 8a 7d fd b8 b8 ec 8b bb 0d 90 18 d2 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_SCAN_IND
+    AdvA:  5f:a8:0b:a0:94:29 (random)
+    AdvData: 1e ff 4c 00 07 19 01 14 20 55 aa b1 39 00 00 5f 92 27 da 34 19 f3 8a 7d fd b8 b8 ec 8b bb 0d
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 07 19 01 14 20 55 aa b1 39 00 00 5f 92 27 da 34 19 f3 8a 7d fd b8 b8 ec 8b bb 0d
+
+    Data:  29 94 a0 0b a8 5f 1e ff 4c 00 07 19 01 14 20 55 aa b1 39 00 00 5f 92 27 da 34 19 f3 8a 7d fd b8 b8 ec 8b bb 0d
+    CRC:   90 18 d2
+
+systime=1707957700 freq=2402 addr=8e89bed6 delta_t=5.000 ms rssi=-76
+60 25 b8 dc 11 fb de e8 1e ff 4c 00 12 19 29 3d d7 10 6e da de 32 94 1d 59 ce b2 1a 2f 4b 6a 2a ea 2a a2 24 d3 02 5e 96 ab c7 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_IND
+    AdvA:  e8:de:fb:11:dc:b8 (random)
+    AdvData: 1e ff 4c 00 12 19 29 3d d7 10 6e da de 32 94 1d 59 ce b2 1a 2f 4b 6a 2a ea 2a a2 24 d3 02 5e
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 12 19 29 3d d7 10 6e da de 32 94 1d 59 ce b2 1a 2f 4b 6a 2a ea 2a a2 24 d3 02 5e
+
+    Data:  b8 dc 11 fb de e8 1e ff 4c 00 12 19 29 3d d7 10 6e da de 32 94 1d 59 ce b2 1a 2f 4b 6a 2a ea 2a a2 24 d3 02 5e
+    CRC:   96 ab c7
+
+systime=1707957700 freq=2402 addr=8e89bed6 delta_t=7.644 ms rssi=-88
+66 25 83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 35 aa b1 39 00 00 64 40 6d e7 b1 fe 86 51 19 a9 87 2c bb a6 51 59 f0 f1 de 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_SCAN_IND
+    AdvA:  50:4d:4e:fc:32:83 (random)
+    AdvData: 1e ff 4c 00 07 19 01 14 20 35 aa b1 39 00 00 64 40 6d e7 b1 fe 86 51 19 a9 87 2c bb a6 51 59
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 07 19 01 14 20 35 aa b1 39 00 00 64 40 6d e7 b1 fe 86 51 19 a9 87 2c bb a6 51 59
+
+    Data:  83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 35 aa b1 39 00 00 64 40 6d e7 b1 fe 86 51 19 a9 87 2c bb a6 51 59
+    CRC:   f0 f1 de
+
+systime=1707957700 freq=2402 addr=8e89bed6 delta_t=3.750 ms rssi=-81
+60 25 9e a6 e9 fe da ce 1e ff 4c 00 12 19 23 21 71 56 69 ef 98 6b d8 6d 64 7e c3 b7 f6 8a 3d 02 0c 0c 97 fd ca 00 34 34 8a 41 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_IND
+    AdvA:  ce:da:fe:e9:a6:9e (random)
+    AdvData: 1e ff 4c 00 12 19 23 21 71 56 69 ef 98 6b d8 6d 64 7e c3 b7 f6 8a 3d 02 0c 0c 97 fd ca 00 34
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 12 19 23 21 71 56 69 ef 98 6b d8 6d 64 7e c3 b7 f6 8a 3d 02 0c 0c 97 fd ca 00 34
+
+    Data:  9e a6 e9 fe da ce 1e ff 4c 00 12 19 23 21 71 56 69 ef 98 6b d8 6d 64 7e c3 b7 f6 8a 3d 02 0c 0c 97 fd ca 00 34
+    CRC:   34 8a 41
+
+systime=1707957700 freq=2402 addr=8e89bed6 delta_t=28.152 ms rssi=-89
+66 25 83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 35 aa b1 39 00 00 64 40 6d e7 b1 fe 86 51 19 a9 87 2c bb a6 51 59 f0 f1 de 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_SCAN_IND
+    AdvA:  50:4d:4e:fc:32:83 (random)
+    AdvData: 1e ff 4c 00 07 19 01 14 20 35 aa b1 39 00 00 64 40 6d e7 b1 fe 86 51 19 a9 87 2c bb a6 51 59
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 07 19 01 14 20 35 aa b1 39 00 00 64 40 6d e7 b1 fe 86 51 19 a9 87 2c bb a6 51 59
+
+    Data:  83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 35 aa b1 39 00 00 64 40 6d e7 b1 fe 86 51 19 a9 87 2c bb a6 51 59
+    CRC:   f0 f1 de
+
+systime=1707957700 freq=2402 addr=8e89bed6 delta_t=6.740 ms rssi=-76
+66 25 29 94 a0 0b a8 5f 1e ff 4c 00 07 19 01 14 20 55 aa b1 39 00 00 5f 92 27 da 34 19 f3 8a 7d fd b8 b8 ec 8b bb 0d 90 18 d2 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_SCAN_IND
+    AdvA:  5f:a8:0b:a0:94:29 (random)
+    AdvData: 1e ff 4c 00 07 19 01 14 20 55 aa b1 39 00 00 5f 92 27 da 34 19 f3 8a 7d fd b8 b8 ec 8b bb 0d
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 07 19 01 14 20 55 aa b1 39 00 00 5f 92 27 da 34 19 f3 8a 7d fd b8 b8 ec 8b bb 0d
+
+    Data:  29 94 a0 0b a8 5f 1e ff 4c 00 07 19 01 14 20 55 aa b1 39 00 00 5f 92 27 da 34 19 f3 8a 7d fd b8 b8 ec 8b bb 0d
+    CRC:   90 18 d2
+
+systime=1707957700 freq=2402 addr=8e89bed6 delta_t=19.628 ms rssi=-87
+66 25 83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 35 aa b1 39 00 00 64 40 6d e7 b1 fe 86 51 19 a9 87 2c bb a6 51 59 f0 f1 de 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_SCAN_IND
+    AdvA:  50:4d:4e:fc:32:83 (random)
+    AdvData: 1e ff 4c 00 07 19 01 14 20 35 aa b1 39 00 00 64 40 6d e7 b1 fe 86 51 19 a9 87 2c bb a6 51 59
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 07 19 01 14 20 35 aa b1 39 00 00 64 40 6d e7 b1 fe 86 51 19 a9 87 2c bb a6 51 59
+
+    Data:  83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 35 aa b1 39 00 00 64 40 6d e7 b1 fe 86 51 19 a9 87 2c bb a6 51 59
+    CRC:   f0 f1 de
+
+systime=1707957700 freq=2402 addr=8e89bed6 delta_t=24.230 ms rssi=-76
+66 25 29 94 a0 0b a8 5f 1e ff 4c 00 07 19 01 14 20 55 aa b1 39 00 00 8d 2e 4c 9a ef 3d 30 77 24 4d 0a 77 39 eb 0e 72 9e 83 ca 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_SCAN_IND
+    AdvA:  5f:a8:0b:a0:94:29 (random)
+    AdvData: 1e ff 4c 00 07 19 01 14 20 55 aa b1 39 00 00 8d 2e 4c 9a ef 3d 30 77 24 4d 0a 77 39 eb 0e 72
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 07 19 01 14 20 55 aa b1 39 00 00 8d 2e 4c 9a ef 3d 30 77 24 4d 0a 77 39 eb 0e 72
+
+    Data:  29 94 a0 0b a8 5f 1e ff 4c 00 07 19 01 14 20 55 aa b1 39 00 00 8d 2e 4c 9a ef 3d 30 77 24 4d 0a 77 39 eb 0e 72
+    CRC:   9e 83 ca
+
+systime=1707957700 freq=2402 addr=8e89bed6 delta_t=6.250 ms rssi=-75
+60 25 b8 dc 11 fb de e8 1e ff 4c 00 12 19 29 3d d7 10 6e da de 32 94 1d 59 ce b2 1a 2f 4b 6a 2a ea 2a a2 24 d3 02 5e 96 ab c7 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_IND
+    AdvA:  e8:de:fb:11:dc:b8 (random)
+    AdvData: 1e ff 4c 00 12 19 29 3d d7 10 6e da de 32 94 1d 59 ce b2 1a 2f 4b 6a 2a ea 2a a2 24 d3 02 5e
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 12 19 29 3d d7 10 6e da de 32 94 1d 59 ce b2 1a 2f 4b 6a 2a ea 2a a2 24 d3 02 5e
+
+    Data:  b8 dc 11 fb de e8 1e ff 4c 00 12 19 29 3d d7 10 6e da de 32 94 1d 59 ce b2 1a 2f 4b 6a 2a ea 2a a2 24 d3 02 5e
+    CRC:   96 ab c7
+
+systime=1707957700 freq=2402 addr=8e89bed6 delta_t=17.081 ms rssi=-75
+66 25 29 94 a0 0b a8 5f 1e ff 4c 00 07 19 01 14 20 55 aa b1 39 00 00 8d 2e 4c 9a ef 3d 30 77 24 4d 0a 77 39 eb 0e 72 9e 83 ca 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_SCAN_IND
+    AdvA:  5f:a8:0b:a0:94:29 (random)
+    AdvData: 1e ff 4c 00 07 19 01 14 20 55 aa b1 39 00 00 8d 2e 4c 9a ef 3d 30 77 24 4d 0a 77 39 eb 0e 72
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 07 19 01 14 20 55 aa b1 39 00 00 8d 2e 4c 9a ef 3d 30 77 24 4d 0a 77 39 eb 0e 72
+
+    Data:  29 94 a0 0b a8 5f 1e ff 4c 00 07 19 01 14 20 55 aa b1 39 00 00 8d 2e 4c 9a ef 3d 30 77 24 4d 0a 77 39 eb 0e 72
+    CRC:   9e 83 ca
+
+systime=1707957700 freq=2402 addr=8e89bed6 delta_t=21.246 ms rssi=-76
+66 25 29 94 a0 0b a8 5f 1e ff 4c 00 07 19 01 14 20 55 aa b1 39 00 00 8d 2e 4c 9a ef 3d 30 77 24 4d 0a 77 39 eb 0e 72 9e 83 ca 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_SCAN_IND
+    AdvA:  5f:a8:0b:a0:94:29 (random)
+    AdvData: 1e ff 4c 00 07 19 01 14 20 55 aa b1 39 00 00 8d 2e 4c 9a ef 3d 30 77 24 4d 0a 77 39 eb 0e 72
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 07 19 01 14 20 55 aa b1 39 00 00 8d 2e 4c 9a ef 3d 30 77 24 4d 0a 77 39 eb 0e 72
+
+    Data:  29 94 a0 0b a8 5f 1e ff 4c 00 07 19 01 14 20 55 aa b1 39 00 00 8d 2e 4c 9a ef 3d 30 77 24 4d 0a 77 39 eb 0e 72
+    CRC:   9e 83 ca
+
+systime=1707957700 freq=2402 addr=8e89bed6 delta_t=29.116 ms rssi=-83
+66 25 83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 35 aa b1 39 00 00 64 40 6d e7 b1 fe 86 51 19 a9 87 2c bb a6 51 59 f0 f1 de 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_SCAN_IND
+    AdvA:  50:4d:4e:fc:32:83 (random)
+    AdvData: 1e ff 4c 00 07 19 01 14 20 35 aa b1 39 00 00 64 40 6d e7 b1 fe 86 51 19 a9 87 2c bb a6 51 59
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 07 19 01 14 20 35 aa b1 39 00 00 64 40 6d e7 b1 fe 86 51 19 a9 87 2c bb a6 51 59
+
+    Data:  83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 35 aa b1 39 00 00 64 40 6d e7 b1 fe 86 51 19 a9 87 2c bb a6 51 59
+    CRC:   f0 f1 de
+
+systime=1707957700 freq=2402 addr=8e89bed6 delta_t=30.600 ms rssi=-76
+66 25 29 94 a0 0b a8 5f 1e ff 4c 00 07 19 01 14 20 55 aa b1 39 00 00 8d 2e 4c 9a ef 3d 30 77 24 4d 0a 77 39 eb 0e 72 9e 83 ca 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_SCAN_IND
+    AdvA:  5f:a8:0b:a0:94:29 (random)
+    AdvData: 1e ff 4c 00 07 19 01 14 20 55 aa b1 39 00 00 8d 2e 4c 9a ef 3d 30 77 24 4d 0a 77 39 eb 0e 72
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 07 19 01 14 20 55 aa b1 39 00 00 8d 2e 4c 9a ef 3d 30 77 24 4d 0a 77 39 eb 0e 72
+
+    Data:  29 94 a0 0b a8 5f 1e ff 4c 00 07 19 01 14 20 55 aa b1 39 00 00 8d 2e 4c 9a ef 3d 30 77 24 4d 0a 77 39 eb 0e 72
+    CRC:   9e 83 ca
+
+systime=1707957700 freq=2402 addr=8e89bed6 delta_t=9.457 ms rssi=-80
+66 25 83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 35 aa b1 39 00 00 d6 d3 23 89 61 3c 9d 26 27 15 c4 56 b6 bb 6a f6 20 46 7b 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_SCAN_IND
+    AdvA:  50:4d:4e:fc:32:83 (random)
+    AdvData: 1e ff 4c 00 07 19 01 14 20 35 aa b1 39 00 00 d6 d3 23 89 61 3c 9d 26 27 15 c4 56 b6 bb 6a f6
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 07 19 01 14 20 35 aa b1 39 00 00 d6 d3 23 89 61 3c 9d 26 27 15 c4 56 b6 bb 6a f6
+
+    Data:  83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 35 aa b1 39 00 00 d6 d3 23 89 61 3c 9d 26 27 15 c4 56 b6 bb 6a f6
+    CRC:   20 46 7b
+
+systime=1707957700 freq=2402 addr=8e89bed6 delta_t=3.750 ms rssi=-86
+60 25 9e a6 e9 fe da ce 1e ff 4c 00 12 19 23 21 71 56 69 ef 98 6b d8 6d 64 7e c3 b7 f6 8a 3d 02 0c 0c 97 fd ca 00 34 34 8a 41 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_IND
+    AdvA:  ce:da:fe:e9:a6:9e (random)
+    AdvData: 1e ff 4c 00 12 19 23 21 71 56 69 ef 98 6b d8 6d 64 7e c3 b7 f6 8a 3d 02 0c 0c 97 fd ca 00 34
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 12 19 23 21 71 56 69 ef 98 6b d8 6d 64 7e c3 b7 f6 8a 3d 02 0c 0c 97 fd ca 00 34
+
+    Data:  9e a6 e9 fe da ce 1e ff 4c 00 12 19 23 21 71 56 69 ef 98 6b d8 6d 64 7e c3 b7 f6 8a 3d 02 0c 0c 97 fd ca 00 34
+    CRC:   34 8a 41
+
+systime=1707957700 freq=2402 addr=8e89bed6 delta_t=17.163 ms rssi=-80
+66 25 83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 35 aa b1 39 00 00 d6 d3 23 89 61 3c 9d 26 27 15 c4 56 b6 bb 6a f6 20 46 7b 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_SCAN_IND
+    AdvA:  50:4d:4e:fc:32:83 (random)
+    AdvData: 1e ff 4c 00 07 19 01 14 20 35 aa b1 39 00 00 d6 d3 23 89 61 3c 9d 26 27 15 c4 56 b6 bb 6a f6
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 07 19 01 14 20 35 aa b1 39 00 00 d6 d3 23 89 61 3c 9d 26 27 15 c4 56 b6 bb 6a f6
+
+    Data:  83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 35 aa b1 39 00 00 d6 d3 23 89 61 3c 9d 26 27 15 c4 56 b6 bb 6a f6
+    CRC:   20 46 7b
+
+systime=1707957700 freq=2402 addr=8e89bed6 delta_t=35.281 ms rssi=-82
+66 25 29 94 a0 0b a8 5f 1e ff 4c 00 07 19 01 14 20 55 aa b1 39 00 00 8d 2e 4c 9a ef 3d 30 77 24 4d 0a 77 39 eb 0e 72 9e 83 ca 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_SCAN_IND
+    AdvA:  5f:a8:0b:a0:94:29 (random)
+    AdvData: 1e ff 4c 00 07 19 01 14 20 55 aa b1 39 00 00 8d 2e 4c 9a ef 3d 30 77 24 4d 0a 77 39 eb 0e 72
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 07 19 01 14 20 55 aa b1 39 00 00 8d 2e 4c 9a ef 3d 30 77 24 4d 0a 77 39 eb 0e 72
+
+    Data:  29 94 a0 0b a8 5f 1e ff 4c 00 07 19 01 14 20 55 aa b1 39 00 00 8d 2e 4c 9a ef 3d 30 77 24 4d 0a 77 39 eb 0e 72
+    CRC:   9e 83 ca
+
+systime=1707957700 freq=2402 addr=8e89bed6 delta_t=2.570 ms rssi=-86
+66 25 83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 35 aa b1 39 00 00 d6 d3 23 89 61 3c 9d 26 27 15 c4 56 b6 bb 6a f6 20 46 7b 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_SCAN_IND
+    AdvA:  50:4d:4e:fc:32:83 (random)
+    AdvData: 1e ff 4c 00 07 19 01 14 20 35 aa b1 39 00 00 d6 d3 23 89 61 3c 9d 26 27 15 c4 56 b6 bb 6a f6
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 07 19 01 14 20 35 aa b1 39 00 00 d6 d3 23 89 61 3c 9d 26 27 15 c4 56 b6 bb 6a f6
+
+    Data:  83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 35 aa b1 39 00 00 d6 d3 23 89 61 3c 9d 26 27 15 c4 56 b6 bb 6a f6
+    CRC:   20 46 7b
+
+systime=1707957700 freq=2402 addr=8e89bed6 delta_t=14.774 ms rssi=-86
+66 25 83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 35 aa b1 39 00 00 d6 d3 23 89 61 3c 9d 26 27 15 c4 56 b6 bb 6a f6 20 46 7b 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_SCAN_IND
+    AdvA:  50:4d:4e:fc:32:83 (random)
+    AdvData: 1e ff 4c 00 07 19 01 14 20 35 aa b1 39 00 00 d6 d3 23 89 61 3c 9d 26 27 15 c4 56 b6 bb 6a f6
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 07 19 01 14 20 35 aa b1 39 00 00 d6 d3 23 89 61 3c 9d 26 27 15 c4 56 b6 bb 6a f6
+
+    Data:  83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 35 aa b1 39 00 00 d6 d3 23 89 61 3c 9d 26 27 15 c4 56 b6 bb 6a f6
+    CRC:   20 46 7b
+
+systime=1707957700 freq=2402 addr=8e89bed6 delta_t=4.560 ms rssi=-75
+66 25 29 94 a0 0b a8 5f 1e ff 4c 00 07 19 01 14 20 55 aa b1 39 00 00 8d 2e 4c 9a ef 3d 30 77 24 4d 0a 77 39 eb 0e 72 9e 83 ca 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_SCAN_IND
+    AdvA:  5f:a8:0b:a0:94:29 (random)
+    AdvData: 1e ff 4c 00 07 19 01 14 20 55 aa b1 39 00 00 8d 2e 4c 9a ef 3d 30 77 24 4d 0a 77 39 eb 0e 72
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 07 19 01 14 20 55 aa b1 39 00 00 8d 2e 4c 9a ef 3d 30 77 24 4d 0a 77 39 eb 0e 72
+
+    Data:  29 94 a0 0b a8 5f 1e ff 4c 00 07 19 01 14 20 55 aa b1 39 00 00 8d 2e 4c 9a ef 3d 30 77 24 4d 0a 77 39 eb 0e 72
+    CRC:   9e 83 ca
+
+systime=1707957700 freq=2402 addr=8e89bed6 delta_t=23.806 ms rssi=-75
+66 25 29 94 a0 0b a8 5f 1e ff 4c 00 07 19 01 14 20 55 aa b1 39 00 00 8d 2e 4c 9a ef 3d 30 77 24 4d 0a 77 39 eb 0e 72 9e 83 ca 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_SCAN_IND
+    AdvA:  5f:a8:0b:a0:94:29 (random)
+    AdvData: 1e ff 4c 00 07 19 01 14 20 55 aa b1 39 00 00 8d 2e 4c 9a ef 3d 30 77 24 4d 0a 77 39 eb 0e 72
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 07 19 01 14 20 55 aa b1 39 00 00 8d 2e 4c 9a ef 3d 30 77 24 4d 0a 77 39 eb 0e 72
+
+    Data:  29 94 a0 0b a8 5f 1e ff 4c 00 07 19 01 14 20 55 aa b1 39 00 00 8d 2e 4c 9a ef 3d 30 77 24 4d 0a 77 39 eb 0e 72
+    CRC:   9e 83 ca
+
+systime=1707957700 freq=2402 addr=8e89bed6 delta_t=51.768 ms rssi=-76
+66 25 29 94 a0 0b a8 5f 1e ff 4c 00 07 19 01 14 20 55 aa b1 39 00 00 8d 2e 4c 9a ef 3d 30 77 24 4d 0a 77 39 eb 0e 72 9e 83 ca 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_SCAN_IND
+    AdvA:  5f:a8:0b:a0:94:29 (random)
+    AdvData: 1e ff 4c 00 07 19 01 14 20 55 aa b1 39 00 00 8d 2e 4c 9a ef 3d 30 77 24 4d 0a 77 39 eb 0e 72
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 07 19 01 14 20 55 aa b1 39 00 00 8d 2e 4c 9a ef 3d 30 77 24 4d 0a 77 39 eb 0e 72
+
+    Data:  29 94 a0 0b a8 5f 1e ff 4c 00 07 19 01 14 20 55 aa b1 39 00 00 8d 2e 4c 9a ef 3d 30 77 24 4d 0a 77 39 eb 0e 72
+    CRC:   9e 83 ca
+
+systime=1707957700 freq=2402 addr=8e89bed6 delta_t=12.012 ms rssi=-79
+66 25 83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 35 aa b1 39 00 00 d6 d3 23 89 61 3c 9d 26 27 15 c4 56 b6 bb 6a f6 20 46 7b 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_SCAN_IND
+    AdvA:  50:4d:4e:fc:32:83 (random)
+    AdvData: 1e ff 4c 00 07 19 01 14 20 35 aa b1 39 00 00 d6 d3 23 89 61 3c 9d 26 27 15 c4 56 b6 bb 6a f6
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 07 19 01 14 20 35 aa b1 39 00 00 d6 d3 23 89 61 3c 9d 26 27 15 c4 56 b6 bb 6a f6
+
+    Data:  83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 35 aa b1 39 00 00 d6 d3 23 89 61 3c 9d 26 27 15 c4 56 b6 bb 6a f6
+    CRC:   20 46 7b
+
+systime=1707957700 freq=2402 addr=8e89bed6 delta_t=26.209 ms rssi=-81
+66 25 83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 35 aa b1 39 00 00 d6 d3 23 89 61 3c 9d 26 27 15 c4 56 b6 bb 6a f6 20 46 7b 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_SCAN_IND
+    AdvA:  50:4d:4e:fc:32:83 (random)
+    AdvData: 1e ff 4c 00 07 19 01 14 20 35 aa b1 39 00 00 d6 d3 23 89 61 3c 9d 26 27 15 c4 56 b6 bb 6a f6
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 07 19 01 14 20 35 aa b1 39 00 00 d6 d3 23 89 61 3c 9d 26 27 15 c4 56 b6 bb 6a f6
+
+    Data:  83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 35 aa b1 39 00 00 d6 d3 23 89 61 3c 9d 26 27 15 c4 56 b6 bb 6a f6
+    CRC:   20 46 7b
+
+systime=1707957700 freq=2402 addr=8e89bed6 delta_t=22.493 ms rssi=-79
+66 25 83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 35 aa b1 39 00 00 d6 d3 23 89 61 3c 9d 26 27 15 c4 56 b6 bb 6a f6 20 46 7b 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_SCAN_IND
+    AdvA:  50:4d:4e:fc:32:83 (random)
+    AdvData: 1e ff 4c 00 07 19 01 14 20 35 aa b1 39 00 00 d6 d3 23 89 61 3c 9d 26 27 15 c4 56 b6 bb 6a f6
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 07 19 01 14 20 35 aa b1 39 00 00 d6 d3 23 89 61 3c 9d 26 27 15 c4 56 b6 bb 6a f6
+
+    Data:  83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 35 aa b1 39 00 00 d6 d3 23 89 61 3c 9d 26 27 15 c4 56 b6 bb 6a f6
+    CRC:   20 46 7b
+
+systime=1707957700 freq=2402 addr=8e89bed6 delta_t=5.615 ms rssi=-81
+66 25 29 94 a0 0b a8 5f 1e ff 4c 00 07 19 01 14 20 55 aa b1 39 00 00 ca c0 e3 1b cf 83 e3 a2 2e 53 86 ba 82 2e f7 bc c3 5b d0 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_SCAN_IND
+    AdvA:  5f:a8:0b:a0:94:29 (random)
+    AdvData: 1e ff 4c 00 07 19 01 14 20 55 aa b1 39 00 00 ca c0 e3 1b cf 83 e3 a2 2e 53 86 ba 82 2e f7 bc
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 07 19 01 14 20 55 aa b1 39 00 00 ca c0 e3 1b cf 83 e3 a2 2e 53 86 ba 82 2e f7 bc
+
+    Data:  29 94 a0 0b a8 5f 1e ff 4c 00 07 19 01 14 20 55 aa b1 39 00 00 ca c0 e3 1b cf 83 e3 a2 2e 53 86 ba 82 2e f7 bc
+    CRC:   c3 5b d0
+
+systime=1707957700 freq=2402 addr=8e89bed6 delta_t=104.705 ms rssi=-77
+66 25 29 94 a0 0b a8 5f 1e ff 4c 00 07 19 01 14 20 55 aa b1 39 00 00 ca c0 e3 1b cf 83 e3 a2 2e 53 86 ba 82 2e f7 bc c3 5b d0 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_SCAN_IND
+    AdvA:  5f:a8:0b:a0:94:29 (random)
+    AdvData: 1e ff 4c 00 07 19 01 14 20 55 aa b1 39 00 00 ca c0 e3 1b cf 83 e3 a2 2e 53 86 ba 82 2e f7 bc
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 07 19 01 14 20 55 aa b1 39 00 00 ca c0 e3 1b cf 83 e3 a2 2e 53 86 ba 82 2e f7 bc
+
+    Data:  29 94 a0 0b a8 5f 1e ff 4c 00 07 19 01 14 20 55 aa b1 39 00 00 ca c0 e3 1b cf 83 e3 a2 2e 53 86 ba 82 2e f7 bc
+    CRC:   c3 5b d0
+
+systime=1707957700 freq=2402 addr=8e89bed6 delta_t=15.200 ms rssi=-82
+66 25 83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 35 aa b1 39 00 00 d6 d3 23 89 61 3c 9d 26 27 15 c4 56 b6 bb 6a f6 20 46 7b 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_SCAN_IND
+    AdvA:  50:4d:4e:fc:32:83 (random)
+    AdvData: 1e ff 4c 00 07 19 01 14 20 35 aa b1 39 00 00 d6 d3 23 89 61 3c 9d 26 27 15 c4 56 b6 bb 6a f6
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 07 19 01 14 20 35 aa b1 39 00 00 d6 d3 23 89 61 3c 9d 26 27 15 c4 56 b6 bb 6a f6
+
+    Data:  83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 35 aa b1 39 00 00 d6 d3 23 89 61 3c 9d 26 27 15 c4 56 b6 bb 6a f6
+    CRC:   20 46 7b
+
+systime=1707957700 freq=2402 addr=8e89bed6 delta_t=5.700 ms rssi=-81
+66 25 29 94 a0 0b a8 5f 1e ff 4c 00 07 19 01 14 20 55 aa b1 39 00 00 ca c0 e3 1b cf 83 e3 a2 2e 53 86 ba 82 2e f7 bc c3 5b d0 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_SCAN_IND
+    AdvA:  5f:a8:0b:a0:94:29 (random)
+    AdvData: 1e ff 4c 00 07 19 01 14 20 55 aa b1 39 00 00 ca c0 e3 1b cf 83 e3 a2 2e 53 86 ba 82 2e f7 bc
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 07 19 01 14 20 55 aa b1 39 00 00 ca c0 e3 1b cf 83 e3 a2 2e 53 86 ba 82 2e f7 bc
+
+    Data:  29 94 a0 0b a8 5f 1e ff 4c 00 07 19 01 14 20 55 aa b1 39 00 00 ca c0 e3 1b cf 83 e3 a2 2e 53 86 ba 82 2e f7 bc
+    CRC:   c3 5b d0
+
+systime=1707957700 freq=2402 addr=8e89bed6 delta_t=19.945 ms rssi=-80
+66 25 83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 35 aa b1 39 00 00 d6 d3 23 89 61 3c 9d 26 27 15 c4 56 b6 bb 6a f6 20 46 7b 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_SCAN_IND
+    AdvA:  50:4d:4e:fc:32:83 (random)
+    AdvData: 1e ff 4c 00 07 19 01 14 20 35 aa b1 39 00 00 d6 d3 23 89 61 3c 9d 26 27 15 c4 56 b6 bb 6a f6
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 07 19 01 14 20 35 aa b1 39 00 00 d6 d3 23 89 61 3c 9d 26 27 15 c4 56 b6 bb 6a f6
+
+    Data:  83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 35 aa b1 39 00 00 d6 d3 23 89 61 3c 9d 26 27 15 c4 56 b6 bb 6a f6
+    CRC:   20 46 7b
+
+systime=1707957700 freq=2402 addr=8e89bed6 delta_t=6.749 ms rssi=-74
+66 25 29 94 a0 0b a8 5f 1e ff 4c 00 07 19 01 14 20 55 aa b1 39 00 00 ca c0 e3 1b cf 83 e3 a2 2e 53 86 ba 82 2e f7 bc c3 5b d0 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_SCAN_IND
+    AdvA:  5f:a8:0b:a0:94:29 (random)
+    AdvData: 1e ff 4c 00 07 19 01 14 20 55 aa b1 39 00 00 ca c0 e3 1b cf 83 e3 a2 2e 53 86 ba 82 2e f7 bc
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 07 19 01 14 20 55 aa b1 39 00 00 ca c0 e3 1b cf 83 e3 a2 2e 53 86 ba 82 2e f7 bc
+
+    Data:  29 94 a0 0b a8 5f 1e ff 4c 00 07 19 01 14 20 55 aa b1 39 00 00 ca c0 e3 1b cf 83 e3 a2 2e 53 86 ba 82 2e f7 bc
+    CRC:   c3 5b d0
+
+systime=1707957700 freq=2402 addr=8e89bed6 delta_t=19.838 ms rssi=-79
+66 25 83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 35 aa b1 39 00 00 d6 d3 23 89 61 3c 9d 26 27 15 c4 56 b6 bb 6a f6 20 46 7b 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_SCAN_IND
+    AdvA:  50:4d:4e:fc:32:83 (random)
+    AdvData: 1e ff 4c 00 07 19 01 14 20 35 aa b1 39 00 00 d6 d3 23 89 61 3c 9d 26 27 15 c4 56 b6 bb 6a f6
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 07 19 01 14 20 35 aa b1 39 00 00 d6 d3 23 89 61 3c 9d 26 27 15 c4 56 b6 bb 6a f6
+
+    Data:  83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 35 aa b1 39 00 00 d6 d3 23 89 61 3c 9d 26 27 15 c4 56 b6 bb 6a f6
+    CRC:   20 46 7b
+
+systime=1707957700 freq=2402 addr=8e89bed6 delta_t=8.917 ms rssi=-76
+66 25 29 94 a0 0b a8 5f 1e ff 4c 00 07 19 01 14 20 55 aa b1 39 00 00 ca c0 e3 1b cf 83 e3 a2 2e 53 86 ba 82 2e f7 bc c3 5b d0 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_SCAN_IND
+    AdvA:  5f:a8:0b:a0:94:29 (random)
+    AdvData: 1e ff 4c 00 07 19 01 14 20 55 aa b1 39 00 00 ca c0 e3 1b cf 83 e3 a2 2e 53 86 ba 82 2e f7 bc
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 07 19 01 14 20 55 aa b1 39 00 00 ca c0 e3 1b cf 83 e3 a2 2e 53 86 ba 82 2e f7 bc
+
+    Data:  29 94 a0 0b a8 5f 1e ff 4c 00 07 19 01 14 20 55 aa b1 39 00 00 ca c0 e3 1b cf 83 e3 a2 2e 53 86 ba 82 2e f7 bc
+    CRC:   c3 5b d0
+
+systime=1707957700 freq=2402 addr=8e89bed6 delta_t=34.753 ms rssi=-81
+66 25 29 94 a0 0b a8 5f 1e ff 4c 00 07 19 01 14 20 55 aa b1 39 00 00 ca c0 e3 1b cf 83 e3 a2 2e 53 86 ba 82 2e f7 bc c3 5b d0 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_SCAN_IND
+    AdvA:  5f:a8:0b:a0:94:29 (random)
+    AdvData: 1e ff 4c 00 07 19 01 14 20 55 aa b1 39 00 00 ca c0 e3 1b cf 83 e3 a2 2e 53 86 ba 82 2e f7 bc
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 07 19 01 14 20 55 aa b1 39 00 00 ca c0 e3 1b cf 83 e3 a2 2e 53 86 ba 82 2e f7 bc
+
+    Data:  29 94 a0 0b a8 5f 1e ff 4c 00 07 19 01 14 20 55 aa b1 39 00 00 ca c0 e3 1b cf 83 e3 a2 2e 53 86 ba 82 2e f7 bc
+    CRC:   c3 5b d0
+
+systime=1707957701 freq=2402 addr=8e89bed6 delta_t=11.561 ms rssi=-74
+66 25 29 94 a0 0b a8 5f 1e ff 4c 00 07 19 01 14 20 55 aa b1 39 00 00 ca c0 e3 1b cf 83 e3 a2 2e 53 86 ba 82 2e f7 bc c3 5b d0 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_SCAN_IND
+    AdvA:  5f:a8:0b:a0:94:29 (random)
+    AdvData: 1e ff 4c 00 07 19 01 14 20 55 aa b1 39 00 00 ca c0 e3 1b cf 83 e3 a2 2e 53 86 ba 82 2e f7 bc
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 07 19 01 14 20 55 aa b1 39 00 00 ca c0 e3 1b cf 83 e3 a2 2e 53 86 ba 82 2e f7 bc
+
+    Data:  29 94 a0 0b a8 5f 1e ff 4c 00 07 19 01 14 20 55 aa b1 39 00 00 ca c0 e3 1b cf 83 e3 a2 2e 53 86 ba 82 2e f7 bc
+    CRC:   c3 5b d0
+
+systime=1707957701 freq=2402 addr=8e89bed6 delta_t=25.936 ms rssi=-76
+66 25 29 94 a0 0b a8 5f 1e ff 4c 00 07 19 01 14 20 55 aa b1 39 00 00 ca c0 e3 1b cf 83 e3 a2 2e 53 86 ba 82 2e f7 bc c3 5b d0 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_SCAN_IND
+    AdvA:  5f:a8:0b:a0:94:29 (random)
+    AdvData: 1e ff 4c 00 07 19 01 14 20 55 aa b1 39 00 00 ca c0 e3 1b cf 83 e3 a2 2e 53 86 ba 82 2e f7 bc
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 07 19 01 14 20 55 aa b1 39 00 00 ca c0 e3 1b cf 83 e3 a2 2e 53 86 ba 82 2e f7 bc
+
+    Data:  29 94 a0 0b a8 5f 1e ff 4c 00 07 19 01 14 20 55 aa b1 39 00 00 ca c0 e3 1b cf 83 e3 a2 2e 53 86 ba 82 2e f7 bc
+    CRC:   c3 5b d0
+
+systime=1707957701 freq=2402 addr=8e89bed6 delta_t=0.495 ms rssi=-79
+66 25 83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 35 aa b1 39 00 00 d6 d3 23 89 61 3c 9d 26 27 15 c4 56 b6 bb 6a f6 20 46 7b 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_SCAN_IND
+    AdvA:  50:4d:4e:fc:32:83 (random)
+    AdvData: 1e ff 4c 00 07 19 01 14 20 35 aa b1 39 00 00 d6 d3 23 89 61 3c 9d 26 27 15 c4 56 b6 bb 6a f6
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 07 19 01 14 20 35 aa b1 39 00 00 d6 d3 23 89 61 3c 9d 26 27 15 c4 56 b6 bb 6a f6
+
+    Data:  83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 35 aa b1 39 00 00 d6 d3 23 89 61 3c 9d 26 27 15 c4 56 b6 bb 6a f6
+    CRC:   20 46 7b
+
+systime=1707957701 freq=2402 addr=8e89bed6 delta_t=27.157 ms rssi=-75
+66 25 29 94 a0 0b a8 5f 1e ff 4c 00 07 19 01 14 20 55 aa b1 39 00 00 ca c0 e3 1b cf 83 e3 a2 2e 53 86 ba 82 2e f7 bc c3 5b d0 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_SCAN_IND
+    AdvA:  5f:a8:0b:a0:94:29 (random)
+    AdvData: 1e ff 4c 00 07 19 01 14 20 55 aa b1 39 00 00 ca c0 e3 1b cf 83 e3 a2 2e 53 86 ba 82 2e f7 bc
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 07 19 01 14 20 55 aa b1 39 00 00 ca c0 e3 1b cf 83 e3 a2 2e 53 86 ba 82 2e f7 bc
+
+    Data:  29 94 a0 0b a8 5f 1e ff 4c 00 07 19 01 14 20 55 aa b1 39 00 00 ca c0 e3 1b cf 83 e3 a2 2e 53 86 ba 82 2e f7 bc
+    CRC:   c3 5b d0
+
+systime=1707957701 freq=2402 addr=8e89bed6 delta_t=20.213 ms rssi=-75
+66 25 29 94 a0 0b a8 5f 1e ff 4c 00 07 19 01 14 20 55 aa b1 39 00 00 ca c0 e3 1b cf 83 e3 a2 2e 53 86 ba 82 2e f7 bc c3 5b d0 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_SCAN_IND
+    AdvA:  5f:a8:0b:a0:94:29 (random)
+    AdvData: 1e ff 4c 00 07 19 01 14 20 55 aa b1 39 00 00 ca c0 e3 1b cf 83 e3 a2 2e 53 86 ba 82 2e f7 bc
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 07 19 01 14 20 55 aa b1 39 00 00 ca c0 e3 1b cf 83 e3 a2 2e 53 86 ba 82 2e f7 bc
+
+    Data:  29 94 a0 0b a8 5f 1e ff 4c 00 07 19 01 14 20 55 aa b1 39 00 00 ca c0 e3 1b cf 83 e3 a2 2e 53 86 ba 82 2e f7 bc
+    CRC:   c3 5b d0
+
+systime=1707957701 freq=2402 addr=8e89bed6 delta_t=25.633 ms rssi=-75
+66 25 29 94 a0 0b a8 5f 1e ff 4c 00 07 19 01 14 20 55 aa b1 39 00 00 ca c0 e3 1b cf 83 e3 a2 2e 53 86 ba 82 2e f7 bc c3 5b d0 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_SCAN_IND
+    AdvA:  5f:a8:0b:a0:94:29 (random)
+    AdvData: 1e ff 4c 00 07 19 01 14 20 55 aa b1 39 00 00 ca c0 e3 1b cf 83 e3 a2 2e 53 86 ba 82 2e f7 bc
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 07 19 01 14 20 55 aa b1 39 00 00 ca c0 e3 1b cf 83 e3 a2 2e 53 86 ba 82 2e f7 bc
+
+    Data:  29 94 a0 0b a8 5f 1e ff 4c 00 07 19 01 14 20 55 aa b1 39 00 00 ca c0 e3 1b cf 83 e3 a2 2e 53 86 ba 82 2e f7 bc
+    CRC:   c3 5b d0
+
+systime=1707957701 freq=2402 addr=8e89bed6 delta_t=0.534 ms rssi=-82
+66 25 83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 35 aa b1 39 00 00 d6 d3 23 89 61 3c 9d 26 27 15 c4 56 b6 bb 6a f6 20 46 7b 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_SCAN_IND
+    AdvA:  50:4d:4e:fc:32:83 (random)
+    AdvData: 1e ff 4c 00 07 19 01 14 20 35 aa b1 39 00 00 d6 d3 23 89 61 3c 9d 26 27 15 c4 56 b6 bb 6a f6
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 07 19 01 14 20 35 aa b1 39 00 00 d6 d3 23 89 61 3c 9d 26 27 15 c4 56 b6 bb 6a f6
+
+    Data:  83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 35 aa b1 39 00 00 d6 d3 23 89 61 3c 9d 26 27 15 c4 56 b6 bb 6a f6
+    CRC:   20 46 7b
+
+systime=1707957701 freq=2402 addr=8e89bed6 delta_t=18.540 ms rssi=-75
+66 25 29 94 a0 0b a8 5f 1e ff 4c 00 07 19 01 14 20 55 aa b1 39 00 00 ca c0 e3 1b cf 83 e3 a2 2e 53 86 ba 82 2e f7 bc c3 5b d0 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_SCAN_IND
+    AdvA:  5f:a8:0b:a0:94:29 (random)
+    AdvData: 1e ff 4c 00 07 19 01 14 20 55 aa b1 39 00 00 ca c0 e3 1b cf 83 e3 a2 2e 53 86 ba 82 2e f7 bc
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 07 19 01 14 20 55 aa b1 39 00 00 ca c0 e3 1b cf 83 e3 a2 2e 53 86 ba 82 2e f7 bc
+
+    Data:  29 94 a0 0b a8 5f 1e ff 4c 00 07 19 01 14 20 55 aa b1 39 00 00 ca c0 e3 1b cf 83 e3 a2 2e 53 86 ba 82 2e f7 bc
+    CRC:   c3 5b d0
+
+systime=1707957701 freq=2402 addr=8e89bed6 delta_t=72.136 ms rssi=-75
+66 25 29 94 a0 0b a8 5f 1e ff 4c 00 07 19 01 14 20 55 aa b1 39 00 00 ca c0 e3 1b cf 83 e3 a2 2e 53 86 ba 82 2e f7 bc c3 5b d0 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_SCAN_IND
+    AdvA:  5f:a8:0b:a0:94:29 (random)
+    AdvData: 1e ff 4c 00 07 19 01 14 20 55 aa b1 39 00 00 ca c0 e3 1b cf 83 e3 a2 2e 53 86 ba 82 2e f7 bc
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 07 19 01 14 20 55 aa b1 39 00 00 ca c0 e3 1b cf 83 e3 a2 2e 53 86 ba 82 2e f7 bc
+
+    Data:  29 94 a0 0b a8 5f 1e ff 4c 00 07 19 01 14 20 55 aa b1 39 00 00 ca c0 e3 1b cf 83 e3 a2 2e 53 86 ba 82 2e f7 bc
+    CRC:   c3 5b d0
+
+systime=1707957701 freq=2402 addr=8e89bed6 delta_t=20.624 ms rssi=-79
+66 25 83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 35 aa b1 39 00 00 d6 d3 23 89 61 3c 9d 26 27 15 c4 56 b6 bb 6a f6 20 46 7b 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_SCAN_IND
+    AdvA:  50:4d:4e:fc:32:83 (random)
+    AdvData: 1e ff 4c 00 07 19 01 14 20 35 aa b1 39 00 00 d6 d3 23 89 61 3c 9d 26 27 15 c4 56 b6 bb 6a f6
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 07 19 01 14 20 35 aa b1 39 00 00 d6 d3 23 89 61 3c 9d 26 27 15 c4 56 b6 bb 6a f6
+
+    Data:  83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 35 aa b1 39 00 00 d6 d3 23 89 61 3c 9d 26 27 15 c4 56 b6 bb 6a f6
+    CRC:   20 46 7b
+
+systime=1707957701 freq=2402 addr=8e89bed6 delta_t=27.059 ms rssi=-75
+66 25 29 94 a0 0b a8 5f 1e ff 4c 00 07 19 01 14 20 55 aa b1 39 00 00 ca c0 e3 1b cf 83 e3 a2 2e 53 86 ba 82 2e f7 bc c3 5b d0 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_SCAN_IND
+    AdvA:  5f:a8:0b:a0:94:29 (random)
+    AdvData: 1e ff 4c 00 07 19 01 14 20 55 aa b1 39 00 00 ca c0 e3 1b cf 83 e3 a2 2e 53 86 ba 82 2e f7 bc
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 07 19 01 14 20 55 aa b1 39 00 00 ca c0 e3 1b cf 83 e3 a2 2e 53 86 ba 82 2e f7 bc
+
+    Data:  29 94 a0 0b a8 5f 1e ff 4c 00 07 19 01 14 20 55 aa b1 39 00 00 ca c0 e3 1b cf 83 e3 a2 2e 53 86 ba 82 2e f7 bc
+    CRC:   c3 5b d0
+
+systime=1707957701 freq=2402 addr=8e89bed6 delta_t=66.596 ms rssi=-84
+66 25 83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 35 aa b1 39 00 00 d6 d3 23 89 61 3c 9d 26 27 15 c4 56 b6 bb 6a f6 20 46 7b 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_SCAN_IND
+    AdvA:  50:4d:4e:fc:32:83 (random)
+    AdvData: 1e ff 4c 00 07 19 01 14 20 35 aa b1 39 00 00 d6 d3 23 89 61 3c 9d 26 27 15 c4 56 b6 bb 6a f6
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 07 19 01 14 20 35 aa b1 39 00 00 d6 d3 23 89 61 3c 9d 26 27 15 c4 56 b6 bb 6a f6
+
+    Data:  83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 35 aa b1 39 00 00 d6 d3 23 89 61 3c 9d 26 27 15 c4 56 b6 bb 6a f6
+    CRC:   20 46 7b
+
+systime=1707957701 freq=2402 addr=8e89bed6 delta_t=17.249 ms rssi=-77
+66 25 29 94 a0 0b a8 5f 1e ff 4c 00 07 19 01 14 20 55 aa b1 39 00 00 ca c0 e3 1b cf 83 e3 a2 2e 53 86 ba 82 2e f7 bc c3 5b d0 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_SCAN_IND
+    AdvA:  5f:a8:0b:a0:94:29 (random)
+    AdvData: 1e ff 4c 00 07 19 01 14 20 55 aa b1 39 00 00 ca c0 e3 1b cf 83 e3 a2 2e 53 86 ba 82 2e f7 bc
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 07 19 01 14 20 55 aa b1 39 00 00 ca c0 e3 1b cf 83 e3 a2 2e 53 86 ba 82 2e f7 bc
+
+    Data:  29 94 a0 0b a8 5f 1e ff 4c 00 07 19 01 14 20 55 aa b1 39 00 00 ca c0 e3 1b cf 83 e3 a2 2e 53 86 ba 82 2e f7 bc
+    CRC:   c3 5b d0
+
+systime=1707957701 freq=2402 addr=8e89bed6 delta_t=36.476 ms rssi=-76
+66 25 29 94 a0 0b a8 5f 1e ff 4c 00 07 19 01 14 20 55 aa b1 39 00 00 ca c0 e3 1b cf 83 e3 a2 2e 53 86 ba 82 2e f7 bc c3 5b d0 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_SCAN_IND
+    AdvA:  5f:a8:0b:a0:94:29 (random)
+    AdvData: 1e ff 4c 00 07 19 01 14 20 55 aa b1 39 00 00 ca c0 e3 1b cf 83 e3 a2 2e 53 86 ba 82 2e f7 bc
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 07 19 01 14 20 55 aa b1 39 00 00 ca c0 e3 1b cf 83 e3 a2 2e 53 86 ba 82 2e f7 bc
+
+    Data:  29 94 a0 0b a8 5f 1e ff 4c 00 07 19 01 14 20 55 aa b1 39 00 00 ca c0 e3 1b cf 83 e3 a2 2e 53 86 ba 82 2e f7 bc
+    CRC:   c3 5b d0
+
+systime=1707957701 freq=2402 addr=8e89bed6 delta_t=24.692 ms rssi=-76
+66 25 29 94 a0 0b a8 5f 1e ff 4c 00 07 19 01 14 20 55 aa b1 39 00 00 ca c0 e3 1b cf 83 e3 a2 2e 53 86 ba 82 2e f7 bc c3 5b d0 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_SCAN_IND
+    AdvA:  5f:a8:0b:a0:94:29 (random)
+    AdvData: 1e ff 4c 00 07 19 01 14 20 55 aa b1 39 00 00 ca c0 e3 1b cf 83 e3 a2 2e 53 86 ba 82 2e f7 bc
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 07 19 01 14 20 55 aa b1 39 00 00 ca c0 e3 1b cf 83 e3 a2 2e 53 86 ba 82 2e f7 bc
+
+    Data:  29 94 a0 0b a8 5f 1e ff 4c 00 07 19 01 14 20 55 aa b1 39 00 00 ca c0 e3 1b cf 83 e3 a2 2e 53 86 ba 82 2e f7 bc
+    CRC:   c3 5b d0
+
+systime=1707957701 freq=2402 addr=8e89bed6 delta_t=2.929 ms rssi=-81
+66 25 83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 35 aa b1 39 00 00 d6 d3 23 89 61 3c 9d 26 27 15 c4 56 b6 bb 6a f6 20 46 7b 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_SCAN_IND
+    AdvA:  50:4d:4e:fc:32:83 (random)
+    AdvData: 1e ff 4c 00 07 19 01 14 20 35 aa b1 39 00 00 d6 d3 23 89 61 3c 9d 26 27 15 c4 56 b6 bb 6a f6
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 07 19 01 14 20 35 aa b1 39 00 00 d6 d3 23 89 61 3c 9d 26 27 15 c4 56 b6 bb 6a f6
+
+    Data:  83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 35 aa b1 39 00 00 d6 d3 23 89 61 3c 9d 26 27 15 c4 56 b6 bb 6a f6
+    CRC:   20 46 7b
+
+systime=1707957701 freq=2402 addr=8e89bed6 delta_t=47.499 ms rssi=-103
+e6 8d ba 32 d5 5f 19 5e 76 f3 d0 a1 6e 5f 1c 1f 41 75 
+Advertising / AA 8e89bed6 (valid)/ 13 bytes
+    Channel Index: 37
+    Type:  ADV_SCAN_IND
+    AdvA:  5e:19:5f:d5:32:ba (random)
+    AdvData: 76 f3 d0 a1 6e 5f 1c
+Error: attempt to read past end of buffer (1 + 118 > 7)
+
+    Data:  ba 32 d5 5f 19 5e 76 f3 d0 a1 6e 5f 1c
+    CRC:   1f 41 75
+
+systime=1707957701 freq=2402 addr=8e89bed6 delta_t=23.141 ms rssi=-82
+66 25 29 94 a0 0b a8 5f 1e ff 4c 00 07 19 01 14 20 55 aa b1 39 00 00 ca c0 e3 1b cf 83 e3 a2 2e 53 86 ba 82 2e f7 bc c3 5b d0 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_SCAN_IND
+    AdvA:  5f:a8:0b:a0:94:29 (random)
+    AdvData: 1e ff 4c 00 07 19 01 14 20 55 aa b1 39 00 00 ca c0 e3 1b cf 83 e3 a2 2e 53 86 ba 82 2e f7 bc
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 07 19 01 14 20 55 aa b1 39 00 00 ca c0 e3 1b cf 83 e3 a2 2e 53 86 ba 82 2e f7 bc
+
+    Data:  29 94 a0 0b a8 5f 1e ff 4c 00 07 19 01 14 20 55 aa b1 39 00 00 ca c0 e3 1b cf 83 e3 a2 2e 53 86 ba 82 2e f7 bc
+    CRC:   c3 5b d0
+
+systime=1707957701 freq=2402 addr=8e89bed6 delta_t=17.970 ms rssi=-78
+66 25 83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 35 aa b1 39 00 00 d6 d3 23 89 61 3c 9d 26 27 15 c4 56 b6 bb 6a f6 20 46 7b 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_SCAN_IND
+    AdvA:  50:4d:4e:fc:32:83 (random)
+    AdvData: 1e ff 4c 00 07 19 01 14 20 35 aa b1 39 00 00 d6 d3 23 89 61 3c 9d 26 27 15 c4 56 b6 bb 6a f6
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 07 19 01 14 20 35 aa b1 39 00 00 d6 d3 23 89 61 3c 9d 26 27 15 c4 56 b6 bb 6a f6
+
+    Data:  83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 35 aa b1 39 00 00 d6 d3 23 89 61 3c 9d 26 27 15 c4 56 b6 bb 6a f6
+    CRC:   20 46 7b
+
+systime=1707957701 freq=2402 addr=8e89bed6 delta_t=27.773 ms rssi=-78
+66 25 83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 35 aa b1 39 00 00 d6 d3 23 89 61 3c 9d 26 27 15 c4 56 b6 bb 6a f6 20 46 7b 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_SCAN_IND
+    AdvA:  50:4d:4e:fc:32:83 (random)
+    AdvData: 1e ff 4c 00 07 19 01 14 20 35 aa b1 39 00 00 d6 d3 23 89 61 3c 9d 26 27 15 c4 56 b6 bb 6a f6
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 07 19 01 14 20 35 aa b1 39 00 00 d6 d3 23 89 61 3c 9d 26 27 15 c4 56 b6 bb 6a f6
+
+    Data:  83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 35 aa b1 39 00 00 d6 d3 23 89 61 3c 9d 26 27 15 c4 56 b6 bb 6a f6
+    CRC:   20 46 7b
+
+systime=1707957701 freq=2402 addr=8e89bed6 delta_t=41.754 ms rssi=-66
+66 25 83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 35 aa b1 39 00 00 d6 d3 7b f5 ca 8c 5f a0 8e d5 d6 b4 0c ba d7 46 0c e3 4e 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_SCAN_IND
+    AdvA:  50:4d:4e:fc:32:83 (random)
+    AdvData: 1e ff 4c 00 07 19 01 14 20 35 aa b1 39 00 00 d6 d3 7b f5 ca 8c 5f a0 8e d5 d6 b4 0c ba d7 46
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 07 19 01 14 20 35 aa b1 39 00 00 d6 d3 7b f5 ca 8c 5f a0 8e d5 d6 b4 0c ba d7 46
+
+    Data:  83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 35 aa b1 39 00 00 d6 d3 7b f5 ca 8c 5f a0 8e d5 d6 b4 0c ba d7 46
+    CRC:   0c e3 4e
+
+systime=1707957701 freq=2402 addr=8e89bed6 delta_t=20.074 ms rssi=-78
+66 25 29 94 a0 0b a8 5f 1e ff 4c 00 07 19 01 14 20 55 aa b1 39 00 00 ca c0 e3 1b cf 83 e3 a2 2e 53 86 ba 82 2e f7 bc c3 5b d0 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_SCAN_IND
+    AdvA:  5f:a8:0b:a0:94:29 (random)
+    AdvData: 1e ff 4c 00 07 19 01 14 20 55 aa b1 39 00 00 ca c0 e3 1b cf 83 e3 a2 2e 53 86 ba 82 2e f7 bc
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 07 19 01 14 20 55 aa b1 39 00 00 ca c0 e3 1b cf 83 e3 a2 2e 53 86 ba 82 2e f7 bc
+
+    Data:  29 94 a0 0b a8 5f 1e ff 4c 00 07 19 01 14 20 55 aa b1 39 00 00 ca c0 e3 1b cf 83 e3 a2 2e 53 86 ba 82 2e f7 bc
+    CRC:   c3 5b d0
+
+systime=1707957701 freq=2402 addr=8e89bed6 delta_t=26.501 ms rssi=-76
+66 25 29 94 a0 0b a8 5f 1e ff 4c 00 07 19 01 14 20 55 aa b1 39 00 00 ca c0 e3 1b cf 83 e3 a2 2e 53 86 ba 82 2e f7 bc c3 5b d0 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_SCAN_IND
+    AdvA:  5f:a8:0b:a0:94:29 (random)
+    AdvData: 1e ff 4c 00 07 19 01 14 20 55 aa b1 39 00 00 ca c0 e3 1b cf 83 e3 a2 2e 53 86 ba 82 2e f7 bc
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 07 19 01 14 20 55 aa b1 39 00 00 ca c0 e3 1b cf 83 e3 a2 2e 53 86 ba 82 2e f7 bc
+
+    Data:  29 94 a0 0b a8 5f 1e ff 4c 00 07 19 01 14 20 55 aa b1 39 00 00 ca c0 e3 1b cf 83 e3 a2 2e 53 86 ba 82 2e f7 bc
+    CRC:   c3 5b d0
+
+systime=1707957701 freq=2402 addr=8e89bed6 delta_t=46.397 ms rssi=-78
+66 25 29 94 a0 0b a8 5f 1e ff 4c 00 07 19 01 14 20 55 aa b1 39 00 00 ca c0 e3 1b cf 83 e3 a2 2e 53 86 ba 82 2e f7 bc c3 5b d0 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_SCAN_IND
+    AdvA:  5f:a8:0b:a0:94:29 (random)
+    AdvData: 1e ff 4c 00 07 19 01 14 20 55 aa b1 39 00 00 ca c0 e3 1b cf 83 e3 a2 2e 53 86 ba 82 2e f7 bc
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 07 19 01 14 20 55 aa b1 39 00 00 ca c0 e3 1b cf 83 e3 a2 2e 53 86 ba 82 2e f7 bc
+
+    Data:  29 94 a0 0b a8 5f 1e ff 4c 00 07 19 01 14 20 55 aa b1 39 00 00 ca c0 e3 1b cf 83 e3 a2 2e 53 86 ba 82 2e f7 bc
+    CRC:   c3 5b d0
+
+systime=1707957701 freq=2402 addr=8e89bed6 delta_t=1.306 ms rssi=-83
+66 25 83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 35 aa b1 39 00 00 d6 d3 23 89 61 3c 9d 26 27 15 c4 56 b6 bb 6a f6 20 46 7b 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_SCAN_IND
+    AdvA:  50:4d:4e:fc:32:83 (random)
+    AdvData: 1e ff 4c 00 07 19 01 14 20 35 aa b1 39 00 00 d6 d3 23 89 61 3c 9d 26 27 15 c4 56 b6 bb 6a f6
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 07 19 01 14 20 35 aa b1 39 00 00 d6 d3 23 89 61 3c 9d 26 27 15 c4 56 b6 bb 6a f6
+
+    Data:  83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 35 aa b1 39 00 00 d6 d3 23 89 61 3c 9d 26 27 15 c4 56 b6 bb 6a f6
+    CRC:   20 46 7b
+
+systime=1707957701 freq=2402 addr=8e89bed6 delta_t=28.719 ms rssi=-78
+66 25 83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 35 aa b1 39 00 00 d6 d3 23 89 61 3c 9d 26 27 15 c4 56 b6 bb 6a f6 20 46 7b 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_SCAN_IND
+    AdvA:  50:4d:4e:fc:32:83 (random)
+    AdvData: 1e ff 4c 00 07 19 01 14 20 35 aa b1 39 00 00 d6 d3 23 89 61 3c 9d 26 27 15 c4 56 b6 bb 6a f6
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 07 19 01 14 20 35 aa b1 39 00 00 d6 d3 23 89 61 3c 9d 26 27 15 c4 56 b6 bb 6a f6
+
+    Data:  83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 35 aa b1 39 00 00 d6 d3 23 89 61 3c 9d 26 27 15 c4 56 b6 bb 6a f6
+    CRC:   20 46 7b
+
+systime=1707957701 freq=2402 addr=8e89bed6 delta_t=15.247 ms rssi=-81
+66 25 83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 35 aa b1 39 00 00 d6 d3 23 89 61 3c 9d 26 27 15 c4 56 b6 bb 6a f6 20 46 7b 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_SCAN_IND
+    AdvA:  50:4d:4e:fc:32:83 (random)
+    AdvData: 1e ff 4c 00 07 19 01 14 20 35 aa b1 39 00 00 d6 d3 23 89 61 3c 9d 26 27 15 c4 56 b6 bb 6a f6
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 07 19 01 14 20 35 aa b1 39 00 00 d6 d3 23 89 61 3c 9d 26 27 15 c4 56 b6 bb 6a f6
+
+    Data:  83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 35 aa b1 39 00 00 d6 d3 23 89 61 3c 9d 26 27 15 c4 56 b6 bb 6a f6
+    CRC:   20 46 7b
+
+systime=1707957701 freq=2402 addr=8e89bed6 delta_t=10.729 ms rssi=-82
+66 25 29 94 a0 0b a8 5f 1e ff 4c 00 07 19 01 14 20 55 aa b1 39 00 00 ca c0 e3 1b cf 83 e3 a2 2e 53 86 ba 82 2e f7 bc c3 5b d0 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_SCAN_IND
+    AdvA:  5f:a8:0b:a0:94:29 (random)
+    AdvData: 1e ff 4c 00 07 19 01 14 20 55 aa b1 39 00 00 ca c0 e3 1b cf 83 e3 a2 2e 53 86 ba 82 2e f7 bc
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 07 19 01 14 20 55 aa b1 39 00 00 ca c0 e3 1b cf 83 e3 a2 2e 53 86 ba 82 2e f7 bc
+
+    Data:  29 94 a0 0b a8 5f 1e ff 4c 00 07 19 01 14 20 55 aa b1 39 00 00 ca c0 e3 1b cf 83 e3 a2 2e 53 86 ba 82 2e f7 bc
+    CRC:   c3 5b d0
+
+systime=1707957701 freq=2402 addr=8e89bed6 delta_t=22.655 ms rssi=-80
+66 25 29 94 a0 0b a8 5f 1e ff 4c 00 07 19 01 14 20 55 aa b1 39 00 00 ca c0 e3 1b cf 83 e3 a2 2e 53 86 ba 82 2e f7 bc c3 5b d0 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_SCAN_IND
+    AdvA:  5f:a8:0b:a0:94:29 (random)
+    AdvData: 1e ff 4c 00 07 19 01 14 20 55 aa b1 39 00 00 ca c0 e3 1b cf 83 e3 a2 2e 53 86 ba 82 2e f7 bc
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 07 19 01 14 20 55 aa b1 39 00 00 ca c0 e3 1b cf 83 e3 a2 2e 53 86 ba 82 2e f7 bc
+
+    Data:  29 94 a0 0b a8 5f 1e ff 4c 00 07 19 01 14 20 55 aa b1 39 00 00 ca c0 e3 1b cf 83 e3 a2 2e 53 86 ba 82 2e f7 bc
+    CRC:   c3 5b d0
+
+systime=1707957701 freq=2402 addr=8e89bed6 delta_t=18.817 ms rssi=-75
+66 25 83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 35 aa b1 39 00 00 d6 d3 23 89 61 3c 9d 26 27 15 c4 56 b6 bb 6a f6 20 46 7b 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_SCAN_IND
+    AdvA:  50:4d:4e:fc:32:83 (random)
+    AdvData: 1e ff 4c 00 07 19 01 14 20 35 aa b1 39 00 00 d6 d3 23 89 61 3c 9d 26 27 15 c4 56 b6 bb 6a f6
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 07 19 01 14 20 35 aa b1 39 00 00 d6 d3 23 89 61 3c 9d 26 27 15 c4 56 b6 bb 6a f6
+
+    Data:  83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 35 aa b1 39 00 00 d6 d3 23 89 61 3c 9d 26 27 15 c4 56 b6 bb 6a f6
+    CRC:   20 46 7b
+
+systime=1707957701 freq=2402 addr=8e89bed6 delta_t=7.116 ms rssi=-82
+66 25 29 94 a0 0b a8 5f 1e ff 4c 00 07 19 01 14 20 55 aa b1 39 00 00 ca c0 e3 1b cf 83 e3 a2 2e 53 86 ba 82 2e f7 bc c3 5b d0 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_SCAN_IND
+    AdvA:  5f:a8:0b:a0:94:29 (random)
+    AdvData: 1e ff 4c 00 07 19 01 14 20 55 aa b1 39 00 00 ca c0 e3 1b cf 83 e3 a2 2e 53 86 ba 82 2e f7 bc
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 07 19 01 14 20 55 aa b1 39 00 00 ca c0 e3 1b cf 83 e3 a2 2e 53 86 ba 82 2e f7 bc
+
+    Data:  29 94 a0 0b a8 5f 1e ff 4c 00 07 19 01 14 20 55 aa b1 39 00 00 ca c0 e3 1b cf 83 e3 a2 2e 53 86 ba 82 2e f7 bc
+    CRC:   c3 5b d0
+
+systime=1707957701 freq=2402 addr=8e89bed6 delta_t=55.588 ms rssi=-84
+66 25 29 94 a0 0b a8 5f 1e ff 4c 00 07 19 01 14 20 55 aa b1 39 00 00 ca c0 e3 1b cf 83 e3 a2 2e 53 86 ba 82 2e f7 bc c3 5b d0 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_SCAN_IND
+    AdvA:  5f:a8:0b:a0:94:29 (random)
+    AdvData: 1e ff 4c 00 07 19 01 14 20 55 aa b1 39 00 00 ca c0 e3 1b cf 83 e3 a2 2e 53 86 ba 82 2e f7 bc
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 07 19 01 14 20 55 aa b1 39 00 00 ca c0 e3 1b cf 83 e3 a2 2e 53 86 ba 82 2e f7 bc
+
+    Data:  29 94 a0 0b a8 5f 1e ff 4c 00 07 19 01 14 20 55 aa b1 39 00 00 ca c0 e3 1b cf 83 e3 a2 2e 53 86 ba 82 2e f7 bc
+    CRC:   c3 5b d0
+
+systime=1707957701 freq=2402 addr=8e89bed6 delta_t=22.209 ms rssi=-77
+66 25 83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 35 aa b1 39 00 00 d6 d3 23 89 61 3c 9d 26 27 15 c4 56 b6 bb 6a f6 20 46 7b 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_SCAN_IND
+    AdvA:  50:4d:4e:fc:32:83 (random)
+    AdvData: 1e ff 4c 00 07 19 01 14 20 35 aa b1 39 00 00 d6 d3 23 89 61 3c 9d 26 27 15 c4 56 b6 bb 6a f6
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 07 19 01 14 20 35 aa b1 39 00 00 d6 d3 23 89 61 3c 9d 26 27 15 c4 56 b6 bb 6a f6
+
+    Data:  83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 35 aa b1 39 00 00 d6 d3 23 89 61 3c 9d 26 27 15 c4 56 b6 bb 6a f6
+    CRC:   20 46 7b
+
+systime=1707957701 freq=2402 addr=8e89bed6 delta_t=5.427 ms rssi=-87
+60 25 0b 3f 2c ad 21 ef 1e ff 4c 00 12 19 aa 26 40 1e a0 46 f2 3f 1f db 16 34 26 ff 73 4e 1d ee ab b1 36 1b 73 03 8d 40 f9 d0 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_IND
+    AdvA:  ef:21:ad:2c:3f:0b (random)
+    AdvData: 1e ff 4c 00 12 19 aa 26 40 1e a0 46 f2 3f 1f db 16 34 26 ff 73 4e 1d ee ab b1 36 1b 73 03 8d
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 12 19 aa 26 40 1e a0 46 f2 3f 1f db 16 34 26 ff 73 4e 1d ee ab b1 36 1b 73 03 8d
+
+    Data:  0b 3f 2c ad 21 ef 1e ff 4c 00 12 19 aa 26 40 1e a0 46 f2 3f 1f db 16 34 26 ff 73 4e 1d ee ab b1 36 1b 73 03 8d
+    CRC:   40 f9 d0
+
+systime=1707957701 freq=2402 addr=8e89bed6 delta_t=1.978 ms rssi=-86
+66 25 29 94 a0 0b a8 5f 1e ff 4c 00 07 19 01 14 20 55 aa b1 39 00 00 ca c0 e3 1b cf 83 e3 a2 2e 53 86 ba 82 2e f7 bc c3 5b d0 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_SCAN_IND
+    AdvA:  5f:a8:0b:a0:94:29 (random)
+    AdvData: 1e ff 4c 00 07 19 01 14 20 55 aa b1 39 00 00 ca c0 e3 1b cf 83 e3 a2 2e 53 86 ba 82 2e f7 bc
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 07 19 01 14 20 55 aa b1 39 00 00 ca c0 e3 1b cf 83 e3 a2 2e 53 86 ba 82 2e f7 bc
+
+    Data:  29 94 a0 0b a8 5f 1e ff 4c 00 07 19 01 14 20 55 aa b1 39 00 00 ca c0 e3 1b cf 83 e3 a2 2e 53 86 ba 82 2e f7 bc
+    CRC:   c3 5b d0
+
+systime=1707957701 freq=2402 addr=8e89bed6 delta_t=19.858 ms rssi=-78
+66 25 83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 35 aa b1 39 00 00 d6 d3 23 89 61 3c 9d 26 27 15 c4 56 b6 bb 6a f6 20 46 7b 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_SCAN_IND
+    AdvA:  50:4d:4e:fc:32:83 (random)
+    AdvData: 1e ff 4c 00 07 19 01 14 20 35 aa b1 39 00 00 d6 d3 23 89 61 3c 9d 26 27 15 c4 56 b6 bb 6a f6
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 07 19 01 14 20 35 aa b1 39 00 00 d6 d3 23 89 61 3c 9d 26 27 15 c4 56 b6 bb 6a f6
+
+    Data:  83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 35 aa b1 39 00 00 d6 d3 23 89 61 3c 9d 26 27 15 c4 56 b6 bb 6a f6
+    CRC:   20 46 7b
+
+systime=1707957701 freq=2402 addr=8e89bed6 delta_t=31.474 ms rssi=-87
+66 25 29 94 a0 0b a8 5f 1e ff 4c 00 07 19 01 14 20 55 aa b1 39 00 00 ca c0 e3 1b cf 83 e3 a2 2e 53 86 ba 82 2e f7 bc c3 5b d0 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_SCAN_IND
+    AdvA:  5f:a8:0b:a0:94:29 (random)
+    AdvData: 1e ff 4c 00 07 19 01 14 20 55 aa b1 39 00 00 ca c0 e3 1b cf 83 e3 a2 2e 53 86 ba 82 2e f7 bc
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 07 19 01 14 20 55 aa b1 39 00 00 ca c0 e3 1b cf 83 e3 a2 2e 53 86 ba 82 2e f7 bc
+
+    Data:  29 94 a0 0b a8 5f 1e ff 4c 00 07 19 01 14 20 55 aa b1 39 00 00 ca c0 e3 1b cf 83 e3 a2 2e 53 86 ba 82 2e f7 bc
+    CRC:   c3 5b d0
+
+systime=1707957701 freq=2402 addr=8e89bed6 delta_t=37.157 ms rssi=-80
+66 25 83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 35 aa b1 39 00 00 d6 d3 23 89 61 3c 9d 26 27 15 c4 56 b6 bb 6a f6 20 46 7b 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_SCAN_IND
+    AdvA:  50:4d:4e:fc:32:83 (random)
+    AdvData: 1e ff 4c 00 07 19 01 14 20 35 aa b1 39 00 00 d6 d3 23 89 61 3c 9d 26 27 15 c4 56 b6 bb 6a f6
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 07 19 01 14 20 35 aa b1 39 00 00 d6 d3 23 89 61 3c 9d 26 27 15 c4 56 b6 bb 6a f6
+
+    Data:  83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 35 aa b1 39 00 00 d6 d3 23 89 61 3c 9d 26 27 15 c4 56 b6 bb 6a f6
+    CRC:   20 46 7b
+
+systime=1707957701 freq=2402 addr=8e89bed6 delta_t=1.763 ms rssi=-90
+66 25 29 94 a0 0b a8 5f 1e ff 4c 00 07 19 01 14 20 55 aa b1 39 00 00 ca c0 e3 1b cf 83 e3 a2 2e 53 86 ba 82 2e f7 bc c3 5b d0 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_SCAN_IND
+    AdvA:  5f:a8:0b:a0:94:29 (random)
+    AdvData: 1e ff 4c 00 07 19 01 14 20 55 aa b1 39 00 00 ca c0 e3 1b cf 83 e3 a2 2e 53 86 ba 82 2e f7 bc
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 07 19 01 14 20 55 aa b1 39 00 00 ca c0 e3 1b cf 83 e3 a2 2e 53 86 ba 82 2e f7 bc
+
+    Data:  29 94 a0 0b a8 5f 1e ff 4c 00 07 19 01 14 20 55 aa b1 39 00 00 ca c0 e3 1b cf 83 e3 a2 2e 53 86 ba 82 2e f7 bc
+    CRC:   c3 5b d0
+
+systime=1707957701 freq=2402 addr=8e89bed6 delta_t=28.289 ms rssi=-87
+66 25 29 94 a0 0b a8 5f 1e ff 4c 00 07 19 01 14 20 55 aa b1 39 00 00 ca c0 e3 1b cf 83 e3 a2 2e 53 86 ba 82 2e f7 bc c3 5b d0 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_SCAN_IND
+    AdvA:  5f:a8:0b:a0:94:29 (random)
+    AdvData: 1e ff 4c 00 07 19 01 14 20 55 aa b1 39 00 00 ca c0 e3 1b cf 83 e3 a2 2e 53 86 ba 82 2e f7 bc
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 07 19 01 14 20 55 aa b1 39 00 00 ca c0 e3 1b cf 83 e3 a2 2e 53 86 ba 82 2e f7 bc
+
+    Data:  29 94 a0 0b a8 5f 1e ff 4c 00 07 19 01 14 20 55 aa b1 39 00 00 ca c0 e3 1b cf 83 e3 a2 2e 53 86 ba 82 2e f7 bc
+    CRC:   c3 5b d0
+
+systime=1707957701 freq=2402 addr=8e89bed6 delta_t=22.863 ms rssi=-87
+66 25 83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 35 aa b1 39 00 00 d6 d3 23 89 61 3c 9d 26 27 15 c4 56 b6 bb 6a f6 20 46 7b 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_SCAN_IND
+    AdvA:  50:4d:4e:fc:32:83 (random)
+    AdvData: 1e ff 4c 00 07 19 01 14 20 35 aa b1 39 00 00 d6 d3 23 89 61 3c 9d 26 27 15 c4 56 b6 bb 6a f6
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 07 19 01 14 20 35 aa b1 39 00 00 d6 d3 23 89 61 3c 9d 26 27 15 c4 56 b6 bb 6a f6
+
+    Data:  83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 35 aa b1 39 00 00 d6 d3 23 89 61 3c 9d 26 27 15 c4 56 b6 bb 6a f6
+    CRC:   20 46 7b
+
+systime=1707957701 freq=2402 addr=8e89bed6 delta_t=21.107 ms rssi=-85
+66 25 83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 35 aa b1 39 00 00 d6 d3 23 89 61 3c 9d 26 27 15 c4 56 b6 bb 6a f6 20 46 7b 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_SCAN_IND
+    AdvA:  50:4d:4e:fc:32:83 (random)
+    AdvData: 1e ff 4c 00 07 19 01 14 20 35 aa b1 39 00 00 d6 d3 23 89 61 3c 9d 26 27 15 c4 56 b6 bb 6a f6
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 07 19 01 14 20 35 aa b1 39 00 00 d6 d3 23 89 61 3c 9d 26 27 15 c4 56 b6 bb 6a f6
+
+    Data:  83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 35 aa b1 39 00 00 d6 d3 23 89 61 3c 9d 26 27 15 c4 56 b6 bb 6a f6
+    CRC:   20 46 7b
+
+systime=1707957702 freq=2402 addr=8e89bed6 delta_t=26.514 ms rssi=-86
+66 25 83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 35 aa b1 39 00 00 d6 d3 23 89 61 3c 9d 26 27 15 c4 56 b6 bb 6a f6 20 46 7b 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_SCAN_IND
+    AdvA:  50:4d:4e:fc:32:83 (random)
+    AdvData: 1e ff 4c 00 07 19 01 14 20 35 aa b1 39 00 00 d6 d3 23 89 61 3c 9d 26 27 15 c4 56 b6 bb 6a f6
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 07 19 01 14 20 35 aa b1 39 00 00 d6 d3 23 89 61 3c 9d 26 27 15 c4 56 b6 bb 6a f6
+
+    Data:  83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 35 aa b1 39 00 00 d6 d3 23 89 61 3c 9d 26 27 15 c4 56 b6 bb 6a f6
+    CRC:   20 46 7b
+
+systime=1707957702 freq=2402 addr=8e89bed6 delta_t=26.235 ms rssi=-87
+66 25 83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 35 aa b1 39 00 00 d6 d3 23 89 61 3c 9d 26 27 15 c4 56 b6 bb 6a f6 20 46 7b 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_SCAN_IND
+    AdvA:  50:4d:4e:fc:32:83 (random)
+    AdvData: 1e ff 4c 00 07 19 01 14 20 35 aa b1 39 00 00 d6 d3 23 89 61 3c 9d 26 27 15 c4 56 b6 bb 6a f6
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 07 19 01 14 20 35 aa b1 39 00 00 d6 d3 23 89 61 3c 9d 26 27 15 c4 56 b6 bb 6a f6
+
+    Data:  83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 35 aa b1 39 00 00 d6 d3 23 89 61 3c 9d 26 27 15 c4 56 b6 bb 6a f6
+    CRC:   20 46 7b
+
+systime=1707957702 freq=2402 addr=8e89bed6 delta_t=41.348 ms rssi=-87
+66 25 83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 35 aa b1 39 00 00 d6 d3 23 89 61 3c 9d 26 27 15 c4 56 b6 bb 6a f6 20 46 7b 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_SCAN_IND
+    AdvA:  50:4d:4e:fc:32:83 (random)
+    AdvData: 1e ff 4c 00 07 19 01 14 20 35 aa b1 39 00 00 d6 d3 23 89 61 3c 9d 26 27 15 c4 56 b6 bb 6a f6
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 07 19 01 14 20 35 aa b1 39 00 00 d6 d3 23 89 61 3c 9d 26 27 15 c4 56 b6 bb 6a f6
+
+    Data:  83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 35 aa b1 39 00 00 d6 d3 23 89 61 3c 9d 26 27 15 c4 56 b6 bb 6a f6
+    CRC:   20 46 7b
+
+systime=1707957702 freq=2402 addr=8e89bed6 delta_t=49.723 ms rssi=-88
+66 25 29 94 a0 0b a8 5f 1e ff 4c 00 07 19 01 14 20 55 aa b1 39 00 00 ca c0 e3 1b cf 83 e3 a2 2e 53 86 ba 82 2e f7 bc c3 5b d0 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_SCAN_IND
+    AdvA:  5f:a8:0b:a0:94:29 (random)
+    AdvData: 1e ff 4c 00 07 19 01 14 20 55 aa b1 39 00 00 ca c0 e3 1b cf 83 e3 a2 2e 53 86 ba 82 2e f7 bc
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 07 19 01 14 20 55 aa b1 39 00 00 ca c0 e3 1b cf 83 e3 a2 2e 53 86 ba 82 2e f7 bc
+
+    Data:  29 94 a0 0b a8 5f 1e ff 4c 00 07 19 01 14 20 55 aa b1 39 00 00 ca c0 e3 1b cf 83 e3 a2 2e 53 86 ba 82 2e f7 bc
+    CRC:   c3 5b d0
+
+systime=1707957702 freq=2402 addr=8e89bed6 delta_t=20.088 ms rssi=-86
+66 25 83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 35 aa b1 39 00 00 d6 d3 23 89 61 3c 9d 26 27 15 c4 56 b6 bb 6a f6 20 46 7b 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_SCAN_IND
+    AdvA:  50:4d:4e:fc:32:83 (random)
+    AdvData: 1e ff 4c 00 07 19 01 14 20 35 aa b1 39 00 00 d6 d3 23 89 61 3c 9d 26 27 15 c4 56 b6 bb 6a f6
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 07 19 01 14 20 35 aa b1 39 00 00 d6 d3 23 89 61 3c 9d 26 27 15 c4 56 b6 bb 6a f6
+
+    Data:  83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 35 aa b1 39 00 00 d6 d3 23 89 61 3c 9d 26 27 15 c4 56 b6 bb 6a f6
+    CRC:   20 46 7b
+
+systime=1707957702 freq=2402 addr=8e89bed6 delta_t=2.470 ms rssi=-87
+66 25 29 94 a0 0b a8 5f 1e ff 4c 00 07 19 01 14 20 55 aa b1 39 00 00 ca c0 e3 1b cf 83 e3 a2 2e 53 86 ba 82 2e f7 bc c3 5b d0 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_SCAN_IND
+    AdvA:  5f:a8:0b:a0:94:29 (random)
+    AdvData: 1e ff 4c 00 07 19 01 14 20 55 aa b1 39 00 00 ca c0 e3 1b cf 83 e3 a2 2e 53 86 ba 82 2e f7 bc
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 07 19 01 14 20 55 aa b1 39 00 00 ca c0 e3 1b cf 83 e3 a2 2e 53 86 ba 82 2e f7 bc
+
+    Data:  29 94 a0 0b a8 5f 1e ff 4c 00 07 19 01 14 20 55 aa b1 39 00 00 ca c0 e3 1b cf 83 e3 a2 2e 53 86 ba 82 2e f7 bc
+    CRC:   c3 5b d0
+
+systime=1707957702 freq=2402 addr=8e89bed6 delta_t=13.906 ms rssi=-88
+66 25 83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 35 aa b1 39 00 00 d6 d3 23 89 61 3c 9d 26 27 15 c4 56 b6 bb 6a f6 20 46 7b 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_SCAN_IND
+    AdvA:  50:4d:4e:fc:32:83 (random)
+    AdvData: 1e ff 4c 00 07 19 01 14 20 35 aa b1 39 00 00 d6 d3 23 89 61 3c 9d 26 27 15 c4 56 b6 bb 6a f6
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 07 19 01 14 20 35 aa b1 39 00 00 d6 d3 23 89 61 3c 9d 26 27 15 c4 56 b6 bb 6a f6
+
+    Data:  83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 35 aa b1 39 00 00 d6 d3 23 89 61 3c 9d 26 27 15 c4 56 b6 bb 6a f6
+    CRC:   20 46 7b
+
+systime=1707957702 freq=2402 addr=8e89bed6 delta_t=41.959 ms rssi=-86
+66 25 83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 35 aa b1 39 00 00 d6 d3 23 89 61 3c 9d 26 27 15 c4 56 b6 bb 6a f6 20 46 7b 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_SCAN_IND
+    AdvA:  50:4d:4e:fc:32:83 (random)
+    AdvData: 1e ff 4c 00 07 19 01 14 20 35 aa b1 39 00 00 d6 d3 23 89 61 3c 9d 26 27 15 c4 56 b6 bb 6a f6
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 07 19 01 14 20 35 aa b1 39 00 00 d6 d3 23 89 61 3c 9d 26 27 15 c4 56 b6 bb 6a f6
+
+    Data:  83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 35 aa b1 39 00 00 d6 d3 23 89 61 3c 9d 26 27 15 c4 56 b6 bb 6a f6
+    CRC:   20 46 7b
+
+systime=1707957702 freq=2402 addr=8e89bed6 delta_t=20.118 ms rssi=-88
+66 25 29 94 a0 0b a8 5f 1e ff 4c 00 06 19 01 14 20 55 aa b1 39 00 00 ca c0 e3 1b cf 83 e3 a2 2e 53 86 ba 82 2e f7 bc c3 5b d0 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_SCAN_IND
+    AdvA:  5f:a8:0b:a0:94:29 (random)
+    AdvData: 1e ff 4c 00 06 19 01 14 20 55 aa b1 39 00 00 ca c0 e3 1b cf 83 e3 a2 2e 53 86 ba 82 2e f7 bc
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 06 19 01 14 20 55 aa b1 39 00 00 ca c0 e3 1b cf 83 e3 a2 2e 53 86 ba 82 2e f7 bc
+
+    Data:  29 94 a0 0b a8 5f 1e ff 4c 00 06 19 01 14 20 55 aa b1 39 00 00 ca c0 e3 1b cf 83 e3 a2 2e 53 86 ba 82 2e f7 bc
+    CRC:   c3 5b d0
+
+systime=1707957702 freq=2402 addr=8e89bed6 delta_t=22.705 ms rssi=-89
+66 25 29 94 a0 0b a8 5f 1e ff 4c 00 07 19 01 14 20 55 aa b1 39 00 00 ca c0 e3 19 cf 83 e3 a2 2e 53 86 ba 82 2e f7 bc c3 5b d0 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_SCAN_IND
+    AdvA:  5f:a8:0b:a0:94:29 (random)
+    AdvData: 1e ff 4c 00 07 19 01 14 20 55 aa b1 39 00 00 ca c0 e3 19 cf 83 e3 a2 2e 53 86 ba 82 2e f7 bc
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 07 19 01 14 20 55 aa b1 39 00 00 ca c0 e3 19 cf 83 e3 a2 2e 53 86 ba 82 2e f7 bc
+
+    Data:  29 94 a0 0b a8 5f 1e ff 4c 00 07 19 01 14 20 55 aa b1 39 00 00 ca c0 e3 19 cf 83 e3 a2 2e 53 86 ba 82 2e f7 bc
+    CRC:   c3 5b d0
+
+systime=1707957702 freq=2402 addr=8e89bed6 delta_t=68.956 ms rssi=-104
+66 a5 6d 91 a0 0b a0 57 54 ff 2c ec de d9 01 14 24 51 aa b0 79 00 00 ca c0 a3 1a cb 83 e3 a2 2e d3 87 ba 82 2e f7 bc c3 5b d0 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_SCAN_IND
+    AdvA:  57:a0:0b:a0:91:6d (random)
+    AdvData: 54 ff 2c ec de d9 01 14 24 51 aa b0 79 00 00 ca c0 a3 1a cb 83 e3 a2 2e d3 87 ba 82 2e f7 bc
+Error: attempt to read past end of buffer (1 + 84 > 31)
+
+    Data:  6d 91 a0 0b a0 57 54 ff 2c ec de d9 01 14 24 51 aa b0 79 00 00 ca c0 a3 1a cb 83 e3 a2 2e d3 87 ba 82 2e f7 bc
+    CRC:   c3 5b d0
+
+systime=1707957702 freq=2402 addr=8e89bed6 delta_t=63.299 ms rssi=-87
+66 25 83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 35 aa b1 39 00 00 d6 d3 23 89 61 3c 9d 26 27 15 c4 56 b6 bb 6a f6 20 46 7b 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_SCAN_IND
+    AdvA:  50:4d:4e:fc:32:83 (random)
+    AdvData: 1e ff 4c 00 07 19 01 14 20 35 aa b1 39 00 00 d6 d3 23 89 61 3c 9d 26 27 15 c4 56 b6 bb 6a f6
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 07 19 01 14 20 35 aa b1 39 00 00 d6 d3 23 89 61 3c 9d 26 27 15 c4 56 b6 bb 6a f6
+
+    Data:  83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 35 aa b1 39 00 00 d6 d3 23 89 61 3c 9d 26 27 15 c4 56 b6 bb 6a f6
+    CRC:   20 46 7b
+
+systime=1707957702 freq=2402 addr=8e89bed6 delta_t=12.723 ms rssi=-88
+66 25 69 94 a0 0b a8 5f 1e ff 4c 00 07 19 01 14 20 55 aa b1 39 00 00 ca c0 e3 1b cf 83 e3 a2 2e 53 86 ba 82 2e f7 bd c3 5b d0 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_SCAN_IND
+    AdvA:  5f:a8:0b:a0:94:69 (random)
+    AdvData: 1e ff 4c 00 07 19 01 14 20 55 aa b1 39 00 00 ca c0 e3 1b cf 83 e3 a2 2e 53 86 ba 82 2e f7 bd
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 07 19 01 14 20 55 aa b1 39 00 00 ca c0 e3 1b cf 83 e3 a2 2e 53 86 ba 82 2e f7 bd
+
+    Data:  69 94 a0 0b a8 5f 1e ff 4c 00 07 19 01 14 20 55 aa b1 39 00 00 ca c0 e3 1b cf 83 e3 a2 2e 53 86 ba 82 2e f7 bd
+    CRC:   c3 5b d0
+
+systime=1707957702 freq=2402 addr=8e89bed6 delta_t=54.050 ms rssi=-87
+66 25 29 94 a0 0b a8 5f 1e ff 4c 00 07 19 01 14 20 55 aa b1 39 00 00 ca c0 e3 1b cf 83 e3 a2 2e 53 86 ba 82 2e f7 bc c3 5b d0 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_SCAN_IND
+    AdvA:  5f:a8:0b:a0:94:29 (random)
+    AdvData: 1e ff 4c 00 07 19 01 14 20 55 aa b1 39 00 00 ca c0 e3 1b cf 83 e3 a2 2e 53 86 ba 82 2e f7 bc
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 07 19 01 14 20 55 aa b1 39 00 00 ca c0 e3 1b cf 83 e3 a2 2e 53 86 ba 82 2e f7 bc
+
+    Data:  29 94 a0 0b a8 5f 1e ff 4c 00 07 19 01 14 20 55 aa b1 39 00 00 ca c0 e3 1b cf 83 e3 a2 2e 53 86 ba 82 2e f7 bc
+    CRC:   c3 5b d0
+
+systime=1707957702 freq=2402 addr=8e89bed6 delta_t=7.357 ms rssi=-87
+66 25 83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 35 aa b1 39 00 00 d6 d3 23 89 61 3c 9d 26 27 15 c4 56 b6 bb 6a f6 20 46 7b 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_SCAN_IND
+    AdvA:  50:4d:4e:fc:32:83 (random)
+    AdvData: 1e ff 4c 00 07 19 01 14 20 35 aa b1 39 00 00 d6 d3 23 89 61 3c 9d 26 27 15 c4 56 b6 bb 6a f6
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 07 19 01 14 20 35 aa b1 39 00 00 d6 d3 23 89 61 3c 9d 26 27 15 c4 56 b6 bb 6a f6
+
+    Data:  83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 35 aa b1 39 00 00 d6 d3 23 89 61 3c 9d 26 27 15 c4 56 b6 bb 6a f6
+    CRC:   20 46 7b
+
+systime=1707957702 freq=2402 addr=8e89bed6 delta_t=110.911 ms rssi=-87
+60 25 9e a6 e9 fe da ce 1e ff 4c 00 12 19 23 21 71 56 69 ef 98 6b d8 6d 64 7e c3 b7 f6 8a 3d 02 0c 0c 97 fd ca 00 34 34 8a 41 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_IND
+    AdvA:  ce:da:fe:e9:a6:9e (random)
+    AdvData: 1e ff 4c 00 12 19 23 21 71 56 69 ef 98 6b d8 6d 64 7e c3 b7 f6 8a 3d 02 0c 0c 97 fd ca 00 34
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 12 19 23 21 71 56 69 ef 98 6b d8 6d 64 7e c3 b7 f6 8a 3d 02 0c 0c 97 fd ca 00 34
+
+    Data:  9e a6 e9 fe da ce 1e ff 4c 00 12 19 23 21 71 56 69 ef 98 6b d8 6d 64 7e c3 b7 f6 8a 3d 02 0c 0c 97 fd ca 00 34
+    CRC:   34 8a 41
+
+systime=1707957702 freq=2402 addr=8e89bed6 delta_t=4.132 ms rssi=-86
+66 25 83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 35 aa b1 39 00 00 d6 d3 23 89 61 3c 9d 26 27 15 c4 56 b6 bb 6a f6 20 46 7b 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_SCAN_IND
+    AdvA:  50:4d:4e:fc:32:83 (random)
+    AdvData: 1e ff 4c 00 07 19 01 14 20 35 aa b1 39 00 00 d6 d3 23 89 61 3c 9d 26 27 15 c4 56 b6 bb 6a f6
+        Type ff (Manufacturer Specific Data)
+           Company: Apple, Inc.
+           Data: 07 19 01 14 20 35 aa b1 39 00 00 d6 d3 23 89 61 3c 9d 26 27 15 c4 56 b6 bb 6a f6
+
+    Data:  83 32 fc 4e 4d 50 1e ff 4c 00 07 19 01 14 20 35 aa b1 39 00 00 d6 d3 23 89 61 3c 9d 26 27 15 c4 56 b6 bb 6a f6
+    CRC:   20 46 7b
+

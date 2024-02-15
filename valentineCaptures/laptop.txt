@@ -1,0 +1,2308 @@
+systime=1707960348 freq=2402 addr=8e89bed6 delta_t=102.593 ms rssi=-84
+62 25 03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4 03 3c ad 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_NONCONN_IND
+    AdvA:  00:65:1c:67:fc:03 (random)
+    AdvData: 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+        Type ff (Manufacturer Specific Data)
+           Company: Microsoft
+           Data: 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+
+    Data:  03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+    CRC:   03 3c ad
+
+systime=1707960348 freq=2402 addr=8e89bed6 delta_t=109.376 ms rssi=-86
+62 25 03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4 03 3c ad 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_NONCONN_IND
+    AdvA:  00:65:1c:67:fc:03 (random)
+    AdvData: 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+        Type ff (Manufacturer Specific Data)
+           Company: Microsoft
+           Data: 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+
+    Data:  03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+    CRC:   03 3c ad
+
+systime=1707960348 freq=2402 addr=8e89bed6 delta_t=107.501 ms rssi=-87
+62 25 03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4 03 3c ad 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_NONCONN_IND
+    AdvA:  00:65:1c:67:fc:03 (random)
+    AdvData: 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+        Type ff (Manufacturer Specific Data)
+           Company: Microsoft
+           Data: 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+
+    Data:  03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+    CRC:   03 3c ad
+
+systime=1707960348 freq=2402 addr=8e89bed6 delta_t=104.375 ms rssi=-87
+62 25 03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4 03 3c ad 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_NONCONN_IND
+    AdvA:  00:65:1c:67:fc:03 (random)
+    AdvData: 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+        Type ff (Manufacturer Specific Data)
+           Company: Microsoft
+           Data: 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+
+    Data:  03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+    CRC:   03 3c ad
+
+systime=1707960348 freq=2402 addr=8e89bed6 delta_t=109.376 ms rssi=-87
+62 25 03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4 03 3c ad 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_NONCONN_IND
+    AdvA:  00:65:1c:67:fc:03 (random)
+    AdvData: 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+        Type ff (Manufacturer Specific Data)
+           Company: Microsoft
+           Data: 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+
+    Data:  03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+    CRC:   03 3c ad
+
+systime=1707960348 freq=2402 addr=8e89bed6 delta_t=103.126 ms rssi=-83
+62 25 03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4 03 3c ad 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_NONCONN_IND
+    AdvA:  00:65:1c:67:fc:03 (random)
+    AdvData: 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+        Type ff (Manufacturer Specific Data)
+           Company: Microsoft
+           Data: 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+
+    Data:  03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+    CRC:   03 3c ad
+
+systime=1707960349 freq=2402 addr=8e89bed6 delta_t=100.001 ms rssi=-85
+62 25 03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4 03 3c ad 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_NONCONN_IND
+    AdvA:  00:65:1c:67:fc:03 (random)
+    AdvData: 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+        Type ff (Manufacturer Specific Data)
+           Company: Microsoft
+           Data: 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+
+    Data:  03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+    CRC:   03 3c ad
+
+systime=1707960349 freq=2402 addr=8e89bed6 delta_t=105.626 ms rssi=-86
+62 25 03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4 03 3c ad 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_NONCONN_IND
+    AdvA:  00:65:1c:67:fc:03 (random)
+    AdvData: 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+        Type ff (Manufacturer Specific Data)
+           Company: Microsoft
+           Data: 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+
+    Data:  03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+    CRC:   03 3c ad
+
+systime=1707960349 freq=2402 addr=8e89bed6 delta_t=106.251 ms rssi=-86
+62 25 03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4 03 3c ad 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_NONCONN_IND
+    AdvA:  00:65:1c:67:fc:03 (random)
+    AdvData: 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+        Type ff (Manufacturer Specific Data)
+           Company: Microsoft
+           Data: 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+
+    Data:  03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+    CRC:   03 3c ad
+
+systime=1707960349 freq=2402 addr=8e89bed6 delta_t=107.501 ms rssi=-85
+62 25 03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4 03 3c ad 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_NONCONN_IND
+    AdvA:  00:65:1c:67:fc:03 (random)
+    AdvData: 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+        Type ff (Manufacturer Specific Data)
+           Company: Microsoft
+           Data: 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+
+    Data:  03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+    CRC:   03 3c ad
+
+systime=1707960349 freq=2402 addr=8e89bed6 delta_t=105.001 ms rssi=-87
+62 25 03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4 03 3c ad 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_NONCONN_IND
+    AdvA:  00:65:1c:67:fc:03 (random)
+    AdvData: 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+        Type ff (Manufacturer Specific Data)
+           Company: Microsoft
+           Data: 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+
+    Data:  03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+    CRC:   03 3c ad
+
+systime=1707960349 freq=2402 addr=8e89bed6 delta_t=108.126 ms rssi=-86
+62 25 03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4 03 3c ad 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_NONCONN_IND
+    AdvA:  00:65:1c:67:fc:03 (random)
+    AdvData: 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+        Type ff (Manufacturer Specific Data)
+           Company: Microsoft
+           Data: 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+
+    Data:  03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+    CRC:   03 3c ad
+
+systime=1707960349 freq=2402 addr=8e89bed6 delta_t=105.001 ms rssi=-86
+62 25 03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4 03 3c ad 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_NONCONN_IND
+    AdvA:  00:65:1c:67:fc:03 (random)
+    AdvData: 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+        Type ff (Manufacturer Specific Data)
+           Company: Microsoft
+           Data: 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+
+    Data:  03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+    CRC:   03 3c ad
+
+systime=1707960349 freq=2402 addr=8e89bed6 delta_t=104.376 ms rssi=-84
+62 25 03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4 03 3c ad 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_NONCONN_IND
+    AdvA:  00:65:1c:67:fc:03 (random)
+    AdvData: 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+        Type ff (Manufacturer Specific Data)
+           Company: Microsoft
+           Data: 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+
+    Data:  03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+    CRC:   03 3c ad
+
+systime=1707960349 freq=2402 addr=8e89bed6 delta_t=104.376 ms rssi=-87
+62 25 03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4 03 3c ad 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_NONCONN_IND
+    AdvA:  00:65:1c:67:fc:03 (random)
+    AdvData: 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+        Type ff (Manufacturer Specific Data)
+           Company: Microsoft
+           Data: 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+
+    Data:  03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+    CRC:   03 3c ad
+
+systime=1707960350 freq=2402 addr=8e89bed6 delta_t=101.876 ms rssi=-86
+62 25 03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4 03 3c ad 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_NONCONN_IND
+    AdvA:  00:65:1c:67:fc:03 (random)
+    AdvData: 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+        Type ff (Manufacturer Specific Data)
+           Company: Microsoft
+           Data: 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+
+    Data:  03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+    CRC:   03 3c ad
+
+systime=1707960350 freq=2402 addr=8e89bed6 delta_t=109.376 ms rssi=-86
+62 25 03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4 03 3c ad 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_NONCONN_IND
+    AdvA:  00:65:1c:67:fc:03 (random)
+    AdvData: 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+        Type ff (Manufacturer Specific Data)
+           Company: Microsoft
+           Data: 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+
+    Data:  03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+    CRC:   03 3c ad
+
+systime=1707960350 freq=2402 addr=8e89bed6 delta_t=107.501 ms rssi=-85
+62 25 03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4 03 3c ad 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_NONCONN_IND
+    AdvA:  00:65:1c:67:fc:03 (random)
+    AdvData: 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+        Type ff (Manufacturer Specific Data)
+           Company: Microsoft
+           Data: 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+
+    Data:  03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+    CRC:   03 3c ad
+
+systime=1707960350 freq=2402 addr=8e89bed6 delta_t=106.251 ms rssi=-88
+62 25 03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4 03 3c ad 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_NONCONN_IND
+    AdvA:  00:65:1c:67:fc:03 (random)
+    AdvData: 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+        Type ff (Manufacturer Specific Data)
+           Company: Microsoft
+           Data: 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+
+    Data:  03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+    CRC:   03 3c ad
+
+systime=1707960350 freq=2402 addr=8e89bed6 delta_t=105.001 ms rssi=-87
+62 25 03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4 03 3c ad 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_NONCONN_IND
+    AdvA:  00:65:1c:67:fc:03 (random)
+    AdvData: 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+        Type ff (Manufacturer Specific Data)
+           Company: Microsoft
+           Data: 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+
+    Data:  03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+    CRC:   03 3c ad
+
+systime=1707960350 freq=2402 addr=8e89bed6 delta_t=103.751 ms rssi=-88
+62 25 03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4 03 3c ad 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_NONCONN_IND
+    AdvA:  00:65:1c:67:fc:03 (random)
+    AdvData: 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+        Type ff (Manufacturer Specific Data)
+           Company: Microsoft
+           Data: 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+
+    Data:  03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+    CRC:   03 3c ad
+
+systime=1707960350 freq=2402 addr=8e89bed6 delta_t=106.876 ms rssi=-84
+62 25 03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4 03 3c ad 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_NONCONN_IND
+    AdvA:  00:65:1c:67:fc:03 (random)
+    AdvData: 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+        Type ff (Manufacturer Specific Data)
+           Company: Microsoft
+           Data: 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+
+    Data:  03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+    CRC:   03 3c ad
+
+systime=1707960350 freq=2402 addr=8e89bed6 delta_t=101.251 ms rssi=-87
+62 25 03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4 03 3c ad 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_NONCONN_IND
+    AdvA:  00:65:1c:67:fc:03 (random)
+    AdvData: 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+        Type ff (Manufacturer Specific Data)
+           Company: Microsoft
+           Data: 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+
+    Data:  03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+    CRC:   03 3c ad
+
+systime=1707960350 freq=2402 addr=8e89bed6 delta_t=106.251 ms rssi=-90
+62 25 03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4 03 3c ad 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_NONCONN_IND
+    AdvA:  00:65:1c:67:fc:03 (random)
+    AdvData: 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+        Type ff (Manufacturer Specific Data)
+           Company: Microsoft
+           Data: 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+
+    Data:  03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+    CRC:   03 3c ad
+
+systime=1707960350 freq=2402 addr=8e89bed6 delta_t=100.001 ms rssi=-86
+62 25 03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4 03 3c ad 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_NONCONN_IND
+    AdvA:  00:65:1c:67:fc:03 (random)
+    AdvData: 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+        Type ff (Manufacturer Specific Data)
+           Company: Microsoft
+           Data: 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+
+    Data:  03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+    CRC:   03 3c ad
+
+systime=1707960351 freq=2402 addr=8e89bed6 delta_t=103.751 ms rssi=-87
+62 25 03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4 03 3c ad 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_NONCONN_IND
+    AdvA:  00:65:1c:67:fc:03 (random)
+    AdvData: 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+        Type ff (Manufacturer Specific Data)
+           Company: Microsoft
+           Data: 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+
+    Data:  03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+    CRC:   03 3c ad
+
+systime=1707960351 freq=2402 addr=8e89bed6 delta_t=100.626 ms rssi=-87
+62 25 03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4 03 3c ad 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_NONCONN_IND
+    AdvA:  00:65:1c:67:fc:03 (random)
+    AdvData: 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+        Type ff (Manufacturer Specific Data)
+           Company: Microsoft
+           Data: 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+
+    Data:  03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+    CRC:   03 3c ad
+
+systime=1707960351 freq=2402 addr=8e89bed6 delta_t=104.376 ms rssi=-88
+62 25 03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4 03 3c ad 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_NONCONN_IND
+    AdvA:  00:65:1c:67:fc:03 (random)
+    AdvData: 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+        Type ff (Manufacturer Specific Data)
+           Company: Microsoft
+           Data: 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+
+    Data:  03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+    CRC:   03 3c ad
+
+systime=1707960351 freq=2402 addr=8e89bed6 delta_t=108.126 ms rssi=-88
+62 25 03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4 03 3c ad 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_NONCONN_IND
+    AdvA:  00:65:1c:67:fc:03 (random)
+    AdvData: 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+        Type ff (Manufacturer Specific Data)
+           Company: Microsoft
+           Data: 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+
+    Data:  03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+    CRC:   03 3c ad
+
+systime=1707960351 freq=2402 addr=8e89bed6 delta_t=102.501 ms rssi=-86
+62 25 03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4 03 3c ad 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_NONCONN_IND
+    AdvA:  00:65:1c:67:fc:03 (random)
+    AdvData: 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+        Type ff (Manufacturer Specific Data)
+           Company: Microsoft
+           Data: 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+
+    Data:  03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+    CRC:   03 3c ad
+
+systime=1707960351 freq=2402 addr=8e89bed6 delta_t=100.626 ms rssi=-87
+62 25 03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4 03 3c ad 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_NONCONN_IND
+    AdvA:  00:65:1c:67:fc:03 (random)
+    AdvData: 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+        Type ff (Manufacturer Specific Data)
+           Company: Microsoft
+           Data: 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+
+    Data:  03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+    CRC:   03 3c ad
+
+systime=1707960351 freq=2402 addr=8e89bed6 delta_t=108.751 ms rssi=-86
+62 25 03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4 03 3c ad 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_NONCONN_IND
+    AdvA:  00:65:1c:67:fc:03 (random)
+    AdvData: 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+        Type ff (Manufacturer Specific Data)
+           Company: Microsoft
+           Data: 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+
+    Data:  03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+    CRC:   03 3c ad
+
+systime=1707960351 freq=2402 addr=8e89bed6 delta_t=107.501 ms rssi=-86
+62 25 03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4 03 3c ad 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_NONCONN_IND
+    AdvA:  00:65:1c:67:fc:03 (random)
+    AdvData: 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+        Type ff (Manufacturer Specific Data)
+           Company: Microsoft
+           Data: 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+
+    Data:  03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+    CRC:   03 3c ad
+
+systime=1707960351 freq=2402 addr=8e89bed6 delta_t=101.876 ms rssi=-82
+62 25 03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4 03 3c ad 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_NONCONN_IND
+    AdvA:  00:65:1c:67:fc:03 (random)
+    AdvData: 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+        Type ff (Manufacturer Specific Data)
+           Company: Microsoft
+           Data: 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+
+    Data:  03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+    CRC:   03 3c ad
+
+systime=1707960352 freq=2402 addr=8e89bed6 delta_t=105.627 ms rssi=-89
+62 25 03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4 03 3c ad 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_NONCONN_IND
+    AdvA:  00:65:1c:67:fc:03 (random)
+    AdvData: 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+        Type ff (Manufacturer Specific Data)
+           Company: Microsoft
+           Data: 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+
+    Data:  03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+    CRC:   03 3c ad
+
+systime=1707960352 freq=2402 addr=8e89bed6 delta_t=202.501 ms rssi=-86
+62 25 03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4 03 3c ad 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_NONCONN_IND
+    AdvA:  00:65:1c:67:fc:03 (random)
+    AdvData: 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+        Type ff (Manufacturer Specific Data)
+           Company: Microsoft
+           Data: 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+
+    Data:  03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+    CRC:   03 3c ad
+
+systime=1707960352 freq=2402 addr=8e89bed6 delta_t=105.625 ms rssi=-85
+62 25 03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4 03 3c ad 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_NONCONN_IND
+    AdvA:  00:65:1c:67:fc:03 (random)
+    AdvData: 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+        Type ff (Manufacturer Specific Data)
+           Company: Microsoft
+           Data: 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+
+    Data:  03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+    CRC:   03 3c ad
+
+systime=1707960352 freq=2402 addr=8e89bed6 delta_t=209.378 ms rssi=-86
+62 25 03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4 03 3c ad 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_NONCONN_IND
+    AdvA:  00:65:1c:67:fc:03 (random)
+    AdvData: 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+        Type ff (Manufacturer Specific Data)
+           Company: Microsoft
+           Data: 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+
+    Data:  03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+    CRC:   03 3c ad
+
+systime=1707960352 freq=2402 addr=8e89bed6 delta_t=105.625 ms rssi=-88
+62 25 03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4 03 3c ad 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_NONCONN_IND
+    AdvA:  00:65:1c:67:fc:03 (random)
+    AdvData: 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+        Type ff (Manufacturer Specific Data)
+           Company: Microsoft
+           Data: 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+
+    Data:  03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+    CRC:   03 3c ad
+
+systime=1707960352 freq=2402 addr=8e89bed6 delta_t=210.624 ms rssi=-87
+62 25 03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4 03 3c ad 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_NONCONN_IND
+    AdvA:  00:65:1c:67:fc:03 (random)
+    AdvData: 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+        Type ff (Manufacturer Specific Data)
+           Company: Microsoft
+           Data: 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+
+    Data:  03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+    CRC:   03 3c ad
+
+systime=1707960352 freq=2402 addr=8e89bed6 delta_t=103.124 ms rssi=-86
+62 25 03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4 03 3c ad 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_NONCONN_IND
+    AdvA:  00:65:1c:67:fc:03 (random)
+    AdvData: 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+        Type ff (Manufacturer Specific Data)
+           Company: Microsoft
+           Data: 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+
+    Data:  03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+    CRC:   03 3c ad
+
+systime=1707960353 freq=2402 addr=8e89bed6 delta_t=106.250 ms rssi=-87
+62 25 03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4 03 3c ad 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_NONCONN_IND
+    AdvA:  00:65:1c:67:fc:03 (random)
+    AdvData: 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+        Type ff (Manufacturer Specific Data)
+           Company: Microsoft
+           Data: 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+
+    Data:  03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+    CRC:   03 3c ad
+
+systime=1707960353 freq=2402 addr=8e89bed6 delta_t=105.626 ms rssi=-84
+62 25 03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4 03 3c ad 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_NONCONN_IND
+    AdvA:  00:65:1c:67:fc:03 (random)
+    AdvData: 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+        Type ff (Manufacturer Specific Data)
+           Company: Microsoft
+           Data: 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+
+    Data:  03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+    CRC:   03 3c ad
+
+systime=1707960353 freq=2402 addr=8e89bed6 delta_t=103.751 ms rssi=-88
+62 25 03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4 03 3c ad 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_NONCONN_IND
+    AdvA:  00:65:1c:67:fc:03 (random)
+    AdvData: 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+        Type ff (Manufacturer Specific Data)
+           Company: Microsoft
+           Data: 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+
+    Data:  03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+    CRC:   03 3c ad
+
+systime=1707960353 freq=2402 addr=8e89bed6 delta_t=204.375 ms rssi=-87
+62 25 03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4 03 3c ad 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_NONCONN_IND
+    AdvA:  00:65:1c:67:fc:03 (random)
+    AdvData: 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+        Type ff (Manufacturer Specific Data)
+           Company: Microsoft
+           Data: 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+
+    Data:  03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+    CRC:   03 3c ad
+
+systime=1707960353 freq=2402 addr=8e89bed6 delta_t=100.624 ms rssi=-86
+62 25 03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4 03 3c ad 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_NONCONN_IND
+    AdvA:  00:65:1c:67:fc:03 (random)
+    AdvData: 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+        Type ff (Manufacturer Specific Data)
+           Company: Microsoft
+           Data: 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+
+    Data:  03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+    CRC:   03 3c ad
+
+systime=1707960353 freq=2402 addr=8e89bed6 delta_t=105.000 ms rssi=-86
+62 25 03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4 03 3c ad 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_NONCONN_IND
+    AdvA:  00:65:1c:67:fc:03 (random)
+    AdvData: 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+        Type ff (Manufacturer Specific Data)
+           Company: Microsoft
+           Data: 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+
+    Data:  03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+    CRC:   03 3c ad
+
+systime=1707960353 freq=2402 addr=8e89bed6 delta_t=101.001 ms rssi=-104
+f0 f3 70 0e 8e 5f ed b1 8e 7c d0 53 53 50 98 96 3c 66 f0 70 e2 33 3b 2f da ad f2 e6 cc d8 be a1 9d cc 08 6f c5 59 87 68 61 0e e2 93 25 ec 
+Advertising / AA 8e89bed6 (valid)/ 51 bytes
+    Channel Index: 37
+    Type:  ADV_IND
+    AdvA:  b1:ed:5f:8e:0e:70 (random)
+    AdvData: 8e 7c d0 53 53 50 98 96 3c 66 f0 70 e2 33 3b 2f da ad f2 e6 cc d8 be a1 9d cc 08 6f c5 59 87 68 61 0e e2 93 25 ec d0 e6 ce 39 fc 7f 00
+Error: attempt to read past end of buffer (1 + 142 > 45)
+
+    Data:  70 0e 8e 5f ed b1 8e 7c d0 53 53 50 98 96 3c 66 f0 70 e2 33 3b 2f da ad f2 e6 cc d8 be a1 9d cc 08 6f c5 59 87 68 61 0e e2 93 25 ec d0 e6 ce 39 fc 7f 00
+    CRC:   00 e0 fc
+
+systime=1707960353 freq=2402 addr=8e89bed6 delta_t=7.124 ms rssi=-87
+62 25 03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4 03 3c ad 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_NONCONN_IND
+    AdvA:  00:65:1c:67:fc:03 (random)
+    AdvData: 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+        Type ff (Manufacturer Specific Data)
+           Company: Microsoft
+           Data: 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+
+    Data:  03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+    CRC:   03 3c ad
+
+systime=1707960353 freq=2402 addr=8e89bed6 delta_t=108.126 ms rssi=-87
+62 25 03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4 03 3c ad 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_NONCONN_IND
+    AdvA:  00:65:1c:67:fc:03 (random)
+    AdvData: 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+        Type ff (Manufacturer Specific Data)
+           Company: Microsoft
+           Data: 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+
+    Data:  03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+    CRC:   03 3c ad
+
+systime=1707960354 freq=2402 addr=8e89bed6 delta_t=105.625 ms rssi=-85
+62 25 03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4 03 3c ad 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_NONCONN_IND
+    AdvA:  00:65:1c:67:fc:03 (random)
+    AdvData: 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+        Type ff (Manufacturer Specific Data)
+           Company: Microsoft
+           Data: 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+
+    Data:  03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+    CRC:   03 3c ad
+
+systime=1707960354 freq=2402 addr=8e89bed6 delta_t=100.625 ms rssi=-88
+62 25 03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4 03 3c ad 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_NONCONN_IND
+    AdvA:  00:65:1c:67:fc:03 (random)
+    AdvData: 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+        Type ff (Manufacturer Specific Data)
+           Company: Microsoft
+           Data: 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+
+    Data:  03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+    CRC:   03 3c ad
+
+systime=1707960354 freq=2402 addr=8e89bed6 delta_t=101.251 ms rssi=-87
+62 25 03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4 03 3c ad 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_NONCONN_IND
+    AdvA:  00:65:1c:67:fc:03 (random)
+    AdvData: 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+        Type ff (Manufacturer Specific Data)
+           Company: Microsoft
+           Data: 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+
+    Data:  03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+    CRC:   03 3c ad
+
+systime=1707960354 freq=2402 addr=8e89bed6 delta_t=104.376 ms rssi=-87
+62 25 03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4 03 3c ad 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_NONCONN_IND
+    AdvA:  00:65:1c:67:fc:03 (random)
+    AdvData: 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+        Type ff (Manufacturer Specific Data)
+           Company: Microsoft
+           Data: 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+
+    Data:  03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+    CRC:   03 3c ad
+
+systime=1707960354 freq=2402 addr=8e89bed6 delta_t=101.250 ms rssi=-88
+62 25 03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4 03 3c ad 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_NONCONN_IND
+    AdvA:  00:65:1c:67:fc:03 (random)
+    AdvData: 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+        Type ff (Manufacturer Specific Data)
+           Company: Microsoft
+           Data: 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+
+    Data:  03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+    CRC:   03 3c ad
+
+systime=1707960354 freq=2402 addr=8e89bed6 delta_t=103.749 ms rssi=-86
+62 25 03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4 03 3c ad 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_NONCONN_IND
+    AdvA:  00:65:1c:67:fc:03 (random)
+    AdvData: 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+        Type ff (Manufacturer Specific Data)
+           Company: Microsoft
+           Data: 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+
+    Data:  03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+    CRC:   03 3c ad
+
+systime=1707960354 freq=2402 addr=8e89bed6 delta_t=106.875 ms rssi=-87
+62 25 03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4 03 3c ad 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_NONCONN_IND
+    AdvA:  00:65:1c:67:fc:03 (random)
+    AdvData: 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+        Type ff (Manufacturer Specific Data)
+           Company: Microsoft
+           Data: 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+
+    Data:  03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+    CRC:   03 3c ad
+
+systime=1707960354 freq=2402 addr=8e89bed6 delta_t=209.376 ms rssi=-87
+62 25 03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4 03 3c ad 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_NONCONN_IND
+    AdvA:  00:65:1c:67:fc:03 (random)
+    AdvData: 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+        Type ff (Manufacturer Specific Data)
+           Company: Microsoft
+           Data: 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+
+    Data:  03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+    CRC:   03 3c ad
+
+systime=1707960354 freq=2402 addr=8e89bed6 delta_t=104.376 ms rssi=-85
+62 25 03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4 03 3c ad 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_NONCONN_IND
+    AdvA:  00:65:1c:67:fc:03 (random)
+    AdvData: 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+        Type ff (Manufacturer Specific Data)
+           Company: Microsoft
+           Data: 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+
+    Data:  03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+    CRC:   03 3c ad
+
+systime=1707960355 freq=2402 addr=8e89bed6 delta_t=106.251 ms rssi=-88
+62 25 03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4 03 3c ad 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_NONCONN_IND
+    AdvA:  00:65:1c:67:fc:03 (random)
+    AdvData: 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+        Type ff (Manufacturer Specific Data)
+           Company: Microsoft
+           Data: 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+
+    Data:  03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+    CRC:   03 3c ad
+
+systime=1707960355 freq=2402 addr=8e89bed6 delta_t=106.875 ms rssi=-86
+62 25 03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4 03 3c ad 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_NONCONN_IND
+    AdvA:  00:65:1c:67:fc:03 (random)
+    AdvData: 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+        Type ff (Manufacturer Specific Data)
+           Company: Microsoft
+           Data: 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+
+    Data:  03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+    CRC:   03 3c ad
+
+systime=1707960355 freq=2402 addr=8e89bed6 delta_t=100.000 ms rssi=-86
+62 25 03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4 03 3c ad 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_NONCONN_IND
+    AdvA:  00:65:1c:67:fc:03 (random)
+    AdvData: 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+        Type ff (Manufacturer Specific Data)
+           Company: Microsoft
+           Data: 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+
+    Data:  03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+    CRC:   03 3c ad
+
+systime=1707960355 freq=2402 addr=8e89bed6 delta_t=99.999 ms rssi=-86
+62 25 03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4 03 3c ad 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_NONCONN_IND
+    AdvA:  00:65:1c:67:fc:03 (random)
+    AdvData: 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+        Type ff (Manufacturer Specific Data)
+           Company: Microsoft
+           Data: 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+
+    Data:  03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+    CRC:   03 3c ad
+
+systime=1707960355 freq=2402 addr=8e89bed6 delta_t=104.999 ms rssi=-86
+62 25 03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4 03 3c ad 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_NONCONN_IND
+    AdvA:  00:65:1c:67:fc:03 (random)
+    AdvData: 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+        Type ff (Manufacturer Specific Data)
+           Company: Microsoft
+           Data: 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+
+    Data:  03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+    CRC:   03 3c ad
+
+systime=1707960355 freq=2402 addr=8e89bed6 delta_t=103.124 ms rssi=-88
+62 25 03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4 03 3c ad 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_NONCONN_IND
+    AdvA:  00:65:1c:67:fc:03 (random)
+    AdvData: 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+        Type ff (Manufacturer Specific Data)
+           Company: Microsoft
+           Data: 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+
+    Data:  03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+    CRC:   03 3c ad
+
+systime=1707960355 freq=2402 addr=8e89bed6 delta_t=103.125 ms rssi=-87
+62 25 03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4 03 3c ad 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_NONCONN_IND
+    AdvA:  00:65:1c:67:fc:03 (random)
+    AdvData: 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+        Type ff (Manufacturer Specific Data)
+           Company: Microsoft
+           Data: 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+
+    Data:  03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+    CRC:   03 3c ad
+
+systime=1707960355 freq=2402 addr=8e89bed6 delta_t=102.501 ms rssi=-87
+62 25 03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4 03 3c ad 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_NONCONN_IND
+    AdvA:  00:65:1c:67:fc:03 (random)
+    AdvData: 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+        Type ff (Manufacturer Specific Data)
+           Company: Microsoft
+           Data: 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+
+    Data:  03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+    CRC:   03 3c ad
+
+systime=1707960355 freq=2402 addr=8e89bed6 delta_t=100.626 ms rssi=-87
+62 25 03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4 03 3c ad 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_NONCONN_IND
+    AdvA:  00:65:1c:67:fc:03 (random)
+    AdvData: 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+        Type ff (Manufacturer Specific Data)
+           Company: Microsoft
+           Data: 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+
+    Data:  03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+    CRC:   03 3c ad
+
+systime=1707960355 freq=2402 addr=8e89bed6 delta_t=101.251 ms rssi=-89
+62 25 03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4 03 3c ad 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_NONCONN_IND
+    AdvA:  00:65:1c:67:fc:03 (random)
+    AdvData: 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+        Type ff (Manufacturer Specific Data)
+           Company: Microsoft
+           Data: 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+
+    Data:  03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+    CRC:   03 3c ad
+
+systime=1707960356 freq=2402 addr=8e89bed6 delta_t=210.624 ms rssi=-87
+62 25 03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4 03 3c ad 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_NONCONN_IND
+    AdvA:  00:65:1c:67:fc:03 (random)
+    AdvData: 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+        Type ff (Manufacturer Specific Data)
+           Company: Microsoft
+           Data: 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+
+    Data:  03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+    CRC:   03 3c ad
+
+systime=1707960356 freq=2402 addr=8e89bed6 delta_t=100.000 ms rssi=-87
+62 25 03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4 03 3c ad 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_NONCONN_IND
+    AdvA:  00:65:1c:67:fc:03 (random)
+    AdvData: 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+        Type ff (Manufacturer Specific Data)
+           Company: Microsoft
+           Data: 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+
+    Data:  03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+    CRC:   03 3c ad
+
+systime=1707960356 freq=2402 addr=8e89bed6 delta_t=108.126 ms rssi=-87
+62 25 03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4 03 3c ad 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_NONCONN_IND
+    AdvA:  00:65:1c:67:fc:03 (random)
+    AdvData: 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+        Type ff (Manufacturer Specific Data)
+           Company: Microsoft
+           Data: 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+
+    Data:  03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+    CRC:   03 3c ad
+
+systime=1707960356 freq=2402 addr=8e89bed6 delta_t=105.625 ms rssi=-87
+62 25 03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4 03 3c ad 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_NONCONN_IND
+    AdvA:  00:65:1c:67:fc:03 (random)
+    AdvData: 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+        Type ff (Manufacturer Specific Data)
+           Company: Microsoft
+           Data: 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+
+    Data:  03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+    CRC:   03 3c ad
+
+systime=1707960356 freq=2402 addr=8e89bed6 delta_t=100.000 ms rssi=-85
+62 25 03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4 03 3c ad 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_NONCONN_IND
+    AdvA:  00:65:1c:67:fc:03 (random)
+    AdvData: 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+        Type ff (Manufacturer Specific Data)
+           Company: Microsoft
+           Data: 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+
+    Data:  03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+    CRC:   03 3c ad
+
+systime=1707960356 freq=2402 addr=8e89bed6 delta_t=103.126 ms rssi=-87
+62 25 03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4 03 3c ad 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_NONCONN_IND
+    AdvA:  00:65:1c:67:fc:03 (random)
+    AdvData: 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+        Type ff (Manufacturer Specific Data)
+           Company: Microsoft
+           Data: 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+
+    Data:  03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+    CRC:   03 3c ad
+
+systime=1707960356 freq=2402 addr=8e89bed6 delta_t=103.751 ms rssi=-88
+62 25 03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4 03 3c ad 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_NONCONN_IND
+    AdvA:  00:65:1c:67:fc:03 (random)
+    AdvData: 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+        Type ff (Manufacturer Specific Data)
+           Company: Microsoft
+           Data: 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+
+    Data:  03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+    CRC:   03 3c ad
+
+systime=1707960356 freq=2402 addr=8e89bed6 delta_t=106.250 ms rssi=-88
+62 25 03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4 03 3c ad 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_NONCONN_IND
+    AdvA:  00:65:1c:67:fc:03 (random)
+    AdvData: 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+        Type ff (Manufacturer Specific Data)
+           Company: Microsoft
+           Data: 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+
+    Data:  03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+    CRC:   03 3c ad
+
+systime=1707960357 freq=2402 addr=8e89bed6 delta_t=104.375 ms rssi=-90
+62 25 03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4 03 3c ad 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_NONCONN_IND
+    AdvA:  00:65:1c:67:fc:03 (random)
+    AdvData: 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+        Type ff (Manufacturer Specific Data)
+           Company: Microsoft
+           Data: 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+
+    Data:  03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+    CRC:   03 3c ad
+
+systime=1707960357 freq=2402 addr=8e89bed6 delta_t=102.500 ms rssi=-87
+62 25 03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4 03 3c ad 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_NONCONN_IND
+    AdvA:  00:65:1c:67:fc:03 (random)
+    AdvData: 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+        Type ff (Manufacturer Specific Data)
+           Company: Microsoft
+           Data: 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+
+    Data:  03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+    CRC:   03 3c ad
+
+systime=1707960357 freq=2402 addr=8e89bed6 delta_t=103.125 ms rssi=-86
+62 25 03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4 03 3c ad 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_NONCONN_IND
+    AdvA:  00:65:1c:67:fc:03 (random)
+    AdvData: 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+        Type ff (Manufacturer Specific Data)
+           Company: Microsoft
+           Data: 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+
+    Data:  03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+    CRC:   03 3c ad
+
+systime=1707960357 freq=2402 addr=8e89bed6 delta_t=101.249 ms rssi=-86
+62 25 03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4 03 3c ad 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_NONCONN_IND
+    AdvA:  00:65:1c:67:fc:03 (random)
+    AdvData: 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+        Type ff (Manufacturer Specific Data)
+           Company: Microsoft
+           Data: 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+
+    Data:  03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+    CRC:   03 3c ad
+
+systime=1707960357 freq=2402 addr=8e89bed6 delta_t=106.875 ms rssi=-86
+62 25 03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4 03 3c ad 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_NONCONN_IND
+    AdvA:  00:65:1c:67:fc:03 (random)
+    AdvData: 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+        Type ff (Manufacturer Specific Data)
+           Company: Microsoft
+           Data: 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+
+    Data:  03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+    CRC:   03 3c ad
+
+systime=1707960357 freq=2402 addr=8e89bed6 delta_t=101.875 ms rssi=-87
+62 25 03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4 03 3c ad 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_NONCONN_IND
+    AdvA:  00:65:1c:67:fc:03 (random)
+    AdvData: 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+        Type ff (Manufacturer Specific Data)
+           Company: Microsoft
+           Data: 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+
+    Data:  03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+    CRC:   03 3c ad
+
+systime=1707960357 freq=2402 addr=8e89bed6 delta_t=103.751 ms rssi=-86
+62 25 03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4 03 3c ad 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_NONCONN_IND
+    AdvA:  00:65:1c:67:fc:03 (random)
+    AdvData: 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+        Type ff (Manufacturer Specific Data)
+           Company: Microsoft
+           Data: 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+
+    Data:  03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+    CRC:   03 3c ad
+
+systime=1707960357 freq=2402 addr=8e89bed6 delta_t=100.625 ms rssi=-88
+62 25 03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4 03 3c ad 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_NONCONN_IND
+    AdvA:  00:65:1c:67:fc:03 (random)
+    AdvData: 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+        Type ff (Manufacturer Specific Data)
+           Company: Microsoft
+           Data: 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+
+    Data:  03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+    CRC:   03 3c ad
+
+systime=1707960357 freq=2402 addr=8e89bed6 delta_t=211.875 ms rssi=-87
+62 25 03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4 03 3c ad 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_NONCONN_IND
+    AdvA:  00:65:1c:67:fc:03 (random)
+    AdvData: 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+        Type ff (Manufacturer Specific Data)
+           Company: Microsoft
+           Data: 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+
+    Data:  03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+    CRC:   03 3c ad
+
+systime=1707960358 freq=2402 addr=8e89bed6 delta_t=101.874 ms rssi=-86
+62 25 03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4 03 3c ad 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_NONCONN_IND
+    AdvA:  00:65:1c:67:fc:03 (random)
+    AdvData: 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+        Type ff (Manufacturer Specific Data)
+           Company: Microsoft
+           Data: 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+
+    Data:  03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+    CRC:   03 3c ad
+
+systime=1707960358 freq=2402 addr=8e89bed6 delta_t=106.250 ms rssi=-88
+62 25 03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4 03 3c ad 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_NONCONN_IND
+    AdvA:  00:65:1c:67:fc:03 (random)
+    AdvData: 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+        Type ff (Manufacturer Specific Data)
+           Company: Microsoft
+           Data: 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+
+    Data:  03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+    CRC:   03 3c ad
+
+systime=1707960358 freq=2402 addr=8e89bed6 delta_t=211.251 ms rssi=-87
+62 25 03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4 03 3c ad 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_NONCONN_IND
+    AdvA:  00:65:1c:67:fc:03 (random)
+    AdvData: 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+        Type ff (Manufacturer Specific Data)
+           Company: Microsoft
+           Data: 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+
+    Data:  03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+    CRC:   03 3c ad
+
+systime=1707960358 freq=2402 addr=8e89bed6 delta_t=106.875 ms rssi=-87
+62 25 03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4 03 3c ad 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_NONCONN_IND
+    AdvA:  00:65:1c:67:fc:03 (random)
+    AdvData: 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+        Type ff (Manufacturer Specific Data)
+           Company: Microsoft
+           Data: 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+
+    Data:  03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+    CRC:   03 3c ad
+
+systime=1707960358 freq=2402 addr=8e89bed6 delta_t=101.250 ms rssi=-87
+62 25 03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4 03 3c ad 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_NONCONN_IND
+    AdvA:  00:65:1c:67:fc:03 (random)
+    AdvData: 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+        Type ff (Manufacturer Specific Data)
+           Company: Microsoft
+           Data: 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+
+    Data:  03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+    CRC:   03 3c ad
+
+systime=1707960358 freq=2402 addr=8e89bed6 delta_t=109.375 ms rssi=-87
+62 25 03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4 03 3c ad 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_NONCONN_IND
+    AdvA:  00:65:1c:67:fc:03 (random)
+    AdvData: 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+        Type ff (Manufacturer Specific Data)
+           Company: Microsoft
+           Data: 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+
+    Data:  03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+    CRC:   03 3c ad
+
+systime=1707960358 freq=2402 addr=8e89bed6 delta_t=103.749 ms rssi=-87
+62 25 03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4 03 3c ad 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_NONCONN_IND
+    AdvA:  00:65:1c:67:fc:03 (random)
+    AdvData: 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+        Type ff (Manufacturer Specific Data)
+           Company: Microsoft
+           Data: 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+
+    Data:  03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+    CRC:   03 3c ad
+
+systime=1707960358 freq=2402 addr=8e89bed6 delta_t=103.126 ms rssi=-88
+62 25 03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4 03 3c ad 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_NONCONN_IND
+    AdvA:  00:65:1c:67:fc:03 (random)
+    AdvData: 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+        Type ff (Manufacturer Specific Data)
+           Company: Microsoft
+           Data: 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+
+    Data:  03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+    CRC:   03 3c ad
+
+systime=1707960359 freq=2402 addr=8e89bed6 delta_t=210.000 ms rssi=-88
+62 25 03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4 03 3c ad 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_NONCONN_IND
+    AdvA:  00:65:1c:67:fc:03 (random)
+    AdvData: 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+        Type ff (Manufacturer Specific Data)
+           Company: Microsoft
+           Data: 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+
+    Data:  03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+    CRC:   03 3c ad
+
+systime=1707960359 freq=2402 addr=8e89bed6 delta_t=103.126 ms rssi=-88
+62 25 03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4 03 3c ad 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_NONCONN_IND
+    AdvA:  00:65:1c:67:fc:03 (random)
+    AdvData: 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+        Type ff (Manufacturer Specific Data)
+           Company: Microsoft
+           Data: 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+
+    Data:  03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+    CRC:   03 3c ad
+
+systime=1707960359 freq=2402 addr=8e89bed6 delta_t=105.624 ms rssi=-86
+62 25 03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4 03 3c ad 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_NONCONN_IND
+    AdvA:  00:65:1c:67:fc:03 (random)
+    AdvData: 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+        Type ff (Manufacturer Specific Data)
+           Company: Microsoft
+           Data: 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+
+    Data:  03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+    CRC:   03 3c ad
+
+systime=1707960359 freq=2402 addr=8e89bed6 delta_t=103.750 ms rssi=-87
+62 25 03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4 03 3c ad 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_NONCONN_IND
+    AdvA:  00:65:1c:67:fc:03 (random)
+    AdvData: 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+        Type ff (Manufacturer Specific Data)
+           Company: Microsoft
+           Data: 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+
+    Data:  03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+    CRC:   03 3c ad
+
+systime=1707960359 freq=2402 addr=8e89bed6 delta_t=106.874 ms rssi=-86
+62 25 03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4 03 3c ad 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_NONCONN_IND
+    AdvA:  00:65:1c:67:fc:03 (random)
+    AdvData: 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+        Type ff (Manufacturer Specific Data)
+           Company: Microsoft
+           Data: 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+
+    Data:  03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+    CRC:   03 3c ad
+
+systime=1707960359 freq=2402 addr=8e89bed6 delta_t=105.001 ms rssi=-89
+62 25 03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4 03 3c ad 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_NONCONN_IND
+    AdvA:  00:65:1c:67:fc:03 (random)
+    AdvData: 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+        Type ff (Manufacturer Specific Data)
+           Company: Microsoft
+           Data: 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+
+    Data:  03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+    CRC:   03 3c ad
+
+systime=1707960359 freq=2402 addr=8e89bed6 delta_t=108.749 ms rssi=-86
+62 25 03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4 03 3c ad 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_NONCONN_IND
+    AdvA:  00:65:1c:67:fc:03 (random)
+    AdvData: 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+        Type ff (Manufacturer Specific Data)
+           Company: Microsoft
+           Data: 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+
+    Data:  03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+    CRC:   03 3c ad
+
+systime=1707960359 freq=2402 addr=8e89bed6 delta_t=107.500 ms rssi=-88
+62 25 03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4 03 3c ad 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_NONCONN_IND
+    AdvA:  00:65:1c:67:fc:03 (random)
+    AdvData: 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+        Type ff (Manufacturer Specific Data)
+           Company: Microsoft
+           Data: 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+
+    Data:  03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+    CRC:   03 3c ad
+
+systime=1707960359 freq=2402 addr=8e89bed6 delta_t=100.625 ms rssi=-86
+62 25 03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4 03 3c ad 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_NONCONN_IND
+    AdvA:  00:65:1c:67:fc:03 (random)
+    AdvData: 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+        Type ff (Manufacturer Specific Data)
+           Company: Microsoft
+           Data: 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+
+    Data:  03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+    CRC:   03 3c ad
+
+systime=1707960360 freq=2402 addr=8e89bed6 delta_t=101.876 ms rssi=-89
+62 25 03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4 03 3c ad 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_NONCONN_IND
+    AdvA:  00:65:1c:67:fc:03 (random)
+    AdvData: 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+        Type ff (Manufacturer Specific Data)
+           Company: Microsoft
+           Data: 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+
+    Data:  03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+    CRC:   03 3c ad
+
+systime=1707960360 freq=2402 addr=8e89bed6 delta_t=104.376 ms rssi=-87
+62 25 03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4 03 3c ad 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_NONCONN_IND
+    AdvA:  00:65:1c:67:fc:03 (random)
+    AdvData: 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+        Type ff (Manufacturer Specific Data)
+           Company: Microsoft
+           Data: 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+
+    Data:  03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+    CRC:   03 3c ad
+
+systime=1707960360 freq=2402 addr=8e89bed6 delta_t=322.501 ms rssi=-87
+62 25 03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4 03 3c ad 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_NONCONN_IND
+    AdvA:  00:65:1c:67:fc:03 (random)
+    AdvData: 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+        Type ff (Manufacturer Specific Data)
+           Company: Microsoft
+           Data: 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+
+    Data:  03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+    CRC:   03 3c ad
+
+systime=1707960360 freq=2402 addr=8e89bed6 delta_t=210.625 ms rssi=-87
+62 25 03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4 03 3c ad 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_NONCONN_IND
+    AdvA:  00:65:1c:67:fc:03 (random)
+    AdvData: 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+        Type ff (Manufacturer Specific Data)
+           Company: Microsoft
+           Data: 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+
+    Data:  03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+    CRC:   03 3c ad
+
+systime=1707960360 freq=2402 addr=8e89bed6 delta_t=109.375 ms rssi=-85
+62 25 03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4 03 3c ad 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_NONCONN_IND
+    AdvA:  00:65:1c:67:fc:03 (random)
+    AdvData: 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+        Type ff (Manufacturer Specific Data)
+           Company: Microsoft
+           Data: 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+
+    Data:  03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+    CRC:   03 3c ad
+
+systime=1707960360 freq=2402 addr=8e89bed6 delta_t=108.125 ms rssi=-87
+62 25 03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4 03 3c ad 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_NONCONN_IND
+    AdvA:  00:65:1c:67:fc:03 (random)
+    AdvData: 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+        Type ff (Manufacturer Specific Data)
+           Company: Microsoft
+           Data: 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+
+    Data:  03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+    CRC:   03 3c ad
+
+systime=1707960361 freq=2402 addr=8e89bed6 delta_t=105.624 ms rssi=-86
+62 25 03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4 03 3c ad 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_NONCONN_IND
+    AdvA:  00:65:1c:67:fc:03 (random)
+    AdvData: 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+        Type ff (Manufacturer Specific Data)
+           Company: Microsoft
+           Data: 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+
+    Data:  03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+    CRC:   03 3c ad
+
+systime=1707960361 freq=2402 addr=8e89bed6 delta_t=210.002 ms rssi=-86
+62 25 03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4 03 3c ad 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_NONCONN_IND
+    AdvA:  00:65:1c:67:fc:03 (random)
+    AdvData: 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+        Type ff (Manufacturer Specific Data)
+           Company: Microsoft
+           Data: 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+
+    Data:  03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+    CRC:   03 3c ad
+
+systime=1707960361 freq=2402 addr=8e89bed6 delta_t=108.124 ms rssi=-86
+62 25 03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4 03 3c ad 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_NONCONN_IND
+    AdvA:  00:65:1c:67:fc:03 (random)
+    AdvData: 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+        Type ff (Manufacturer Specific Data)
+           Company: Microsoft
+           Data: 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+
+    Data:  03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+    CRC:   03 3c ad
+
+systime=1707960361 freq=2402 addr=8e89bed6 delta_t=108.126 ms rssi=-86
+62 25 03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4 03 3c ad 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_NONCONN_IND
+    AdvA:  00:65:1c:67:fc:03 (random)
+    AdvData: 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+        Type ff (Manufacturer Specific Data)
+           Company: Microsoft
+           Data: 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+
+    Data:  03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+    CRC:   03 3c ad
+
+systime=1707960361 freq=2402 addr=8e89bed6 delta_t=105.000 ms rssi=-86
+62 25 03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4 03 3c ad 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_NONCONN_IND
+    AdvA:  00:65:1c:67:fc:03 (random)
+    AdvData: 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+        Type ff (Manufacturer Specific Data)
+           Company: Microsoft
+           Data: 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+
+    Data:  03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+    CRC:   03 3c ad
+
+systime=1707960361 freq=2402 addr=8e89bed6 delta_t=100.626 ms rssi=-86
+62 25 03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4 03 3c ad 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_NONCONN_IND
+    AdvA:  00:65:1c:67:fc:03 (random)
+    AdvData: 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+        Type ff (Manufacturer Specific Data)
+           Company: Microsoft
+           Data: 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+
+    Data:  03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+    CRC:   03 3c ad
+
+systime=1707960361 freq=2402 addr=8e89bed6 delta_t=103.749 ms rssi=-86
+62 25 03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4 03 3c ad 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_NONCONN_IND
+    AdvA:  00:65:1c:67:fc:03 (random)
+    AdvData: 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+        Type ff (Manufacturer Specific Data)
+           Company: Microsoft
+           Data: 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+
+    Data:  03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+    CRC:   03 3c ad
+
+systime=1707960361 freq=2402 addr=8e89bed6 delta_t=105.624 ms rssi=-87
+62 25 03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4 03 3c ad 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_NONCONN_IND
+    AdvA:  00:65:1c:67:fc:03 (random)
+    AdvData: 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+        Type ff (Manufacturer Specific Data)
+           Company: Microsoft
+           Data: 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+
+    Data:  03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+    CRC:   03 3c ad
+
+systime=1707960361 freq=2402 addr=8e89bed6 delta_t=108.125 ms rssi=-86
+62 25 03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4 03 3c ad 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_NONCONN_IND
+    AdvA:  00:65:1c:67:fc:03 (random)
+    AdvData: 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+        Type ff (Manufacturer Specific Data)
+           Company: Microsoft
+           Data: 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+
+    Data:  03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+    CRC:   03 3c ad
+
+systime=1707960362 freq=2402 addr=8e89bed6 delta_t=100.001 ms rssi=-86
+62 25 03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4 03 3c ad 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_NONCONN_IND
+    AdvA:  00:65:1c:67:fc:03 (random)
+    AdvData: 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+        Type ff (Manufacturer Specific Data)
+           Company: Microsoft
+           Data: 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+
+    Data:  03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+    CRC:   03 3c ad
+
+systime=1707960362 freq=2402 addr=8e89bed6 delta_t=102.499 ms rssi=-86
+62 25 03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4 03 3c ad 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_NONCONN_IND
+    AdvA:  00:65:1c:67:fc:03 (random)
+    AdvData: 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+        Type ff (Manufacturer Specific Data)
+           Company: Microsoft
+           Data: 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+
+    Data:  03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+    CRC:   03 3c ad
+
+systime=1707960362 freq=2402 addr=8e89bed6 delta_t=109.376 ms rssi=-86
+62 25 03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4 03 3c ad 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_NONCONN_IND
+    AdvA:  00:65:1c:67:fc:03 (random)
+    AdvData: 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+        Type ff (Manufacturer Specific Data)
+           Company: Microsoft
+           Data: 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+
+    Data:  03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+    CRC:   03 3c ad
+
+systime=1707960362 freq=2402 addr=8e89bed6 delta_t=106.875 ms rssi=-85
+62 25 03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4 03 3c ad 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_NONCONN_IND
+    AdvA:  00:65:1c:67:fc:03 (random)
+    AdvData: 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+        Type ff (Manufacturer Specific Data)
+           Company: Microsoft
+           Data: 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+
+    Data:  03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+    CRC:   03 3c ad
+
+systime=1707960362 freq=2402 addr=8e89bed6 delta_t=107.500 ms rssi=-85
+62 25 03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4 03 3c ad 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_NONCONN_IND
+    AdvA:  00:65:1c:67:fc:03 (random)
+    AdvData: 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+        Type ff (Manufacturer Specific Data)
+           Company: Microsoft
+           Data: 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+
+    Data:  03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+    CRC:   03 3c ad
+
+systime=1707960362 freq=2402 addr=8e89bed6 delta_t=108.126 ms rssi=-84
+62 25 03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4 03 3c ad 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_NONCONN_IND
+    AdvA:  00:65:1c:67:fc:03 (random)
+    AdvData: 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+        Type ff (Manufacturer Specific Data)
+           Company: Microsoft
+           Data: 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+
+    Data:  03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+    CRC:   03 3c ad
+
+systime=1707960362 freq=2402 addr=8e89bed6 delta_t=100.624 ms rssi=-85
+62 25 03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4 03 3c ad 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_NONCONN_IND
+    AdvA:  00:65:1c:67:fc:03 (random)
+    AdvData: 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+        Type ff (Manufacturer Specific Data)
+           Company: Microsoft
+           Data: 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+
+    Data:  03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+    CRC:   03 3c ad
+
+systime=1707960362 freq=2402 addr=8e89bed6 delta_t=103.126 ms rssi=-86
+62 25 03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4 03 3c ad 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_NONCONN_IND
+    AdvA:  00:65:1c:67:fc:03 (random)
+    AdvData: 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+        Type ff (Manufacturer Specific Data)
+           Company: Microsoft
+           Data: 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+
+    Data:  03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+    CRC:   03 3c ad
+
+systime=1707960362 freq=2402 addr=8e89bed6 delta_t=106.250 ms rssi=-89
+62 25 03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4 03 3c ad 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_NONCONN_IND
+    AdvA:  00:65:1c:67:fc:03 (random)
+    AdvData: 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+        Type ff (Manufacturer Specific Data)
+           Company: Microsoft
+           Data: 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+
+    Data:  03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+    CRC:   03 3c ad
+
+systime=1707960363 freq=2402 addr=8e89bed6 delta_t=108.749 ms rssi=-85
+62 25 03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4 03 3c ad 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_NONCONN_IND
+    AdvA:  00:65:1c:67:fc:03 (random)
+    AdvData: 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+        Type ff (Manufacturer Specific Data)
+           Company: Microsoft
+           Data: 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+
+    Data:  03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+    CRC:   03 3c ad
+
+systime=1707960363 freq=2402 addr=8e89bed6 delta_t=103.125 ms rssi=-90
+62 25 03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4 03 3c ad 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_NONCONN_IND
+    AdvA:  00:65:1c:67:fc:03 (random)
+    AdvData: 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+        Type ff (Manufacturer Specific Data)
+           Company: Microsoft
+           Data: 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+
+    Data:  03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+    CRC:   03 3c ad
+
+systime=1707960363 freq=2402 addr=8e89bed6 delta_t=108.749 ms rssi=-86
+62 25 03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4 03 3c ad 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_NONCONN_IND
+    AdvA:  00:65:1c:67:fc:03 (random)
+    AdvData: 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+        Type ff (Manufacturer Specific Data)
+           Company: Microsoft
+           Data: 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+
+    Data:  03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+    CRC:   03 3c ad
+
+systime=1707960363 freq=2402 addr=8e89bed6 delta_t=103.750 ms rssi=-87
+62 25 03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4 03 3c ad 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_NONCONN_IND
+    AdvA:  00:65:1c:67:fc:03 (random)
+    AdvData: 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+        Type ff (Manufacturer Specific Data)
+           Company: Microsoft
+           Data: 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+
+    Data:  03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+    CRC:   03 3c ad
+
+systime=1707960363 freq=2402 addr=8e89bed6 delta_t=108.127 ms rssi=-87
+62 25 03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4 03 3c ad 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_NONCONN_IND
+    AdvA:  00:65:1c:67:fc:03 (random)
+    AdvData: 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+        Type ff (Manufacturer Specific Data)
+           Company: Microsoft
+           Data: 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+
+    Data:  03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+    CRC:   03 3c ad
+
+systime=1707960363 freq=2402 addr=8e89bed6 delta_t=106.250 ms rssi=-89
+62 25 03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4 03 3c ad 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_NONCONN_IND
+    AdvA:  00:65:1c:67:fc:03 (random)
+    AdvData: 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+        Type ff (Manufacturer Specific Data)
+           Company: Microsoft
+           Data: 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+
+    Data:  03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+    CRC:   03 3c ad
+
+systime=1707960363 freq=2402 addr=8e89bed6 delta_t=105.625 ms rssi=-86
+62 25 03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4 03 3c ad 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_NONCONN_IND
+    AdvA:  00:65:1c:67:fc:03 (random)
+    AdvData: 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+        Type ff (Manufacturer Specific Data)
+           Company: Microsoft
+           Data: 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+
+    Data:  03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+    CRC:   03 3c ad
+
+systime=1707960363 freq=2402 addr=8e89bed6 delta_t=108.749 ms rssi=-87
+62 25 03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4 03 3c ad 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_NONCONN_IND
+    AdvA:  00:65:1c:67:fc:03 (random)
+    AdvData: 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+        Type ff (Manufacturer Specific Data)
+           Company: Microsoft
+           Data: 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+
+    Data:  03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+    CRC:   03 3c ad
+
+systime=1707960363 freq=2402 addr=8e89bed6 delta_t=103.750 ms rssi=-83
+62 25 03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4 03 3c ad 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_NONCONN_IND
+    AdvA:  00:65:1c:67:fc:03 (random)
+    AdvData: 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+        Type ff (Manufacturer Specific Data)
+           Company: Microsoft
+           Data: 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+
+    Data:  03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+    CRC:   03 3c ad
+
+systime=1707960363 freq=2402 addr=8e89bed6 delta_t=102.500 ms rssi=-86
+62 25 03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4 03 3c ad 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_NONCONN_IND
+    AdvA:  00:65:1c:67:fc:03 (random)
+    AdvData: 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+        Type ff (Manufacturer Specific Data)
+           Company: Microsoft
+           Data: 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+
+    Data:  03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+    CRC:   03 3c ad
+
+systime=1707960364 freq=2402 addr=8e89bed6 delta_t=103.750 ms rssi=-87
+62 25 03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4 03 3c ad 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_NONCONN_IND
+    AdvA:  00:65:1c:67:fc:03 (random)
+    AdvData: 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+        Type ff (Manufacturer Specific Data)
+           Company: Microsoft
+           Data: 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+
+    Data:  03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+    CRC:   03 3c ad
+
+systime=1707960364 freq=2402 addr=8e89bed6 delta_t=103.126 ms rssi=-88
+62 25 03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4 03 3c ad 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_NONCONN_IND
+    AdvA:  00:65:1c:67:fc:03 (random)
+    AdvData: 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+        Type ff (Manufacturer Specific Data)
+           Company: Microsoft
+           Data: 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+
+    Data:  03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+    CRC:   03 3c ad
+
+systime=1707960364 freq=2402 addr=8e89bed6 delta_t=103.750 ms rssi=-88
+62 25 03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4 03 3c ad 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_NONCONN_IND
+    AdvA:  00:65:1c:67:fc:03 (random)
+    AdvData: 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+        Type ff (Manufacturer Specific Data)
+           Company: Microsoft
+           Data: 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+
+    Data:  03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+    CRC:   03 3c ad
+
+systime=1707960364 freq=2402 addr=8e89bed6 delta_t=106.875 ms rssi=-86
+62 25 03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4 03 3c ad 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_NONCONN_IND
+    AdvA:  00:65:1c:67:fc:03 (random)
+    AdvData: 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+        Type ff (Manufacturer Specific Data)
+           Company: Microsoft
+           Data: 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+
+    Data:  03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+    CRC:   03 3c ad
+
+systime=1707960364 freq=2402 addr=8e89bed6 delta_t=103.750 ms rssi=-87
+62 25 03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4 03 3c ad 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_NONCONN_IND
+    AdvA:  00:65:1c:67:fc:03 (random)
+    AdvData: 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+        Type ff (Manufacturer Specific Data)
+           Company: Microsoft
+           Data: 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+
+    Data:  03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+    CRC:   03 3c ad
+
+systime=1707960364 freq=2402 addr=8e89bed6 delta_t=107.501 ms rssi=-86
+62 25 03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4 03 3c ad 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_NONCONN_IND
+    AdvA:  00:65:1c:67:fc:03 (random)
+    AdvData: 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+        Type ff (Manufacturer Specific Data)
+           Company: Microsoft
+           Data: 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+
+    Data:  03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+    CRC:   03 3c ad
+
+systime=1707960364 freq=2402 addr=8e89bed6 delta_t=107.500 ms rssi=-87
+62 25 03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4 03 3c ad 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_NONCONN_IND
+    AdvA:  00:65:1c:67:fc:03 (random)
+    AdvData: 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+        Type ff (Manufacturer Specific Data)
+           Company: Microsoft
+           Data: 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+
+    Data:  03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+    CRC:   03 3c ad
+
+systime=1707960364 freq=2402 addr=8e89bed6 delta_t=104.375 ms rssi=-87
+62 25 03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4 03 3c ad 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_NONCONN_IND
+    AdvA:  00:65:1c:67:fc:03 (random)
+    AdvData: 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+        Type ff (Manufacturer Specific Data)
+           Company: Microsoft
+           Data: 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+
+    Data:  03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+    CRC:   03 3c ad
+
+systime=1707960364 freq=2402 addr=8e89bed6 delta_t=106.874 ms rssi=-85
+62 25 03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4 03 3c ad 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_NONCONN_IND
+    AdvA:  00:65:1c:67:fc:03 (random)
+    AdvData: 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+        Type ff (Manufacturer Specific Data)
+           Company: Microsoft
+           Data: 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+
+    Data:  03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+    CRC:   03 3c ad
+
+systime=1707960365 freq=2402 addr=8e89bed6 delta_t=107.501 ms rssi=-86
+62 25 03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4 03 3c ad 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_NONCONN_IND
+    AdvA:  00:65:1c:67:fc:03 (random)
+    AdvData: 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+        Type ff (Manufacturer Specific Data)
+           Company: Microsoft
+           Data: 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+
+    Data:  03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+    CRC:   03 3c ad
+
+systime=1707960365 freq=2402 addr=8e89bed6 delta_t=101.251 ms rssi=-87
+62 25 03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4 03 3c ad 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_NONCONN_IND
+    AdvA:  00:65:1c:67:fc:03 (random)
+    AdvData: 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+        Type ff (Manufacturer Specific Data)
+           Company: Microsoft
+           Data: 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+
+    Data:  03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+    CRC:   03 3c ad
+
+systime=1707960365 freq=2402 addr=8e89bed6 delta_t=206.877 ms rssi=-87
+62 25 03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4 03 3c ad 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_NONCONN_IND
+    AdvA:  00:65:1c:67:fc:03 (random)
+    AdvData: 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+        Type ff (Manufacturer Specific Data)
+           Company: Microsoft
+           Data: 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+
+    Data:  03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+    CRC:   03 3c ad
+
+systime=1707960365 freq=2402 addr=8e89bed6 delta_t=107.501 ms rssi=-87
+62 25 03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4 03 3c ad 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_NONCONN_IND
+    AdvA:  00:65:1c:67:fc:03 (random)
+    AdvData: 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+        Type ff (Manufacturer Specific Data)
+           Company: Microsoft
+           Data: 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+
+    Data:  03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+    CRC:   03 3c ad
+
+systime=1707960365 freq=2402 addr=8e89bed6 delta_t=106.250 ms rssi=-86
+62 25 03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4 03 3c ad 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_NONCONN_IND
+    AdvA:  00:65:1c:67:fc:03 (random)
+    AdvData: 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+        Type ff (Manufacturer Specific Data)
+           Company: Microsoft
+           Data: 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+
+    Data:  03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+    CRC:   03 3c ad
+
+systime=1707960365 freq=2402 addr=8e89bed6 delta_t=105.623 ms rssi=-86
+62 25 03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4 03 3c ad 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_NONCONN_IND
+    AdvA:  00:65:1c:67:fc:03 (random)
+    AdvData: 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+        Type ff (Manufacturer Specific Data)
+           Company: Microsoft
+           Data: 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+
+    Data:  03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+    CRC:   03 3c ad
+
+systime=1707960365 freq=2402 addr=8e89bed6 delta_t=109.375 ms rssi=-87
+62 25 03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4 03 3c ad 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_NONCONN_IND
+    AdvA:  00:65:1c:67:fc:03 (random)
+    AdvData: 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+        Type ff (Manufacturer Specific Data)
+           Company: Microsoft
+           Data: 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+
+    Data:  03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+    CRC:   03 3c ad
+
+systime=1707960365 freq=2402 addr=8e89bed6 delta_t=101.875 ms rssi=-87
+62 25 03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4 03 3c ad 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_NONCONN_IND
+    AdvA:  00:65:1c:67:fc:03 (random)
+    AdvData: 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+        Type ff (Manufacturer Specific Data)
+           Company: Microsoft
+           Data: 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+
+    Data:  03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+    CRC:   03 3c ad
+
+systime=1707960365 freq=2402 addr=8e89bed6 delta_t=108.126 ms rssi=-87
+62 25 03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4 03 3c ad 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_NONCONN_IND
+    AdvA:  00:65:1c:67:fc:03 (random)
+    AdvData: 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+        Type ff (Manufacturer Specific Data)
+           Company: Microsoft
+           Data: 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+
+    Data:  03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+    CRC:   03 3c ad
+
+systime=1707960366 freq=2402 addr=8e89bed6 delta_t=105.001 ms rssi=-87
+62 25 03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4 03 3c ad 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_NONCONN_IND
+    AdvA:  00:65:1c:67:fc:03 (random)
+    AdvData: 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+        Type ff (Manufacturer Specific Data)
+           Company: Microsoft
+           Data: 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+
+    Data:  03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+    CRC:   03 3c ad
+
+systime=1707960366 freq=2402 addr=8e89bed6 delta_t=208.126 ms rssi=-88
+62 25 03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4 03 3c ad 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_NONCONN_IND
+    AdvA:  00:65:1c:67:fc:03 (random)
+    AdvData: 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+        Type ff (Manufacturer Specific Data)
+           Company: Microsoft
+           Data: 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+
+    Data:  03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+    CRC:   03 3c ad
+
+systime=1707960366 freq=2402 addr=8e89bed6 delta_t=105.626 ms rssi=-86
+62 25 03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4 03 3c ad 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_NONCONN_IND
+    AdvA:  00:65:1c:67:fc:03 (random)
+    AdvData: 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+        Type ff (Manufacturer Specific Data)
+           Company: Microsoft
+           Data: 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+
+    Data:  03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+    CRC:   03 3c ad
+
+systime=1707960366 freq=2402 addr=8e89bed6 delta_t=104.376 ms rssi=-86
+62 25 03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4 03 3c ad 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_NONCONN_IND
+    AdvA:  00:65:1c:67:fc:03 (random)
+    AdvData: 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+        Type ff (Manufacturer Specific Data)
+           Company: Microsoft
+           Data: 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+
+    Data:  03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+    CRC:   03 3c ad
+
+systime=1707960366 freq=2402 addr=8e89bed6 delta_t=104.376 ms rssi=-86
+62 25 03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4 03 3c ad 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_NONCONN_IND
+    AdvA:  00:65:1c:67:fc:03 (random)
+    AdvData: 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+        Type ff (Manufacturer Specific Data)
+           Company: Microsoft
+           Data: 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+
+    Data:  03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+    CRC:   03 3c ad
+
+systime=1707960366 freq=2402 addr=8e89bed6 delta_t=100.624 ms rssi=-86
+62 25 03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4 03 3c ad 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_NONCONN_IND
+    AdvA:  00:65:1c:67:fc:03 (random)
+    AdvData: 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+        Type ff (Manufacturer Specific Data)
+           Company: Microsoft
+           Data: 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+
+    Data:  03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+    CRC:   03 3c ad
+
+systime=1707960366 freq=2402 addr=8e89bed6 delta_t=101.249 ms rssi=-86
+62 25 03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4 03 3c ad 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_NONCONN_IND
+    AdvA:  00:65:1c:67:fc:03 (random)
+    AdvData: 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+        Type ff (Manufacturer Specific Data)
+           Company: Microsoft
+           Data: 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+
+    Data:  03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+    CRC:   03 3c ad
+
+systime=1707960366 freq=2402 addr=8e89bed6 delta_t=106.251 ms rssi=-86
+62 25 03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4 03 3c ad 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_NONCONN_IND
+    AdvA:  00:65:1c:67:fc:03 (random)
+    AdvData: 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+        Type ff (Manufacturer Specific Data)
+           Company: Microsoft
+           Data: 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+
+    Data:  03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+    CRC:   03 3c ad
+
+systime=1707960367 freq=2402 addr=8e89bed6 delta_t=101.251 ms rssi=-86
+62 25 03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4 03 3c ad 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_NONCONN_IND
+    AdvA:  00:65:1c:67:fc:03 (random)
+    AdvData: 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+        Type ff (Manufacturer Specific Data)
+           Company: Microsoft
+           Data: 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+
+    Data:  03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+    CRC:   03 3c ad
+
+systime=1707960367 freq=2402 addr=8e89bed6 delta_t=104.375 ms rssi=-86
+62 25 03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4 03 3c ad 
+Advertising / AA 8e89bed6 (valid)/ 37 bytes
+    Channel Index: 37
+    Type:  ADV_NONCONN_IND
+    AdvA:  00:65:1c:67:fc:03 (random)
+    AdvData: 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+        Type ff (Manufacturer Specific Data)
+           Company: Microsoft
+           Data: 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+
+    Data:  03 fc 67 1c 65 00 1e ff 06 00 01 09 20 22 4f 8e 1c 9d b8 0b cb 9f 9d 47 6f c4 db 6d 1a 24 09 52 26 74 4d cf d4
+    CRC:   03 3c ad
+
