@@ -1,14 +1,15 @@
 import pyshark
+from tqdm import tqdm
+
 from pyshark.packet.packet import Packet
 from pyshark.packet.fields import LayerFieldsContainer
 import matplotlib.pyplot as plt
 
 
-def analyze_packet(file_path: str):
+def analyze_packet_statically(file_path: str, amount_of_packets):
     capture = pyshark.FileCapture(file_path)
-    packet_advertising_address: dict[str, list[Packet]] = {
-
-            }
+    packet_advertising_address: dict[str, list[Packet]] = { }
+    progress_bar = tqdm(total=amount_of_packets, bar_format='{l_bar}{bar}| {n_fmt}/{total_fmt}')
     for packet in capture:
         packet: Packet
         for layer_obj in packet.layers:
@@ -25,6 +26,9 @@ def analyze_packet(file_path: str):
                     # There are some btle packet which do not have an advertising
                     #    ip
                     pass
+
+        progress_bar.update()
+    progress_bar.close()
     capture.close()
 
 
@@ -42,4 +46,7 @@ def analyze_packet(file_path: str):
 
 
 if __name__ == "__main__":
-    analyze_packet("./test_captures/10SecondtestFlipperSpoofing.pcapng")
+    analyze_packet_statically("./test_captures/10SecondtestFlipperSpoofing.pcapng", 7083)
+    ## Below will take a really really long time and might run out of memory may need
+    ## a better way to go through packets
+    # analyze_packet_statically("./test_captures/30minscanBLE.pcapng", 146243)
