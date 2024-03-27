@@ -35,7 +35,6 @@ def analyze_packets(packets: list[TruncatedPacket]):
     plt.title('Packet Analaysis')
     plt.show()
 
-
 def get_packets_from_pcapng(file_path: str, amount_of_packets: int) -> list[TruncatedPacket]:
     capture = pyshark.FileCapture(file_path)
     truncated_packets: list[TruncatedPacket] = []
