@@ -67,6 +67,7 @@ def get_packets_from_pcapng(file_path: str, amount_of_packets: int) -> list[Trun
 
 def get_packets_from_csv(file_path: str) -> list[TruncatedPacket]:
     df = pd.read_csv(file_path)
+    progress_bar = tqdm(total=len(df) , bar_format='{l_bar}{bar}| {n_fmt}/{total_fmt}')
     packets = []
     for _, row in df.iterrows():
         person = TruncatedPacket(
@@ -74,6 +75,8 @@ def get_packets_from_csv(file_path: str) -> list[TruncatedPacket]:
                 advertising_address=row['advertising_address'] # pyright: ignore 
                 )
         packets.append(person)
+        progress_bar.update()
+    progress_bar.close()
     return packets
 
 def write_to_csv(file_path: str, packets: list[TruncatedPacket]):
