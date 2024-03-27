@@ -17,7 +17,7 @@ galaxyBuds1 - medium capture of case open
 galaxyBuds1 - long capture of case open
 galaxyBuds3 - long capture of case closed - note, this was MUCH less frequent than the airpods1
 bose1 - medium capture of searching for device
-bose2 - long capture of searching for device
+bose2 - long capture of searching for device (A SINGLE MAC ADDRESS CHANGE)
 bose3 - do not transmit when power is off
 laptop1 - short burst with bluetooth on
 laptop2 - longer burst with bluetooth on
@@ -28,7 +28,7 @@ connectionBuds - capture with galaxyBuds connected to phone playing music
 difference1 - galaxyBuds and airpods cases open
 difference2 - galaxybuds and airpods cases closed
 
-randomization1 - hope to see the mac change on the airpods, don't beleive I will be able to capture it though
+randomization1 - hope to see the mac change on the airpods, don't believe I will be able to capture it though
 
 
 p.s. its 16 degrees and i can't type

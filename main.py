@@ -16,7 +16,7 @@ def main():
         print(f"'{file_name}' is not a packet tracer file and cannot be analyzed")
         return
     print(f"Analyzing: {file_name}")
-    analyze.analyze_packet_statically(file_name, amount_of_packets)
+    analyze.do_analyzing(file_name, amount_of_packets)
 
 
 if __name__ == "__main__":
