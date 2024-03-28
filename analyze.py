@@ -81,7 +81,7 @@ def get_packets_from_avro(file_path: str, numPackets: int) -> list[TruncatedPack
         packets.append(packet)
         progress_bar.update()
     progress_bar.close()
-    displayAvro(file_path)
+    # displayAvro(file_path)
     return packets
 
 def write_to_avro(file_path: str, packets: list[TruncatedPacket]):
@@ -89,7 +89,7 @@ def write_to_avro(file_path: str, packets: list[TruncatedPacket]):
     writer = DataFileWriter(open(file_path, "wb"), DatumWriter(), schema)
     for packet in packets:
         writer.append({"time_stamp": packet.time_stamp, "advertising_address": formatMac(packet.advertising_address)})
-        print(packet.time_stamp)
+        # print(packet.time_stamp)
     writer.close()
 
 def do_analyzing(file_path: str, amount_of_packets: int = 0):
