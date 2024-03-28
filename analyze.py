@@ -81,13 +81,15 @@ def get_packets_from_avro(file_path: str, numPackets: int) -> list[TruncatedPack
         packets.append(packet)
         progress_bar.update()
     progress_bar.close()
+    displayAvro(file_path)
     return packets
 
 def write_to_avro(file_path: str, packets: list[TruncatedPacket]):
     schema = avro.schema.parse(open("./avro/timeMacPair.avsc", "rb").read())
     writer = DataFileWriter(open(file_path, "wb"), DatumWriter(), schema)
     for packet in packets:
-        writer.append({"time_stamp": packet.time_stamp, "advertising_address": packet.advertising_address})
+        writer.append({"time_stamp": packet.time_stamp, "advertising_address": formatMac(packet.advertising_address)})
+        print(packet.time_stamp)
     writer.close()
 
 def do_analyzing(file_path: str, amount_of_packets: int = 0):
@@ -103,6 +105,18 @@ def do_analyzing(file_path: str, amount_of_packets: int = 0):
 
     analyze_packets(packets)
 
+def formatMac(address: str) -> int:
+    mac_address = address.replace(':', '')
+    return int(mac_address, 16)
+
+def displayAvro(file_path):
+    reader = DataFileReader(open(file_path, "rb"), DatumReader())
+    for timeMac in reader:
+        packet = TruncatedPacket(
+            time_stamp = timeMac.get("time_stamp"), 
+            advertising_address = timeMac.get("advertising_address") 
+        )
+        print(packet)
 
 if __name__ == "__main__":
     # just a random test

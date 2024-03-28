@@ -2,7 +2,7 @@
   "type": "record",
   "name": "timeMacPair",
   "fields": [
-    {"name": "time_stamp", "type": "float"},
-    {"name": "advertising_address", "type": "string"}
+    {"name": "time_stamp", "type": "double"},
+    {"name": "advertising_address", "type": "long"}
   ]
 }
