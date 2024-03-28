@@ -1,0 +1,8 @@
+{"namespace": "timeMacPair.avro",
+  "type": "record",
+  "name": "timeMacPair",
+  "fields": [
+    {"name": "time_stamp", "type": "float"},
+    {"name": "advertising_address", "type": "string"}
+  ]
+}
