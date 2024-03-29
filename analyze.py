@@ -8,6 +8,9 @@ from pyshark.packet.packet import Packet
 from pyshark.packet.fields import LayerFieldsContainer
 import matplotlib.pyplot as plt
 from typing import Any
+import avro.schema
+from avro.datafile import DataFileReader, DataFileWriter
+from avro.io import DatumReader, DatumWriter
 
 # packet to store the minimum amount of data
 #    needed for analaysis so that memory can be reclaimed
@@ -126,44 +129,59 @@ def get_packets_from_pcapng(file_path: str, amount_of_packets: int) -> list[Trun
     print(len(truncated_packets))
     return truncated_packets
 
-def get_packets_from_csv(file_path: str) -> list[TruncatedPacket]:
-    df = pd.read_csv(file_path)
-    progress_bar = tqdm(total=len(df) , bar_format='{l_bar}{bar}| {n_fmt}/{total_fmt}')
+def get_packets_from_avro(file_path: str, numPackets: int) -> list[TruncatedPacket]:
+    reader = DataFileReader(open(file_path, "rb"), DatumReader())
+    progress_bar = tqdm(total=numPackets, bar_format='{l_bar}{bar}| {n_fmt}/{total_fmt}')
     packets = []
-    for _, row in df.iterrows():
-        person = TruncatedPacket(
-                time_stamp=float(row['time_stamp']),
-                advertising_address=str(row['advertising_address']),
-                power_level=float(row['power_level'])
-                )
-        packets.append(person)
+
+    # time mac is a dict object
+    for timeMac in reader:
+        packet = TruncatedPacket(
+            time_stamp = timeMac.get("time_stamp"), 
+            advertising_address = timeMac.get("advertising_address") 
+        )
+        packets.append(packet)
         progress_bar.update()
     progress_bar.close()
+    # displayAvro(file_path)
     return packets
 
-def write_to_csv(file_path: str, packets: list[TruncatedPacket]):
-    data = {
-            "time_stamp": [packet.time_stamp for packet in packets],
-            "advertising_address": [packet.advertising_address for packet in packets],
-            "power_level": [packet.power_level for packet in packets],
-            }
-    df = pd.DataFrame(data)
-    df.to_csv(file_path, index=False)
+
+def write_to_avro(file_path: str, packets: list[TruncatedPacket]):
+    schema = avro.schema.parse(open("./avro/timeMacPair.avsc", "rb").read())
+    writer = DataFileWriter(open(file_path, "wb"), DatumWriter(), schema)
+    for packet in packets:
+        writer.append({"time_stamp": packet.time_stamp, "advertising_address": formatMac(packet.advertising_address)})
+        # print(packet.time_stamp)
+    writer.close()
 
 def do_analyzing(file_path: str, amount_of_packets: int = 0, is_fresh = False):
     base_file_name, _ = os.path.splitext(os.path.basename(file_path))
     
-    possibly_cached_csv = os.path.join(os.getcwd(), "cached_captures", base_file_name + ".csv")
-    if os.path.exists(possibly_cached_csv) and (not is_fresh):
-        print("Using the cached csv")
-        packets = get_packets_from_csv(possibly_cached_csv)
+
+    possibly_cached_avro = os.path.join(os.getcwd(), "cached_captures", base_file_name + ".avro")
+    if os.path.exists(possibly_cached_avro):
+        print("Using the cached avro")
+        packets = get_packets_from_avro(possibly_cached_avro, amount_of_packets)
     else:
         packets = get_packets_from_pcapng(file_path, amount_of_packets)
-        write_to_csv(possibly_cached_csv, packets)
+        write_to_avro(possibly_cached_avro, packets)
 
     analyze_packets_cmd_out(packets)
     analyze_packets_basic2d(packets)
 
+def formatMac(address: str) -> int:
+    mac_address = address.replace(':', '')
+    return int(mac_address, 16)
+
+def displayAvro(file_path):
+    reader = DataFileReader(open(file_path, "rb"), DatumReader())
+    for timeMac in reader:
+        packet = TruncatedPacket(
+            time_stamp = timeMac.get("time_stamp"), 
+            advertising_address = timeMac.get("advertising_address") 
+        )
+        print(packet)
 
 if __name__ == "__main__":
     # just a random test
