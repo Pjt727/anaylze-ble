@@ -1,13 +1,9 @@
 import pyshark
-from statistics import mean
-import pandas as pd
 import os
 from tqdm import tqdm
 from dataclasses import dataclass
 from pyshark.packet.packet import Packet
-from pyshark.packet.fields import LayerFieldsContainer
 import matplotlib.pyplot as plt
-from typing import Any
 import avro.schema
 from avro.datafile import DataFileReader, DataFileWriter
 from avro.io import DatumReader, DatumWriter
@@ -43,10 +39,15 @@ class PacketAggregateInfo:
     max: float
 
     def __str__(self) -> str:
-        return f"{self.advertising_address}, {self.min}, {self.max}, {self.average_difference}"
+        return f"addr={self.advertising_address}, min={self.min}, max={self.max}, avg_dif{self.average_difference}"
 
 # ananlyze 
 def analyze_packets_cmd_out(packets: list[TruncatedPacket]):
+    # ARBITRARY SCALING TODO MAYBE CHANGE AROUND
+    # the idea is that if the average difference between the packets is not close
+    #     to the difference between the previous packets of that address then its not
+    #     the same device
+    CONFIDANCE_FACTOR = 1.25
     advertising_address_to_packets = top_n_packets_by_address(packets, 10)
     advertising_address_to_packet_info: dict[str, PacketAggregateInfo] = {}
     for advertising_address, packets in advertising_address_to_packets.items():
@@ -55,29 +56,27 @@ def analyze_packets_cmd_out(packets: list[TruncatedPacket]):
         differences = [packets[i+1].time_stamp - packets[i].time_stamp for i in range(len(packets) - 1)]
         advertising_address_to_packet_info[advertising_address] = PacketAggregateInfo(
                 advertising_address=advertising_address,
-                average_difference=mean(differences),
+                average_difference=sum(differences)/ len(differences),
                 min=min(packets, key=lambda p: p.time_stamp).time_stamp,
                 max=max(packets, key=lambda p: p.time_stamp).time_stamp,
                 )
+
     for packet_aggregate in advertising_address_to_packet_info.values():
         packet_aggregates = list(advertising_address_to_packet_info.values())
         packets_after = list(filter(lambda p: p.min > packet_aggregate.max, packet_aggregates))
         if len(packets_after) == 0: continue
-        min_packet_aggregate = min(packets_after, key=lambda p: p.min)
+        packets_after.sort(key=lambda p: p.min)
 
-        # ARBITRARY SCALING TODO MAYBE CHANGE AROUND
-        # the idea is that if the average difference between the packets is not close
-        #     to the difference between the previous packets of that address then its not
-        #     the same device
-        if min_packet_aggregate.min - packet_aggregate.max >  \
-                packet_aggregate.average_difference * 2:
-                    continue
-
-        print(f"Address {packet_aggregate} might map to ->")
-        print(f"       {min_packet_aggregate}")
-
-
-
+        print(f"Packet addr={packet_aggregate.advertising_address} might map to ->")
+        # the average time between all packets should also be similar 
+        for after_aggrrgate2 in packets_after:
+            max_avg_time =  packet_aggregate.average_difference * CONFIDANCE_FACTOR 
+            min_avg_time = packet_aggregate.average_difference * (1/CONFIDANCE_FACTOR) 
+            print(f"       addr={after_aggrrgate2.advertising_address}")
+            if after_aggrrgate2.average_difference > max_avg_time\
+                    or after_aggrrgate2.average_difference < min_avg_time:
+                        print("^^^^^^^NOT CONFIDANT^^^^^^^")
+                        continue
 
 
 
@@ -91,7 +90,7 @@ def analyze_packets_basic2d(packets: list[TruncatedPacket]):
         y_values = [i + 1] * len(packets)
         plt.plot(x_values, y_values, marker='o', linestyle='None', label=f'Packet set {advertising_address}')
     plt.xlabel('Time since first packet')
-    plt.ylabel('Packet number')
+    plt.ylabel('Indexed Packet Address')
     plt.legend()
     plt.title('Packet Analaysis')
     plt.show()
@@ -109,13 +108,18 @@ def get_packets_from_pcapng(file_path: str, amount_of_packets: int) -> list[Trun
                 time_stamp = float(packet.sniff_timestamp) #pyright: ignore
                 # if time_stamp > 100: continue
                 field_names = layer_obj.field_names
-                print(field_names)
-                if "advertising_address" in field_names  \
-                        and "btcommon_eir_ad_entry_power_level" in field_names:
+                # TODO look deper into company_id
+                #if "btcommon_eir_ad_entry_company_id" in field_names:
+                #    print(layer_obj.btcommon_eir_ad_entry_company_id)
+                if "advertising_address" in field_names :
+                    power_level = 0
+                    if "btcommon_eir_ad_entry_power_level" in field_names:
+                        power_level = layer_obj.btcommon_eir_ad_entry_power_level
+
                     truncated_packet = TruncatedPacket(
                             time_stamp=time_stamp,
                             advertising_address=layer_obj.advertising_address,
-                            power_level=layer_obj.btcommon_eir_ad_entry_power_level
+                            power_level=power_level
                             )
                     truncated_packets.append(truncated_packet)
                 else:
@@ -135,10 +139,11 @@ def get_packets_from_avro(file_path: str, numPackets: int) -> list[TruncatedPack
     packets = []
 
     # time mac is a dict object
-    for timeMac in reader:
+    for time_mac in reader:
         packet = TruncatedPacket(
-            time_stamp = timeMac.get("time_stamp"), 
-            advertising_address = timeMac.get("advertising_address") 
+                time_stamp = time_mac.get("time_stamp"), # pyright: ignore
+                advertising_address = time_mac.get("advertising_address"), # pyright: ignore
+                power_level = time_mac.get("power_level"), #pyright: ignore
         )
         packets.append(packet)
         progress_bar.update()
@@ -148,10 +153,14 @@ def get_packets_from_avro(file_path: str, numPackets: int) -> list[TruncatedPack
 
 
 def write_to_avro(file_path: str, packets: list[TruncatedPacket]):
-    schema = avro.schema.parse(open("./avro/timeMacPair.avsc", "rb").read())
+    schema = avro.schema.parse(open("./avro/timeMacPair.avsc", "rb").read()) # pyright: ignore
     writer = DataFileWriter(open(file_path, "wb"), DatumWriter(), schema)
     for packet in packets:
-        writer.append({"time_stamp": packet.time_stamp, "advertising_address": formatMac(packet.advertising_address)})
+        writer.append({
+            "time_stamp": packet.time_stamp,
+            "advertising_address": format_mac(packet.advertising_address),
+            "power_level": packet.power_level,
+            })
         # print(packet.time_stamp)
     writer.close()
 
@@ -160,7 +169,7 @@ def do_analyzing(file_path: str, amount_of_packets: int = 0, is_fresh = False):
     
 
     possibly_cached_avro = os.path.join(os.getcwd(), "cached_captures", base_file_name + ".avro")
-    if os.path.exists(possibly_cached_avro):
+    if os.path.exists(possibly_cached_avro) and not is_fresh:
         print("Using the cached avro")
         packets = get_packets_from_avro(possibly_cached_avro, amount_of_packets)
     else:
@@ -170,16 +179,17 @@ def do_analyzing(file_path: str, amount_of_packets: int = 0, is_fresh = False):
     analyze_packets_cmd_out(packets)
     analyze_packets_basic2d(packets)
 
-def formatMac(address: str) -> int:
+def format_mac(address: str) -> int:
     mac_address = address.replace(':', '')
     return int(mac_address, 16)
 
 def displayAvro(file_path):
     reader = DataFileReader(open(file_path, "rb"), DatumReader())
-    for timeMac in reader:
+    for time_mac in reader:
         packet = TruncatedPacket(
-            time_stamp = timeMac.get("time_stamp"), 
-            advertising_address = timeMac.get("advertising_address") 
+                time_stamp = time_mac.get("time_stamp"), # pyright: ignore
+                advertising_address = time_mac.get("advertising_address"), # pyright: ignore
+                power_level = time_mac.get("power_level"), #pyright: ignore
         )
         print(packet)
 
