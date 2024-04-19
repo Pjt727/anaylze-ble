@@ -7,6 +7,7 @@ import matplotlib.pyplot as plt
 import avro.schema
 from avro.datafile import DataFileReader, DataFileWriter
 from avro.io import DatumReader, DatumWriter
+from treelib import Node, Tree
 
 # packet to store the minimum amount of data
 #    needed for analaysis so that memory can be reclaimed
@@ -15,6 +16,7 @@ class TruncatedPacket:
     time_stamp: float
     advertising_address: str
     power_level: float
+    company_id: int
 
 def top_n_packets_by_address(packets: list[TruncatedPacket], n: int=100) -> dict[str, list[TruncatedPacket]]:
     advertising_address_to_packets: dict[str, list[TruncatedPacket]] = {}
@@ -35,11 +37,47 @@ def top_n_packets_by_address(packets: list[TruncatedPacket], n: int=100) -> dict
 class PacketAggregateInfo:
     advertising_address: str
     average_difference: float
-    min: float
-    max: float
+    first_packet: TruncatedPacket
+    last_packet: TruncatedPacket
+    next_group_candidates: list[tuple[float, 'PacketAggregateInfo']]
+
+    def __hash__(self):
+        return hash(self.advertising_address)
+
+    # ensures that the treelib library has a comparible types for finding parents
+    def __eq__(self, other: 'object'):
+        return self.advertising_address == other.advertising_address # pyright: ignore
 
     def __str__(self) -> str:
-        return f"addr={self.advertising_address}, min={self.min}, max={self.max}, avg_dif{self.average_difference}"
+        return str(self.advertising_address) 
+
+    def __repr__(self) -> str:
+        return f'''
+                addr={self.advertising_address}, \
+                min={self.first_packet.time_stamp},\
+                max={self.first_packet.time_stamp},\
+                avg_dif{self.average_difference}"\
+                '''
+    def show_tree(self):
+        tree = Tree()
+        tree.create_node(
+                #tag=f"Mapping for {self}, company_id={self.first_packet.company_id} power_level={self.first_packet.power_level}",
+                tag=f"Mapping for {self}",
+                identifier=str(self.advertising_address))
+        self.branch(tree)
+        print(tree.show(stdout=False))
+
+    def branch(self, tree: Tree, path: str = ""):
+        for i, (probability, packet_aggregate) in enumerate(self.next_group_candidates):
+            new_path = path + str(i)
+            tree.create_node(
+                    #tag=f"{packet_aggregate} company_id={packet_aggregate.first_packet.company_id} power_level={packet_aggregate.first_packet.power_level} {int(probability*100)}%",
+                    tag=f"{packet_aggregate} {int(probability*100)}%",
+                    identifier=f"{packet_aggregate.advertising_address}{new_path}",
+                    parent=f"{self.advertising_address}{path}")
+            packet_aggregate.branch(tree, new_path)
+
+
 
 # ananlyze 
 def analyze_packets_cmd_out(packets: list[TruncatedPacket]):
@@ -47,8 +85,7 @@ def analyze_packets_cmd_out(packets: list[TruncatedPacket]):
     # the idea is that if the average difference between the packets is not close
     #     to the difference between the previous packets of that address then its not
     #     the same device
-    CONFIDANCE_FACTOR = 1.25
-    advertising_address_to_packets = top_n_packets_by_address(packets, 10)
+    advertising_address_to_packets = top_n_packets_by_address(packets, 300)
     advertising_address_to_packet_info: dict[str, PacketAggregateInfo] = {}
     for advertising_address, packets in advertising_address_to_packets.items():
         if 2 > len(packets): continue
@@ -57,41 +94,81 @@ def analyze_packets_cmd_out(packets: list[TruncatedPacket]):
         advertising_address_to_packet_info[advertising_address] = PacketAggregateInfo(
                 advertising_address=advertising_address,
                 average_difference=sum(differences)/ len(differences),
-                min=min(packets, key=lambda p: p.time_stamp).time_stamp,
-                max=max(packets, key=lambda p: p.time_stamp).time_stamp,
+                first_packet=min(packets, key=lambda p: p.time_stamp),
+                last_packet=max(packets, key=lambda p: p.time_stamp),
+                next_group_candidates=[]
                 )
 
+    packet_aggregates = list(advertising_address_to_packet_info.values())
     for packet_aggregate in advertising_address_to_packet_info.values():
-        packet_aggregates = list(advertising_address_to_packet_info.values())
-        packets_after = list(filter(lambda p: p.min > packet_aggregate.max, packet_aggregates))
+        close_packet_filter = lambda p1, p2: n_milli_seconds_after(p1, p2, 50)
+        packets_after = list(filter(lambda p2: close_packet_filter(packet_aggregate, p2), packet_aggregates))
         if len(packets_after) == 0: continue
-        packets_after.sort(key=lambda p: p.min)
-
-        print(f"Packet addr={packet_aggregate.advertising_address} might map to ->")
+        probabilities_and_candidates: list[tuple[float, PacketAggregateInfo]] = []
         # the average time between all packets should also be similar 
-        for after_aggrrgate2 in packets_after:
-            max_avg_time =  packet_aggregate.average_difference * CONFIDANCE_FACTOR 
-            min_avg_time = packet_aggregate.average_difference * (1/CONFIDANCE_FACTOR) 
-            print(f"       addr={after_aggrrgate2.advertising_address}")
-            if after_aggrrgate2.average_difference > max_avg_time\
-                    or after_aggrrgate2.average_difference < min_avg_time:
-                        print("^^^^^^^NOT CONFIDANT^^^^^^^")
-                        continue
+        for after_aggregate in packets_after:
+            probabilities_and_candidates.append((1/len(packets_after) ,after_aggregate))
+        packet_aggregate.next_group_candidates = probabilities_and_candidates
+
+    for packet_aggregate in advertising_address_to_packet_info.values():
+        if packet_aggregate.next_group_candidates:
+            packet_aggregate.show_tree()
+
+    refined_aggregate_order: list[PacketAggregateInfo] = []
+    for packet_aggregate in packet_aggregates:
+        get_refined_aggregate_order(refined_aggregate_order, packet_aggregate)
+    refined_packet_order: list[TruncatedPacket] = []
+    for aggregate in refined_aggregate_order:
+        refined_packet_order.extend(advertising_address_to_packets[aggregate.advertising_address])
+
+    return refined_packet_order
+
+def get_refined_aggregate_order(
+        refined_aggregate_order: list[PacketAggregateInfo],
+        packet_aggregate: PacketAggregateInfo):
+    if packet_aggregate in refined_aggregate_order: return
+    refined_aggregate_order.append(packet_aggregate)
+    for candidate in packet_aggregate.next_group_candidates:
+        get_refined_aggregate_order(
+                refined_aggregate_order,
+                candidate[1]
+                )
 
 
-
+def n_milli_seconds_after(p1: PacketAggregateInfo, p2: PacketAggregateInfo, n: float) -> bool:
+    n = n / 100
+    milliseconds_after = p2.first_packet.time_stamp - p1.last_packet.time_stamp
+    if milliseconds_after < n and milliseconds_after > 0:
+        return True
+    return False
 
 # creates graph using time_stmap advertising address
 def analyze_packets_basic2d(packets: list[TruncatedPacket]):
-    time_of_first_packet = packets[0].time_stamp
-    advertising_address_to_packets = top_n_packets_by_address(packets, 10)
-    for i, (advertising_address, packets) in enumerate(advertising_address_to_packets.items()):
-        x_values = list(map(lambda p: p.time_stamp - time_of_first_packet, packets)) 
-        y_values = [i + 1] * len(packets)
-        plt.plot(x_values, y_values, marker='o', linestyle='None', label=f'Packet set {advertising_address}')
+    start_time = 0 # can change to the first packet's time
+    address_to_index: dict[str, int] = {}
+    index_to_packets: dict[int, list[TruncatedPacket]] = {}
+    last_index = 0
+    for packet in packets:
+        if packet.advertising_address in address_to_index:
+            index = address_to_index[packet.advertising_address]
+            index_to_packets[index].append(packet)
+            # print(packet.company_id, end=",")
+        else:
+            # print("\n-----------------------------\n")
+            address_to_index[packet.advertising_address] = last_index
+            index_to_packets[last_index] = [packet]
+            last_index += 1
+
+    for index in address_to_index.values():
+        packets = index_to_packets[index]
+        x_values = list(map(lambda p: p.time_stamp - start_time, packets)) 
+        y_values = [index] * len(packets)
+        plt.plot(x_values, y_values, marker='o', linestyle='None')
+
     plt.xlabel('Time since first packet')
     plt.ylabel('Indexed Packet Address')
-    plt.legend()
+    if len(address_to_index.keys()) <= 50:
+        plt.legend()
     plt.title('Packet Analaysis')
     plt.show()
 
@@ -108,18 +185,22 @@ def get_packets_from_pcapng(file_path: str, amount_of_packets: int) -> list[Trun
                 time_stamp = float(packet.sniff_timestamp) #pyright: ignore
                 # if time_stamp > 100: continue
                 field_names = layer_obj.field_names
-                # TODO look deper into company_id
-                #if "btcommon_eir_ad_entry_company_id" in field_names:
-                #    print(layer_obj.btcommon_eir_ad_entry_company_id)
                 if "advertising_address" in field_names :
                     power_level = 0
+                    company_id = '0xFFFF' # default / special use 
                     if "btcommon_eir_ad_entry_power_level" in field_names:
-                        power_level = layer_obj.btcommon_eir_ad_entry_power_level
+                        try:
+                            power_level = int(layer_obj.btcommon_eir_ad_entry_power_level)
+                        except ValueError:
+                            pass
+                    if "btcommon_eir_ad_entry_company_id" in field_names:
+                        company_id = layer_obj.btcommon_eir_ad_entry_company_id
 
                     truncated_packet = TruncatedPacket(
                             time_stamp=time_stamp,
                             advertising_address=layer_obj.advertising_address,
-                            power_level=power_level
+                            power_level=power_level,
+                            company_id=int(company_id, 16) # pyright: ignore
                             )
                     truncated_packets.append(truncated_packet)
                 else:
@@ -130,7 +211,6 @@ def get_packets_from_pcapng(file_path: str, amount_of_packets: int) -> list[Trun
         progress_bar.update()
     progress_bar.close()
     capture.close()
-    print(len(truncated_packets))
     return truncated_packets
 
 def get_packets_from_avro(file_path: str, numPackets: int) -> list[TruncatedPacket]:
@@ -144,13 +224,13 @@ def get_packets_from_avro(file_path: str, numPackets: int) -> list[TruncatedPack
                 time_stamp = time_mac.get("time_stamp"), # pyright: ignore
                 advertising_address = time_mac.get("advertising_address"), # pyright: ignore
                 power_level = time_mac.get("power_level"), #pyright: ignore
+                company_id = time_mac.get("company_id"), #pyright: ignore
         )
         packets.append(packet)
         progress_bar.update()
     progress_bar.close()
     # displayAvro(file_path)
     return packets
-
 
 def write_to_avro(file_path: str, packets: list[TruncatedPacket]):
     schema = avro.schema.parse(open("./avro/timeMacPair.avsc", "rb").read()) # pyright: ignore
@@ -160,6 +240,7 @@ def write_to_avro(file_path: str, packets: list[TruncatedPacket]):
             "time_stamp": packet.time_stamp,
             "advertising_address": format_mac(packet.advertising_address),
             "power_level": packet.power_level,
+            "company_id": packet.company_id,
             })
         # print(packet.time_stamp)
     writer.close()
@@ -176,8 +257,9 @@ def do_analyzing(file_path: str, amount_of_packets: int = 0, is_fresh = False):
         packets = get_packets_from_pcapng(file_path, amount_of_packets)
         write_to_avro(possibly_cached_avro, packets)
 
-    analyze_packets_cmd_out(packets)
-    analyze_packets_basic2d(packets)
+    refined_order_packets = analyze_packets_cmd_out(packets)
+    print(len(refined_order_packets))
+    analyze_packets_basic2d(refined_order_packets)
 
 def format_mac(address: str) -> int:
     mac_address = address.replace(':', '')
