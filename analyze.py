@@ -88,22 +88,30 @@ class PacketAggregateInfo:
             )
             packet_aggregate.branch(tree, new_path)
 
+
 BUFFER_TIME_MILLIS = 500
+
+
 class PacketAnalysisBuffer:
     def __init__(self) -> None:
         self.packets_in_buffer: list[TruncatedPacket] = []
         self.packet_count_in_buffer: dict[str, int] = defaultdict(int)
-        self.advertising_address_to_packet_aggregate_info: dict[str, PacketAggregateInfo]
+        self.advertising_address_to_packet_aggregate_info: dict[
+            str, PacketAggregateInfo
+        ]
 
     def add_packet(self, packet: TruncatedPacket):
         self.packet_count_in_buffer[packet.advertising_address] += 1
         self.packets_in_buffer.append(packet)
 
     def resolve_packets_in_buffer(self, current_time: float):
-        while len(self.packets_in_buffer) > 0 and self.packets_in_buffer[0].time_stamp < (current_time - BUFFER_TIME_MILLIS):
+        while len(self.packets_in_buffer) > 0 and self.packets_in_buffer[
+            0
+        ].time_stamp < (current_time - BUFFER_TIME_MILLIS):
             entry_packet = self.packets_in_buffer.pop(0)
             self.packet_count_in_buffer[entry_packet.advertising_address] -= 1
         pass
+
 
 # ananlyze
 def analyze_packets_cmd_out(packets: list[TruncatedPacket], current_time: float):
@@ -112,59 +120,19 @@ def analyze_packets_cmd_out(packets: list[TruncatedPacket], current_time: float)
     #     to the difference between the previous packets of that address then its not
     #     the same device
     # advertising_address_to_packets = top_n_packets_by_address(packets, 300)
-    advertising_address_to_counter: dict[str, int] = {}
-    advertising_address_to_packet_info: dict[str, PacketAggregateInfo] = {}
+    advertising_address_to_counter: dict[str, int] = defaultdict(int)
+    advertising_address_to_max_time_stamp: dict[str, float] = {}
+    buffer_advertising_address_to_counter: dict[str, int] = defaultdict(int)
+    advertising_address_to_connected_addres: dict[str, str] = {}
     for packet in packets:
-        advertising_address = packet.advertising_address
-        if advertising_address_to_counter
-        packet_count = 0 
-        if 2 > len(packets):
-            continue
-        # may need to sort this idkk
-        differences = [
-            packets[i + 1].time_stamp - packets[i].time_stamp
-            for i in range(len(packets) - 1)
-        ]
-        advertising_address_to_packet_info[advertising_address] = PacketAggregateInfo(
-            advertising_address=advertising_address,
-            average_difference=sum(differences) / len(differences),
-            first_packet=min(packets, key=lambda p: p.time_stamp),
-            last_packet=max(packets, key=lambda p: p.time_stamp),
-            next_group_candidates=[],
+        advertising_address_to_counter[packet.advertising_address] += 1
+        advertising_address_to_max_time_stamp[packet.advertising_address] = (
+            packet.time_stamp
         )
+        if packet.time_stamp > current_time - BUFFER_TIME_MILLIS:
+            buffer_advertising_address_to_counter[packet.advertising_address] += 1
 
-    packet_aggregates = list(advertising_address_to_packet_info.values())
-    for packet_aggregate in advertising_address_to_packet_info.values():
-        close_packet_filter = lambda p1, p2: n_milli_seconds_after(p1, p2, 50)
-        packets_after = list(
-            filter(
-                lambda p2: close_packet_filter(packet_aggregate, p2), packet_aggregates
-            )
-        )
-        if len(packets_after) == 0:
-            continue
-        probabilities_and_candidates: list[tuple[float, PacketAggregateInfo]] = []
-        # the average time between all packets should also be similar
-        for after_aggregate in packets_after:
-            probabilities_and_candidates.append(
-                (1 / len(packets_after), after_aggregate)
-            )
-        packet_aggregate.next_group_candidates = probabilities_and_candidates
-
-    for packet_aggregate in advertising_address_to_packet_info.values():
-        if packet_aggregate.next_group_candidates:
-            packet_aggregate.show_tree()
-
-    refined_aggregate_order: list[PacketAggregateInfo] = []
-    for packet_aggregate in packet_aggregates:
-        get_refined_aggregate_order(refined_aggregate_order, packet_aggregate)
-    refined_packet_order: list[TruncatedPacket] = []
-    for aggregate in refined_aggregate_order:
-        refined_packet_order.extend(
-            advertising_address_to_packets[aggregate.advertising_address]
-        )
-
-    return refined_packet_order
+    return
 
 
 def get_refined_aggregate_order(
