@@ -1,6 +1,7 @@
 # BTLE Research
 This project is a POF algorithm that maps groups of BLE packets together as a single device despite MAC address randomization through address time changes as well as device heuristics.
 
+![Logic Flow](assets/algorithm-flowchart.png)
 ## Setup
 0. Ensure Wireshark is installed
 1. Create Python env
