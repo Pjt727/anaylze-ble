@@ -1,8 +1,9 @@
 # BTLE Research
+This project is a POF algorithm that maps groups of BLE packets together as a single device despite MAC address randomization through address time changes as well as device heuristics.
 
 ## Setup
-0. ensure wireshark is installed
-1. Create python env
+0. Ensure Wireshark is installed
+1. Create Python env
 ex: `python -m venv venv`
 2. Activate env
 ex: `.\venv\Scripts\activate` 
